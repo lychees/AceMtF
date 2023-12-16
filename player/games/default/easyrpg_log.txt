@@ -1,266 +1,3 @@
-[2023-12-16 16:25:30] Debug: EasyRPG Player 0.7 git+460@9ee72af7-dirty (2023-01-26) started
-[2023-12-16 16:25:30] Debug: ==============================================================
-[2023-12-16 16:25:30] Debug: CLI: 
-[2023-12-16 16:25:30] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
-[2023-12-16 16:25:30] Debug: Seeded the RNG with 1702715129.
-[2023-12-16 16:25:30] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
-[2023-12-16 16:25:30] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
-[2023-12-16 16:25:30] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
-[2023-12-16 16:25:30] Debug: Detected encoding: ibm-5348_P100-1997
-[2023-12-16 16:25:30] Debug: Game and Save Directory:
-[2023-12-16 16:25:30] Debug: 1: [Native] 
-[2023-12-16 16:25:30] Debug: Loading game Äæ×ªÈË¹¤ÉÙÅ®
-[2023-12-16 16:25:30] Debug: Using RPG2k3 (English release, v1.11) Interpreter
-[2023-12-16 16:25:30] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
-[2023-12-16 16:25:30] Debug: Adding D:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
-[2023-12-16 16:25:30] Debug: RTP is "Official English" (675/675)
-[2023-12-16 16:25:30] Debug: RTP path C:\RPG2003\RTP is invalid, not adding
-[2023-12-16 16:25:30] Debug: Patch configuration: dynrpg=false maniac=false
-[2023-12-16 16:25:30] Debug: Cannot find: Font/ExFont
-[2023-12-16 16:25:30] Debug: Cannot find: ./ExFont
-[2023-12-16 16:25:30] Debug: Loading ExFont from RPG_RT.exe
-[2023-12-16 16:25:30] Debug: EXEReader: EXFONT resource found (DE 0xe9f20; 0xeff60; len 0x2168)
-[2023-12-16 16:25:30] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
-[2023-12-16 16:25:30] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
-[2023-12-16 16:25:30] Debug: Cannot find: Font/Font
-[2023-12-16 16:25:30] Debug: Cannot find: Font/Font2
-[2023-12-16 16:25:31] Debug: libpng: iCCP: known incorrect sRGB profile
-[2023-12-16 16:25:31] Debug: libpng: cHRM: inconsistent chromaticities
-[2023-12-16 16:25:31] Debug: Game uses RTP "Official English"
-[2023-12-16 16:25:31] Debug: Fluidsynth: Could not load soundfont.
-[2023-12-16 16:25:33] Debug: Starting new game
-[2023-12-16 16:25:33] Debug: Loaded Map Map0001.lmu
-[2023-12-16 16:25:33] Debug: Tree: MAP0001
-[2023-12-16 16:25:34] Debug: Cannot find: Sound/ÄæÞD²ÃÅÐ - ´ò×ÖÒô
-[2023-12-16 16:25:34] Debug: Sound not found: ÄæÞD²ÃÅÐ - ´ò×ÖÒô
-[2023-12-16 16:25:34] Debug: \C[15]2101 Äê£¬11 ÔÂ 24 ÈÕ
-[2023-12-16 16:25:35] Debug: \C[15]2101 Äê£¬11 ÔÂ 24 ÈÕ [2x]
-[2023-12-16 16:25:35] Debug: Cannot find: Sound/ÄæÞD²ÃÅÐ - ´ò×ÖÒô
-[2023-12-16 16:25:35] Debug: Sound not found: ÄæÞD²ÃÅÐ - ´ò×ÖÒô
-[2023-12-16 16:25:35] Debug: Cannot find: Sound/ÄæÞD²ÃÅÐ - ´ò×ÖÒô
-[2023-12-16 16:25:35] Debug: Sound not found: ÄæÞD²ÃÅÐ - ´ò×ÖÒô
-[2023-12-16 16:25:35] Debug: Cannot find: Sound/ÄæÞD²ÃÅÐ - ´ò×ÖÒô
-[2023-12-16 16:25:35] Debug: Sound not found: ÄæÞD²ÃÅÐ - ´ò×ÖÒô
-[2023-12-16 16:25:35] Debug: \C[15]¶«¾©Ê±¼ä£¬04:38 AM ÐÇÆÚÈý
-[2023-12-16 16:25:35] Debug: \C[15]¶«¾©Ê±¼ä£¬04:38 AM ÐÇÆÚÈý [2x]
-[2023-12-16 16:25:35] Debug: Cannot find: Sound/ÄæÞD²ÃÅÐ - ´ò×ÖÒô
-[2023-12-16 16:25:35] Debug: Sound not found: ÄæÞD²ÃÅÐ - ´ò×ÖÒô
-[2023-12-16 16:25:35] Debug: Cannot find: Sound/ÄæÞD²ÃÅÐ - ´ò×ÖÒô
-[2023-12-16 16:25:35] Debug: Sound not found: ÄæÞD²ÃÅÐ - ´ò×ÖÒô
-[2023-12-16 16:25:36] Debug: Cannot find: Sound/ÄæÞD²ÃÅÐ - ´ò×ÖÒô
-[2023-12-16 16:25:36] Debug: Sound not found: ÄæÞD²ÃÅÐ - ´ò×ÖÒô
-[2023-12-16 16:25:36] Debug: Cannot find: Sound/ÄæÞD²ÃÅÐ - ´ò×ÖÒô
-[2023-12-16 16:25:36] Debug: Sound not found: ÄæÞD²ÃÅÐ - ´ò×ÖÒô
-[2023-12-16 16:25:36] Debug: Cannot find: Sound/ÄæÞD²ÃÅÐ - ´ò×ÖÒô
-[2023-12-16 16:25:36] Debug: Sound not found: ÄæÞD²ÃÅÐ - ´ò×ÖÒô
-[2023-12-16 16:25:36] Debug: Cannot find: Sound/ÄæÞD²ÃÅÐ - ´ò×ÖÒô
-[2023-12-16 16:25:36] Debug: Sound not found: ÄæÞD²ÃÅÐ - ´ò×ÖÒô
-[2023-12-16 16:25:36] Debug: Cannot find: Sound/ÄæÞD²ÃÅÐ - ´ò×ÖÒô
-[2023-12-16 16:25:36] Debug: Sound not found: ÄæÞD²ÃÅÐ - ´ò×ÖÒô
-[2023-12-16 16:25:38] Debug: \C[2]¶£ÁåÁå... ¶£ÁåÁå...
-[2023-12-16 16:25:40] Debug: \C[2]¶£ÁåÁå... ¶£ÁåÁå... [4x]
-[2023-12-16 16:25:40] Debug: ÕâÃ´Íí£¬»áÊÇË­´òÀ´µÄµç»°£¿
-[2023-12-16 16:25:40] Debug: ÕâÃ´Íí£¬»áÊÇË­´òÀ´µÄµç»°£
-[2023-12-16 16:25:40] Debug: ¿
-[2023-12-16 16:25:41] Debug: µç»°ºÅÂë¿´ÆðÀ´Ò²ÏñÊÇËæ»úÉú³ÉµÄÒ»´ÎÐÔÂÒÂë¡£
-[2023-12-16 16:25:41] Debug: µç»°ºÅÂë¿´ÆðÀ´Ò²ÏñÊÇËæ»úÉ
-[2023-12-16 16:25:41] Debug: ú³ÉµÄÒ»´ÎÐÔÂÒÂë¡£
-[2023-12-16 16:25:41] Debug: ºÅÂë¹éÊôµØ...
-[2023-12-16 16:25:42] Debug: ºÅÂë¹éÊôµØ... [2x]
-[2023-12-16 16:25:42] Debug: Cannot find: Sound/SE-Î¢¾ª
-[2023-12-16 16:25:42] Debug: Sound not found: SE-Î¢¾ª
-[2023-12-16 16:25:42] Debug: ÈðÊ¿£¿
-[2023-12-16 16:25:43] Debug: ÈðÊ¿£¿ [2x]
-[2023-12-16 16:25:43] Debug: ¸Ã²»»áÊÇÊ²Ã´¿ç¹úÕ©Æ­µç»°°É...
-[2023-12-16 16:25:43] Debug: ¸Ã²»»áÊÇÊ²Ã´¿ç¹úÕ©Æ­µç»°°
-[2023-12-16 16:25:43] Debug: É...
-[2023-12-16 16:25:43] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
-[2023-12-16 16:25:43] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
-[2023-12-16 16:26:12] Debug: EasyRPG Player 0.7 git+460@9ee72af7-dirty (2023-01-26) started
-[2023-12-16 16:26:12] Debug: ==============================================================
-[2023-12-16 16:26:12] Debug: CLI: 
-[2023-12-16 16:26:12] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
-[2023-12-16 16:26:12] Debug: Seeded the RNG with 1702715171.
-[2023-12-16 16:26:12] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
-[2023-12-16 16:26:12] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
-[2023-12-16 16:26:12] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
-[2023-12-16 16:26:12] Debug: Detected encoding: ibm-5348_P100-1997
-[2023-12-16 16:26:12] Debug: Game and Save Directory:
-[2023-12-16 16:26:12] Debug: 1: [Native] 
-[2023-12-16 16:26:12] Debug: Loading game Äæ×ªÈË¹¤ÉÙÅ®
-[2023-12-16 16:26:12] Debug: Using RPG2k3 (English release, v1.11) Interpreter
-[2023-12-16 16:26:12] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
-[2023-12-16 16:26:12] Debug: Adding D:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
-[2023-12-16 16:26:12] Debug: RTP is "Official English" (675/675)
-[2023-12-16 16:26:12] Debug: RTP path C:\RPG2003\RTP is invalid, not adding
-[2023-12-16 16:26:12] Debug: Patch configuration: dynrpg=false maniac=false
-[2023-12-16 16:26:12] Debug: Cannot find: Font/ExFont
-[2023-12-16 16:26:12] Debug: Cannot find: ./ExFont
-[2023-12-16 16:26:12] Debug: Loading ExFont from RPG_RT.exe
-[2023-12-16 16:26:12] Debug: EXEReader: EXFONT resource found (DE 0xe9f20; 0xeff60; len 0x2168)
-[2023-12-16 16:26:12] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
-[2023-12-16 16:26:12] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
-[2023-12-16 16:26:12] Debug: Cannot find: Font/Font
-[2023-12-16 16:26:12] Debug: Cannot find: Font/Font2
-[2023-12-16 16:26:12] Debug: libpng: iCCP: known incorrect sRGB profile
-[2023-12-16 16:26:12] Debug: libpng: cHRM: inconsistent chromaticities
-[2023-12-16 16:26:12] Debug: Game uses RTP "Official English"
-[2023-12-16 16:26:12] Debug: Fluidsynth: Could not load soundfont.
-[2023-12-16 16:26:14] Debug: Starting new game
-[2023-12-16 16:26:14] Debug: Loaded Map Map0001.lmu
-[2023-12-16 16:26:14] Debug: Tree: MAP0001
-[2023-12-16 16:26:15] Debug: Cannot find: Sound/ÄæÞD²ÃÅÐ - ´ò×ÖÒô
-[2023-12-16 16:26:15] Debug: Sound not found: ÄæÞD²ÃÅÐ - ´ò×ÖÒô
-[2023-12-16 16:26:16] Debug: \C[15]2101 Äê£¬11 ÔÂ 24 ÈÕ
-[2023-12-16 16:26:16] Debug: \C[15]2101 Äê£¬11 ÔÂ 24 ÈÕ [2x]
-[2023-12-16 16:26:16] Debug: Cannot find: Sound/ÄæÞD²ÃÅÐ - ´ò×ÖÒô
-[2023-12-16 16:26:16] Debug: Sound not found: ÄæÞD²ÃÅÐ - ´ò×ÖÒô
-[2023-12-16 16:26:16] Debug: Cannot find: Sound/ÄæÞD²ÃÅÐ - ´ò×ÖÒô
-[2023-12-16 16:26:16] Debug: Sound not found: ÄæÞD²ÃÅÐ - ´ò×ÖÒô
-[2023-12-16 16:26:16] Debug: Cannot find: Sound/ÄæÞD²ÃÅÐ - ´ò×ÖÒô
-[2023-12-16 16:26:16] Debug: Sound not found: ÄæÞD²ÃÅÐ - ´ò×ÖÒô
-[2023-12-16 16:26:16] Debug: Cannot find: Sound/ÄæÞD²ÃÅÐ - ´ò×ÖÒô
-[2023-12-16 16:26:16] Debug: Sound not found: ÄæÞD²ÃÅÐ - ´ò×ÖÒô
-[2023-12-16 16:26:17] Debug: Cannot find: Sound/ÄæÞD²ÃÅÐ - ´ò×ÖÒô
-[2023-12-16 16:26:17] Debug: Sound not found: ÄæÞD²ÃÅÐ - ´ò×ÖÒô
-[2023-12-16 16:26:17] Debug: Cannot find: Sound/ÄæÞD²ÃÅÐ - ´ò×ÖÒô
-[2023-12-16 16:26:17] Debug: Sound not found: ÄæÞD²ÃÅÐ - ´ò×ÖÒô
-[2023-12-16 16:26:17] Debug: Cannot find: Sound/ÄæÞD²ÃÅÐ - ´ò×ÖÒô
-[2023-12-16 16:26:17] Debug: Sound not found: ÄæÞD²ÃÅÐ - ´ò×ÖÒô
-[2023-12-16 16:26:17] Debug: Cannot find: Sound/ÄæÞD²ÃÅÐ - ´ò×ÖÒô
-[2023-12-16 16:26:17] Debug: Sound not found: ÄæÞD²ÃÅÐ - ´ò×ÖÒô
-[2023-12-16 16:26:17] Debug: Cannot find: Sound/ÄæÞD²ÃÅÐ - ´ò×ÖÒô
-[2023-12-16 16:26:17] Debug: Sound not found: ÄæÞD²ÃÅÐ - ´ò×ÖÒô
-[2023-12-16 16:26:18] Debug: Cannot find: Sound/ÄæÞD²ÃÅÐ - ´ò×ÖÒô
-[2023-12-16 16:26:18] Debug: Sound not found: ÄæÞD²ÃÅÐ - ´ò×ÖÒô
-[2023-12-16 16:26:23] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
-[2023-12-16 16:26:23] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
-[2023-12-16 16:27:09] Debug: EasyRPG Player 0.7 git+460@9ee72af7-dirty (2023-01-26) started
-[2023-12-16 16:27:09] Debug: ==============================================================
-[2023-12-16 16:27:09] Debug: CLI: 
-[2023-12-16 16:27:09] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
-[2023-12-16 16:27:09] Debug: Seeded the RNG with 1702715229.
-[2023-12-16 16:27:09] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
-[2023-12-16 16:27:09] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
-[2023-12-16 16:27:09] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
-[2023-12-16 16:27:09] Debug: Detected encoding: windows-936-2000
-[2023-12-16 16:27:09] Debug: Game and Save Directory:
-[2023-12-16 16:27:09] Debug: 1: [Native] 
-[2023-12-16 16:27:09] Debug: Loading game 逆转小药娘
-[2023-12-16 16:27:09] Debug: Using RPG2k3 (English release, v1.11) Interpreter
-[2023-12-16 16:27:09] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
-[2023-12-16 16:27:09] Debug: Adding D:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
-[2023-12-16 16:27:09] Debug: RTP is "Official English" (675/675)
-[2023-12-16 16:27:09] Debug: RTP path C:\RPG2003\RTP is invalid, not adding
-[2023-12-16 16:27:09] Debug: Patch configuration: dynrpg=false maniac=false
-[2023-12-16 16:27:09] Debug: Cannot find: Font/ExFont
-[2023-12-16 16:27:09] Debug: Cannot find: ./ExFont
-[2023-12-16 16:27:09] Debug: Loading ExFont from RPG_RT.exe
-[2023-12-16 16:27:09] Debug: EXEReader: EXFONT resource found (DE 0xe9f20; 0xeff60; len 0x2168)
-[2023-12-16 16:27:09] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
-[2023-12-16 16:27:09] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
-[2023-12-16 16:27:09] Debug: Cannot find: Font/Font
-[2023-12-16 16:27:09] Debug: Cannot find: Font/Font2
-[2023-12-16 16:27:11] Debug: Loaded Map Map0001.lmu
-[2023-12-16 16:27:11] Debug: Tree: MAP0001
-[2023-12-16 16:27:12] Debug: Game uses RTP "Official English"
-[2023-12-16 16:27:12] Debug: \C[15]2101 年，11 月 24 日
-[2023-12-16 16:27:13] Debug: \C[15]2101 年，11 月 24 日 [2x]
-[2023-12-16 16:27:13] Debug: \C[15]东京时间，04:38 AM 星期三
-[2023-12-16 16:27:21] Debug: \C[15]东京时间，04:38 AM 星期三 [2x]
-[2023-12-16 16:27:21] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
-[2023-12-16 16:27:21] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
-[2023-12-16 16:27:50] Debug: EasyRPG Player 0.7 git+460@9ee72af7-dirty (2023-01-26) started
-[2023-12-16 16:27:50] Debug: ==============================================================
-[2023-12-16 16:27:50] Debug: CLI: 
-[2023-12-16 16:27:50] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
-[2023-12-16 16:27:50] Debug: Seeded the RNG with 1702715270.
-[2023-12-16 16:27:50] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
-[2023-12-16 16:27:50] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
-[2023-12-16 16:27:50] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
-[2023-12-16 16:27:50] Debug: Detected encoding: windows-936-2000
-[2023-12-16 16:27:50] Debug: Game and Save Directory:
-[2023-12-16 16:27:50] Debug: 1: [Native] 
-[2023-12-16 16:27:50] Debug: Loading game 逆转小药娘
-[2023-12-16 16:27:50] Debug: Using RPG2k3 (English release, v1.11) Interpreter
-[2023-12-16 16:27:50] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
-[2023-12-16 16:27:50] Debug: Adding D:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
-[2023-12-16 16:27:51] Debug: RTP is "Official English" (675/675)
-[2023-12-16 16:27:51] Debug: RTP path C:\RPG2003\RTP is invalid, not adding
-[2023-12-16 16:27:51] Debug: Patch configuration: dynrpg=false maniac=false
-[2023-12-16 16:27:51] Debug: Cannot find: Font/ExFont
-[2023-12-16 16:27:51] Debug: Cannot find: ./ExFont
-[2023-12-16 16:27:51] Debug: Loading ExFont from RPG_RT.exe
-[2023-12-16 16:27:51] Debug: EXEReader: EXFONT resource found (DE 0xe9f20; 0xeff60; len 0x2168)
-[2023-12-16 16:27:51] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
-[2023-12-16 16:27:51] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
-[2023-12-16 16:27:51] Debug: Cannot find: Font/Font
-[2023-12-16 16:27:51] Debug: Cannot find: Font/Font2
-[2023-12-16 16:27:52] Debug: Loaded Map Map0001.lmu
-[2023-12-16 16:27:52] Debug: Tree: MAP0001
-[2023-12-16 16:27:53] Debug: Game uses RTP "Official English"
-[2023-12-16 16:27:53] Debug: \C[15]2101 年，11 月 24 日
-[2023-12-16 16:27:56] Debug: \C[15]2101 年，11 月 24 日 [2x]
-[2023-12-16 16:27:56] Debug: \C[15]东京时间，04:38 AM 星期三
-[2023-12-16 16:27:57] Debug: \C[15]东京时间，04:38 AM 星期三 [2x]
-[2023-12-16 16:27:57] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
-[2023-12-16 16:27:57] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
-[2023-12-16 16:28:11] Debug: EasyRPG Player 0.7 git+460@9ee72af7-dirty (2023-01-26) started
-[2023-12-16 16:28:11] Debug: ==============================================================
-[2023-12-16 16:28:11] Debug: CLI: 
-[2023-12-16 16:28:11] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
-[2023-12-16 16:28:11] Debug: Seeded the RNG with 1702715290.
-[2023-12-16 16:28:11] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
-[2023-12-16 16:28:11] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
-[2023-12-16 16:28:11] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
-[2023-12-16 16:28:11] Debug: Detected encoding: windows-936-2000
-[2023-12-16 16:28:11] Debug: Game and Save Directory:
-[2023-12-16 16:28:11] Debug: 1: [Native] 
-[2023-12-16 16:28:11] Debug: Loading game 逆转小药娘
-[2023-12-16 16:28:11] Debug: Using RPG2k3 (English release, v1.11) Interpreter
-[2023-12-16 16:28:11] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
-[2023-12-16 16:28:11] Debug: Adding D:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
-[2023-12-16 16:28:11] Debug: RTP is "Official English" (675/675)
-[2023-12-16 16:28:11] Debug: RTP path C:\RPG2003\RTP is invalid, not adding
-[2023-12-16 16:28:11] Debug: Patch configuration: dynrpg=false maniac=false
-[2023-12-16 16:28:11] Debug: Cannot find: Font/ExFont
-[2023-12-16 16:28:11] Debug: Cannot find: ./ExFont
-[2023-12-16 16:28:11] Debug: Loading ExFont from RPG_RT.exe
-[2023-12-16 16:28:11] Debug: EXEReader: EXFONT resource found (DE 0xe9f20; 0xeff60; len 0x2168)
-[2023-12-16 16:28:11] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
-[2023-12-16 16:28:11] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
-[2023-12-16 16:28:11] Debug: Cannot find: Font/Font
-[2023-12-16 16:28:11] Debug: Cannot find: Font/Font2
-[2023-12-16 16:28:12] Debug: Loaded Map Map0001.lmu
-[2023-12-16 16:28:12] Debug: Tree: MAP0001
-[2023-12-16 16:28:13] Debug: Game uses RTP "Official English"
-[2023-12-16 16:28:14] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
-[2023-12-16 16:28:14] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
-[2023-12-16 16:28:22] Debug: EasyRPG Player 0.7 git+460@9ee72af7-dirty (2023-01-26) started
-[2023-12-16 16:28:22] Debug: ==============================================================
-[2023-12-16 16:28:22] Debug: CLI: 
-[2023-12-16 16:28:22] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
-[2023-12-16 16:28:22] Debug: Seeded the RNG with 1702715302.
-[2023-12-16 16:28:22] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
-[2023-12-16 16:28:22] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
-[2023-12-16 16:28:22] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
-[2023-12-16 16:28:22] Debug: Detected encoding: windows-936-2000
-[2023-12-16 16:28:22] Debug: Game and Save Directory:
-[2023-12-16 16:28:22] Debug: 1: [Native] 
-[2023-12-16 16:28:22] Debug: Loading game 逆转人工少女
-[2023-12-16 16:28:22] Debug: Using RPG2k3 (English release, v1.11) Interpreter
-[2023-12-16 16:28:22] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
-[2023-12-16 16:28:22] Debug: Adding D:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
-[2023-12-16 16:28:22] Debug: RTP is "Official English" (675/675)
-[2023-12-16 16:28:22] Debug: RTP path C:\RPG2003\RTP is invalid, not adding
-[2023-12-16 16:28:22] Debug: Patch configuration: dynrpg=false maniac=false
-[2023-12-16 16:28:23] Debug: Cannot find: Font/ExFont
-[2023-12-16 16:28:23] Debug: Cannot find: ./ExFont
-[2023-12-16 16:28:23] Debug: Loading ExFont from RPG_RT.exe
-[2023-12-16 16:28:23] Debug: EXEReader: EXFONT resource found (DE 0xe9f20; 0xeff60; len 0x2168)
-[2023-12-16 16:28:23] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
-[2023-12-16 16:28:23] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
-[2023-12-16 16:28:23] Debug: Cannot find: Font/Font
 [2023-12-16 16:28:23] Debug: Cannot find: Font/Font2
 [2023-12-16 16:28:24] Debug: Loaded Map Map0001.lmu
 [2023-12-16 16:28:24] Debug: Tree: MAP0001
@@ -1302,3 +1039,310 @@
 [2023-12-16 22:45:26] Debug: 那可真是，令人沮丧的回忆。 [2x]
 [2023-12-16 22:45:26] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
 [2023-12-16 22:45:26] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-12-16 22:36:19] Debug: 眼前这位女孩，名字叫做绫里岛岛，因为某些原因，现在不得不寄居在我这里。
+[2023-12-16 22:36:19] Debug: 眼前这位女孩，名字叫做绫里岛岛，因为某些原因，现在
+[2023-12-16 22:36:19] Debug: 不得不寄居在我这里。
+[2023-12-17 00:35:26] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-12-17 00:35:26] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-12-17 00:35:28] Debug: EasyRPG Player 0.7 git+460@9ee72af7-dirty (2023-01-26) started
+[2023-12-17 00:35:28] Debug: ==============================================================
+[2023-12-17 00:35:28] Debug: CLI: 
+[2023-12-17 00:35:28] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2023-12-17 00:35:28] Debug: Seeded the RNG with 1702744528.
+[2023-12-17 00:35:28] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2023-12-17 00:35:28] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2023-12-17 00:35:28] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2023-12-17 00:35:28] Debug: Detected encoding: windows-936-2000
+[2023-12-17 00:35:28] Debug: Game and Save Directory:
+[2023-12-17 00:35:28] Debug: 1: [Native] 
+[2023-12-17 00:35:28] Debug: Loading game EasyRPG Player
+[2023-12-17 00:35:28] Debug: Using RPG2k3 (English release, v1.11) Interpreter
+[2023-12-17 00:35:28] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2023-12-17 00:35:28] Debug: Adding D:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2023-12-17 00:35:29] Debug: RTP is "Official English" (675/675)
+[2023-12-17 00:35:29] Debug: RTP path C:\RPG2003\RTP is invalid, not adding
+[2023-12-17 00:35:29] Debug: Patch configuration: dynrpg=false maniac=false
+[2023-12-17 00:35:29] Debug: Cannot find: Font/ExFont
+[2023-12-17 00:35:29] Debug: Cannot find: ./ExFont
+[2023-12-17 00:35:29] Debug: Loading ExFont from RPG_RT.exe
+[2023-12-17 00:35:29] Debug: EXEReader: EXFONT resource found (DE 0xe9f20; 0xeff60; len 0x2168)
+[2023-12-17 00:35:29] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-12-17 00:35:29] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-12-17 00:35:29] Debug: Cannot find: Font/Font
+[2023-12-17 00:35:29] Debug: Cannot find: Font/Font2
+[2023-12-17 00:35:30] Debug: Loaded Map Map0001.lmu
+[2023-12-17 00:35:30] Debug: Tree: MAP0001
+[2023-12-17 00:35:31] Debug: Game uses RTP "Official English"
+[2023-12-17 00:35:32] Debug: \C[15]2101 年，11 月 24 日
+[2023-12-17 00:35:34] Debug: \C[15]2101 年，11 月 24 日 [2x]
+[2023-12-17 00:35:34] Debug: \C[15]东京时间，04:38 AM 星期三
+[2023-12-17 00:35:35] Debug: \C[15]东京时间，04:38 AM 星期三 [2x]
+[2023-12-17 00:35:35] Debug: \C[2]叮铃铃... 叮铃铃...
+[2023-12-17 00:35:36] Debug: \C[2]叮铃铃... 叮铃铃... [2x]
+[2023-12-17 00:35:36] Debug: Fluidsynth: Could not load soundfont.
+[2023-12-17 00:35:36] Debug: \C[2]叮铃铃... 叮铃铃...
+[2023-12-17 00:35:37] Debug: \C[2]叮铃铃... 叮铃铃... [2x]
+[2023-12-17 00:35:37] Debug: \C[1]这么晚，会是谁打来的电话？
+[2023-12-17 00:35:38] Debug: \C[1]这么晚，会是谁打来的电话？ [2x]
+[2023-12-17 00:35:38] Debug: \C[1]电话号码看起来也像是什么随机生成的乱码。
+[2023-12-17 00:35:38] Debug: \C[1]电话号码看起来也像是什么随机生成的乱码。 [2x]
+[2023-12-17 00:35:38] Debug: 看一眼号码归属地...
+[2023-12-17 00:35:39] Debug: 看一眼号码归属地... [2x]
+[2023-12-17 00:35:39] Debug: \C[2]瑞士\C[0]？
+[2023-12-17 00:35:40] Debug: \C[2]瑞士\C[0]？ [2x]
+[2023-12-17 00:35:40] Debug: \C[1]该不会是什么跨国诈骗电话吧...
+[2023-12-17 00:35:40] Debug: \C[1]该不会是什么跨国诈骗电话吧... [2x]
+[2023-12-17 00:35:40] Debug: 等下... 从瑞士打来的话，该不会是... \C[2]那位大人\C[0]？
+[2023-12-17 00:35:40] Debug: 等下... 从瑞士打来的话，该不会是... \C[2]那位大人
+[2023-12-17 00:35:40] Debug: \C[0]？
+[2023-12-17 00:35:41] Debug: 电话里传来了陌生而又优雅的女孩子的声音。
+[2023-12-17 00:35:42] Debug: 电话里传来了陌生而又优雅的女孩子的声音。 [2x]
+[2023-12-17 00:35:42] Debug: ？？？「用快递员手机号查一下地址。」
+[2023-12-17 00:35:43] Debug: ？？？「用快递员手机号查一下地址。」 [2x]
+[2023-12-17 00:35:43] Debug: ？？？「然后报个警。」
+[2023-12-17 00:35:44] Debug: ？？？「然后报个警。」 [2x]
+[2023-12-17 00:35:44] Debug: ？？？「说明一下要用\C[2]亚甲基蓝\C[0]。」
+[2023-12-17 00:35:44] Debug: ？？？「说明一下要用\C[2]亚甲基蓝\C[0]。」 [2x]
+[2023-12-17 00:35:44] Debug: \C[1]果然是她。
+[2023-12-17 00:35:45] Debug: \C[1]果然是她。 [2x]
+[2023-12-17 00:35:45] Debug: \C[1]虽然你从未听过她的声音。
+[2023-12-17 00:35:46] Debug: \C[1]虽然你从未听过她的声音。 [2x]
+[2023-12-17 00:35:46] Debug: 但直觉是这么告诉你的。
+[2023-12-17 00:35:46] Debug: 但直觉是这么告诉你的。 [2x]
+[2023-12-17 00:35:46] Debug: ？？？「快！其它人都在睡觉！」
+[2023-12-17 00:35:47] Debug: ？？？「快！其它人都在睡觉！」 [2x]
+[2023-12-17 00:35:47] Debug: 电话挂断。
+[2023-12-17 00:35:47] Debug: 电话挂断。 [2x]
+[2023-12-17 00:35:47] Debug: 虽然你还没有完全搞清楚事情的来龙去脉。
+[2023-12-17 00:35:48] Debug: 虽然你还没有完全搞清楚事情的来龙去脉。 [2x]
+[2023-12-17 00:35:48] Debug: 但是出于对那个匆匆而过的声音的信任，你立即拨通了当地警视厅的电话，你知道一切都事不宜迟。
+[2023-12-17 00:35:48] Debug: 但是出于对那个匆匆而过的声音的信任，你立即拨通了当
+[2023-12-17 00:35:48] Debug: 地警视厅的电话，你知道一切都事不宜迟。
+[2023-12-17 00:35:49] Debug: 「汲虹君... 汲虹君... 」
+[2023-12-17 00:35:50] Debug: 「汲虹君... 汲虹君... 」 [2x]
+[2023-12-17 00:35:50] Debug: 「快起床，已经要到中午了！」
+[2023-12-17 00:35:51] Debug: 「快起床，已经要到中午了！」 [2x]
+[2023-12-17 00:35:51] Debug: 耳边传来熟悉的呼唤声。
+[2023-12-17 00:35:53] Debug: 耳边传来熟悉的呼唤声。 [2x]
+[2023-12-17 00:35:53] Debug: 我努力的起身，缓慢的睁开眼睛。
+[2023-12-17 00:35:53] Debug: 我努力的起身，缓慢的睁开眼睛。 [2x]
+[2023-12-17 00:35:53] Debug: 阳光缓缓的洒入眼帘，已经是午后了吗...
+[2023-12-17 00:35:54] Debug: 阳光缓缓的洒入眼帘，已经是午后了吗... [2x]
+[2023-12-17 00:35:54] Debug: ...
+[2023-12-17 00:35:56] Debug: ... [2x]
+[2023-12-17 00:35:56] Debug: 「什么嘛，明明昨天答应好岛岛今天要去电器街的！」
+[2023-12-17 00:35:57] Debug: 「什么嘛，明明昨天答应好岛岛今天要去电器街的！」 [2x]
+[2023-12-17 00:35:57] Debug: \C[1]眼前这位女孩，名字叫做绫里岛岛，因为某些原因，现在不得不寄居在我这里。
+[2023-12-17 00:35:57] Debug: \C[1]眼前这位女孩，名字叫做绫里岛岛，因为某些原因
+[2023-12-17 00:35:57] Debug: ，现在不得不寄居在我这里。
+[2023-12-17 00:36:00] Debug: \C[1]姑且可以算是，我的助手吧。
+[2023-12-17 00:36:00] Debug: \C[1]姑且可以算是，我的助手吧。 [2x]
+[2023-12-17 00:36:00] Debug: 「啊！对不起，是我昨晚忙的太晚了...」
+[2023-12-17 00:36:02] Debug: 「啊！对不起，是我昨晚忙的太晚了...」 [2x]
+[2023-12-17 00:36:02] Debug: 「我去收拾下，现在出发，应该也许还来得及...」
+[2023-12-17 00:36:03] Debug: 「我去收拾下，现在出发，应该也许还来得及...」 [2x]
+[2023-12-17 00:36:03] Debug: 「你能不能快点，《传颂之物》的发售活动下午 2 点就开始了，你已经没有吃饭的时间了！」
+[2023-12-17 00:36:03] Debug: 「你能不能快点，《传颂之物》的发售活动下午 2 点就
+[2023-12-17 00:36:03] Debug: 开始了，你已经没有吃饭的时间了！」
+[2023-12-17 00:36:04] Debug: 「是是是是，遵命！」
+[2023-12-17 00:36:05] Debug: 「是是是是，遵命！」 [2x]
+[2023-12-17 00:36:05] Debug: \C[1]说起来，我为什么要对这个家伙唯命是从？
+[2023-12-17 00:36:06] Debug: \C[1]说起来，我为什么要对这个家伙唯命是从？ [2x]
+[2023-12-17 00:36:06] Debug: 可是一边穿衣服，一边我又回想起了数小时前的事情。
+[2023-12-17 00:36:08] Debug: 可是一边穿衣服，一边我又回想起了数小时前的事情。 [2x]
+[2023-12-17 00:36:08] Debug: 那可真是，令人沮丧的回忆。
+[2023-12-17 00:36:13] Debug: 那可真是，令人沮丧的回忆。 [2x]
+[2023-12-17 00:36:13] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-12-17 00:36:13] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-12-17 00:38:23] Debug: EasyRPG Player 0.7 git+460@9ee72af7-dirty (2023-01-26) started
+[2023-12-17 00:38:23] Debug: ==============================================================
+[2023-12-17 00:38:23] Debug: CLI: 
+[2023-12-17 00:38:23] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2023-12-17 00:38:23] Debug: Seeded the RNG with 1702744702.
+[2023-12-17 00:38:23] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2023-12-17 00:38:23] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2023-12-17 00:38:23] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2023-12-17 00:38:23] Debug: Detected encoding: windows-936-2000
+[2023-12-17 00:38:23] Debug: Game and Save Directory:
+[2023-12-17 00:38:23] Debug: 1: [Native] 
+[2023-12-17 00:38:23] Debug: Loading game EasyRPG Player
+[2023-12-17 00:38:23] Debug: Using RPG2k3 (English release, v1.11) Interpreter
+[2023-12-17 00:38:23] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2023-12-17 00:38:23] Debug: Adding D:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2023-12-17 00:38:23] Debug: RTP is "Official English" (675/675)
+[2023-12-17 00:38:23] Debug: RTP path C:\RPG2003\RTP is invalid, not adding
+[2023-12-17 00:38:23] Debug: Patch configuration: dynrpg=false maniac=false
+[2023-12-17 00:38:23] Debug: Cannot find: Font/ExFont
+[2023-12-17 00:38:23] Debug: Cannot find: ./ExFont
+[2023-12-17 00:38:23] Debug: Loading ExFont from RPG_RT.exe
+[2023-12-17 00:38:23] Debug: EXEReader: EXFONT resource found (DE 0xe9f20; 0xeff60; len 0x2168)
+[2023-12-17 00:38:23] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-12-17 00:38:23] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-12-17 00:38:23] Debug: Cannot find: Font/Font
+[2023-12-17 00:38:23] Debug: Cannot find: Font/Font2
+[2023-12-17 00:38:24] Debug: Loaded Map Map0001.lmu
+[2023-12-17 00:38:24] Debug: Tree: MAP0001
+[2023-12-17 00:38:28] Debug: Game uses RTP "Official English"
+[2023-12-17 00:38:29] Debug: \C[15]2101 年，11 月 24 日
+[2023-12-17 00:38:31] Debug: \C[15]2101 年，11 月 24 日 [2x]
+[2023-12-17 00:38:31] Debug: \C[15]东京时间，04:38 AM 星期三
+[2023-12-17 00:38:35] Debug: \C[15]东京时间，04:38 AM 星期三 [2x]
+[2023-12-17 00:38:35] Debug: \C[2]叮铃铃... 叮铃铃...
+[2023-12-17 00:38:40] Debug: \C[2]叮铃铃... 叮铃铃... [2x]
+[2023-12-17 00:38:40] Debug: Fluidsynth: Could not load soundfont.
+[2023-12-17 00:38:40] Debug: \C[2]叮铃铃... 叮铃铃...
+[2023-12-17 00:38:41] Debug: \C[2]叮铃铃... 叮铃铃... [2x]
+[2023-12-17 00:38:41] Debug: \C[1]这么晚，会是谁打来的电话？
+[2023-12-17 00:38:49] Debug: \C[1]这么晚，会是谁打来的电话？ [2x]
+[2023-12-17 00:38:49] Debug: \C[1]电话号码看起来也像是什么随机生成的乱码。
+[2023-12-17 00:38:50] Debug: \C[1]电话号码看起来也像是什么随机生成的乱码。 [2x]
+[2023-12-17 00:38:50] Debug: 看一眼号码归属地...
+[2023-12-17 00:38:51] Debug: 看一眼号码归属地... [2x]
+[2023-12-17 00:38:51] Debug: \C[2]瑞士\C[0]？
+[2023-12-17 00:38:51] Debug: \C[2]瑞士\C[0]？ [2x]
+[2023-12-17 00:38:51] Debug: \C[1]该不会是什么跨国诈骗电话吧...
+[2023-12-17 00:38:53] Debug: \C[1]该不会是什么跨国诈骗电话吧... [2x]
+[2023-12-17 00:38:53] Debug: 等下... 从瑞士打来的话，该不会是... \C[2]那位大人\C[0]？
+[2023-12-17 00:38:53] Debug: 等下... 从瑞士打来的话，该不会是... \C[2]那位大人
+[2023-12-17 00:38:53] Debug: \C[0]？
+[2023-12-17 00:39:04] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-12-17 00:39:04] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-12-17 00:42:52] Debug: EasyRPG Player 0.7 git+460@9ee72af7-dirty (2023-01-26) started
+[2023-12-17 00:42:52] Debug: ==============================================================
+[2023-12-17 00:42:52] Debug: CLI: 
+[2023-12-17 00:42:52] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2023-12-17 00:42:52] Debug: Seeded the RNG with 1702744972.
+[2023-12-17 00:42:52] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2023-12-17 00:42:52] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2023-12-17 00:42:52] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2023-12-17 00:42:52] Debug: Detected encoding: windows-936-2000
+[2023-12-17 00:42:52] Debug: Game and Save Directory:
+[2023-12-17 00:42:52] Debug: 1: [Native] 
+[2023-12-17 00:42:53] Debug: Loading game EasyRPG Player
+[2023-12-17 00:42:53] Debug: Using RPG2k3 (English release, v1.11) Interpreter
+[2023-12-17 00:42:53] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2023-12-17 00:42:53] Debug: Adding D:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2023-12-17 00:42:53] Debug: RTP is "Official English" (675/675)
+[2023-12-17 00:42:53] Debug: RTP path C:\RPG2003\RTP is invalid, not adding
+[2023-12-17 00:42:53] Debug: Patch configuration: dynrpg=false maniac=false
+[2023-12-17 00:42:53] Debug: Cannot find: Font/ExFont
+[2023-12-17 00:42:53] Debug: Cannot find: ./ExFont
+[2023-12-17 00:42:53] Debug: Loading ExFont from RPG_RT.exe
+[2023-12-17 00:42:53] Debug: EXEReader: EXFONT resource found (DE 0xe9f20; 0xeff60; len 0x2168)
+[2023-12-17 00:42:53] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-12-17 00:42:53] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-12-17 00:42:53] Debug: Cannot find: Font/Font
+[2023-12-17 00:42:53] Debug: Cannot find: Font/Font2
+[2023-12-17 00:42:54] Debug: Loaded Map Map0001.lmu
+[2023-12-17 00:42:54] Debug: Tree: MAP0001
+[2023-12-17 00:42:55] Debug: Game uses RTP "Official English"
+[2023-12-17 00:42:56] Debug: \C[15]2101 年，11 月 24 日
+[2023-12-17 00:42:58] Debug: \C[15]2101 年，11 月 24 日 [2x]
+[2023-12-17 00:42:58] Debug: \C[15]东京时间，04:38 AM 星期三
+[2023-12-17 00:43:01] Debug: \C[15]东京时间，04:38 AM 星期三 [2x]
+[2023-12-17 00:43:01] Debug: \C[2]叮铃铃... 叮铃铃...
+[2023-12-17 00:44:00] Debug: \C[2]叮铃铃... 叮铃铃... [2x]
+[2023-12-17 00:44:00] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-12-17 00:44:00] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-12-17 00:44:18] Debug: EasyRPG Player 0.7 git+460@9ee72af7-dirty (2023-01-26) started
+[2023-12-17 00:44:18] Debug: ==============================================================
+[2023-12-17 00:44:18] Debug: CLI: 
+[2023-12-17 00:44:18] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2023-12-17 00:44:18] Debug: Seeded the RNG with 1702745057.
+[2023-12-17 00:44:18] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2023-12-17 00:44:18] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2023-12-17 00:44:18] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2023-12-17 00:44:18] Debug: Detected encoding: windows-936-2000
+[2023-12-17 00:44:18] Debug: Game and Save Directory:
+[2023-12-17 00:44:18] Debug: 1: [Native] 
+[2023-12-17 00:44:18] Debug: Loading game EasyRPG Player
+[2023-12-17 00:44:18] Debug: Using RPG2k3 (English release, v1.11) Interpreter
+[2023-12-17 00:44:18] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2023-12-17 00:44:18] Debug: Adding D:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2023-12-17 00:44:18] Debug: RTP is "Official English" (675/675)
+[2023-12-17 00:44:18] Debug: RTP path C:\RPG2003\RTP is invalid, not adding
+[2023-12-17 00:44:18] Debug: Patch configuration: dynrpg=false maniac=false
+[2023-12-17 00:44:18] Debug: Cannot find: Font/ExFont
+[2023-12-17 00:44:18] Debug: Cannot find: ./ExFont
+[2023-12-17 00:44:18] Debug: Loading ExFont from RPG_RT.exe
+[2023-12-17 00:44:18] Debug: EXEReader: EXFONT resource found (DE 0xe9f20; 0xeff60; len 0x2168)
+[2023-12-17 00:44:18] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-12-17 00:44:18] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-12-17 00:44:18] Debug: Cannot find: Font/Font
+[2023-12-17 00:44:18] Debug: Cannot find: Font/Font2
+[2023-12-17 00:44:19] Debug: Loaded Map Map0001.lmu
+[2023-12-17 00:44:19] Debug: Tree: MAP0001
+[2023-12-17 00:44:19] Debug: Game uses RTP "Official English"
+[2023-12-17 00:44:19] Debug: \C[15]2101 年，11 月 24 日
+[2023-12-17 00:44:19] Debug: \C[15]2101 年，11 月 24 日 [2x]
+[2023-12-17 00:44:19] Debug: \C[15]东京时间，04:38 AM 星期三
+[2023-12-17 00:44:19] Debug: \C[15]东京时间，04:38 AM 星期三 [2x]
+[2023-12-17 00:44:19] Debug: \C[2]叮铃铃... 叮铃铃...
+[2023-12-17 00:44:19] Debug: \C[2]叮铃铃... 叮铃铃... [2x]
+[2023-12-17 00:44:19] Debug: Fluidsynth: Could not load soundfont.
+[2023-12-17 00:44:19] Debug: \C[2]叮铃铃... 叮铃铃...
+[2023-12-17 00:44:20] Debug: \C[2]叮铃铃... 叮铃铃... [2x]
+[2023-12-17 00:44:20] Debug: \C[1]这么晚，会是谁打来的电话？
+[2023-12-17 00:44:20] Debug: \C[1]这么晚，会是谁打来的电话？ [2x]
+[2023-12-17 00:44:20] Debug: \C[1]电话号码看起来也像是什么随机生成的乱码。
+[2023-12-17 00:44:20] Debug: \C[1]电话号码看起来也像是什么随机生成的乱码。 [2x]
+[2023-12-17 00:44:20] Debug: 看一眼号码归属地...
+[2023-12-17 00:44:20] Debug: 看一眼号码归属地... [2x]
+[2023-12-17 00:44:20] Debug: \C[2]瑞士\C[0]？
+[2023-12-17 00:44:20] Debug: \C[2]瑞士\C[0]？ [2x]
+[2023-12-17 00:44:20] Debug: \C[1]该不会是什么跨国诈骗电话吧...
+[2023-12-17 00:44:22] Debug: \C[1]该不会是什么跨国诈骗电话吧... [2x]
+[2023-12-17 00:44:22] Debug: 等下... 从瑞士打来的话，该不会是... \C[2]那位大人\C[0]？
+[2023-12-17 00:44:22] Debug: 等下... 从瑞士打来的话，该不会是... \C[2]那位大人
+[2023-12-17 00:44:22] Debug: \C[0]？
+[2023-12-17 00:44:23] Debug: 电话里传来了陌生而又优雅的女孩子的声音。
+[2023-12-17 00:44:24] Debug: 电话里传来了陌生而又优雅的女孩子的声音。 [2x]
+[2023-12-17 00:44:24] Debug: ？？？「用快递员手机号查一下地址。」
+[2023-12-17 00:44:25] Debug: ？？？「用快递员手机号查一下地址。」 [2x]
+[2023-12-17 00:44:25] Debug: ？？？「然后报个警。」
+[2023-12-17 00:44:25] Debug: ？？？「然后报个警。」 [2x]
+[2023-12-17 00:44:25] Debug: ？？？「说明一下要用\C[2]亚甲基蓝\C[0]。」
+[2023-12-17 00:44:25] Debug: ？？？「说明一下要用\C[2]亚甲基蓝\C[0]。」 [2x]
+[2023-12-17 00:44:25] Debug: \C[1]果然是她。
+[2023-12-17 00:44:25] Debug: \C[1]果然是她。 [2x]
+[2023-12-17 00:44:25] Debug: \C[1]虽然你从未听过她的声音。
+[2023-12-17 00:44:25] Debug: \C[1]虽然你从未听过她的声音。 [2x]
+[2023-12-17 00:44:25] Debug: 但直觉是这么告诉你的。
+[2023-12-17 00:44:25] Debug: 但直觉是这么告诉你的。 [2x]
+[2023-12-17 00:44:25] Debug: ？？？「快！其它人都在睡觉！」
+[2023-12-17 00:44:25] Debug: ？？？「快！其它人都在睡觉！」 [2x]
+[2023-12-17 00:44:25] Debug: 电话挂断。
+[2023-12-17 00:44:25] Debug: 电话挂断。 [2x]
+[2023-12-17 00:44:25] Debug: 虽然你还没有完全搞清楚事情的来龙去脉。
+[2023-12-17 00:44:25] Debug: 虽然你还没有完全搞清楚事情的来龙去脉。 [2x]
+[2023-12-17 00:44:25] Debug: 但是出于对那个匆匆而过的声音的信任，你立即拨通了当地警视厅的电话，你知道一切都事不宜迟。
+[2023-12-17 00:44:25] Debug: 但是出于对那个匆匆而过的声音的信任，你立即拨通了当
+[2023-12-17 00:44:25] Debug: 地警视厅的电话，你知道一切都事不宜迟。
+[2023-12-17 00:44:26] Debug: 「汲虹君... 汲虹君... 」
+[2023-12-17 00:44:27] Debug: 「汲虹君... 汲虹君... 」 [2x]
+[2023-12-17 00:44:27] Debug: 「快起床，已经要到中午了！」
+[2023-12-17 00:44:28] Debug: 「快起床，已经要到中午了！」 [2x]
+[2023-12-17 00:44:28] Debug: 耳边传来熟悉的呼唤声。
+[2023-12-17 00:44:29] Debug: 耳边传来熟悉的呼唤声。 [2x]
+[2023-12-17 00:44:29] Debug: 我努力的起身，缓慢的睁开眼睛。
+[2023-12-17 00:44:30] Debug: 我努力的起身，缓慢的睁开眼睛。 [2x]
+[2023-12-17 00:44:30] Debug: 阳光缓缓的洒入眼帘，已经是午后了吗...
+[2023-12-17 00:44:31] Debug: 阳光缓缓的洒入眼帘，已经是午后了吗... [2x]
+[2023-12-17 00:44:31] Debug: ...
+[2023-12-17 00:44:33] Debug: ... [2x]
+[2023-12-17 00:44:33] Debug: 「什么嘛，明明昨天答应好岛岛今天要去电器街的！」
+[2023-12-17 00:44:35] Debug: 「什么嘛，明明昨天答应好岛岛今天要去电器街的！」 [2x]
+[2023-12-17 00:44:35] Debug: \C[1]眼前这位女孩，名字叫做绫里岛岛，因为某些原因，现在不得不寄居在我这里。
+[2023-12-17 00:44:35] Debug: \C[1]眼前这位女孩，名字叫做绫里岛岛，因为某些原因
+[2023-12-17 00:44:35] Debug: ，现在不得不寄居在我这里。
+[2023-12-17 00:44:37] Debug: \C[1]姑且可以算是，我的助手吧。
+[2023-12-17 00:44:38] Debug: \C[1]姑且可以算是，我的助手吧。 [2x]
+[2023-12-17 00:44:38] Debug: 「啊！对不起，是我昨晚忙的太晚了...」
+[2023-12-17 00:44:39] Debug: 「啊！对不起，是我昨晚忙的太晚了...」 [2x]
+[2023-12-17 00:44:39] Debug: 「我去收拾下，现在出发，应该也许还来得及...」
+[2023-12-17 00:44:42] Debug: 「我去收拾下，现在出发，应该也许还来得及...」 [2x]
+[2023-12-17 00:44:42] Debug: 「你能不能快点，《传颂之物》的发售活动下午 2 点就开始了，你已经没有吃饭的时间了！」
+[2023-12-17 00:44:42] Debug: 「你能不能快点，《传颂之物》的发售活动下午 2 点就
+[2023-12-17 00:44:42] Debug: 开始了，你已经没有吃饭的时间了！」
+[2023-12-17 00:44:44] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-12-17 00:44:44] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
