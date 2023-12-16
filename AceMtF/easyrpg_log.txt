@@ -315,3 +315,260 @@
 [2023-12-16 16:28:33] Debug: 快起床，已经要到中午了！ [4x]
 [2023-12-16 16:28:33] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
 [2023-12-16 16:28:33] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-12-16 19:49:07] Debug: EasyRPG Player 0.7 git+460@9ee72af7-dirty (2023-01-26) started
+[2023-12-16 19:49:07] Debug: ==============================================================
+[2023-12-16 19:49:07] Debug: CLI: 
+[2023-12-16 19:49:07] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2023-12-16 19:49:07] Debug: Seeded the RNG with 1702727346.
+[2023-12-16 19:49:07] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2023-12-16 19:49:07] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2023-12-16 19:49:07] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2023-12-16 19:49:07] Debug: Detected encoding: windows-936-2000
+[2023-12-16 19:49:07] Debug: Game and Save Directory:
+[2023-12-16 19:49:07] Debug: 1: [Native] 
+[2023-12-16 19:49:07] Debug: Loading game 逆转人工少女
+[2023-12-16 19:49:07] Debug: Using RPG2k3 (English release, v1.11) Interpreter
+[2023-12-16 19:49:07] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2023-12-16 19:49:07] Debug: Adding D:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2023-12-16 19:49:07] Debug: RTP is "Official English" (675/675)
+[2023-12-16 19:49:07] Debug: RTP path C:\RPG2003\RTP is invalid, not adding
+[2023-12-16 19:49:07] Debug: Patch configuration: dynrpg=false maniac=false
+[2023-12-16 19:49:07] Debug: Cannot find: Font/ExFont
+[2023-12-16 19:49:07] Debug: Cannot find: ./ExFont
+[2023-12-16 19:49:07] Debug: Loading ExFont from RPG_RT.exe
+[2023-12-16 19:49:07] Debug: EXEReader: EXFONT resource found (DE 0xe9f20; 0xeff60; len 0x2168)
+[2023-12-16 19:49:07] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-12-16 19:49:07] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-12-16 19:49:07] Debug: Cannot find: Font/Font
+[2023-12-16 19:49:07] Debug: Cannot find: Font/Font2
+[2023-12-16 19:49:08] Debug: Loaded Map Map0001.lmu
+[2023-12-16 19:49:08] Debug: Tree: MAP0001
+[2023-12-16 19:49:09] Debug: Game uses RTP "Official English"
+[2023-12-16 19:49:10] Debug: \C[15]2101 年，11 月 24 日
+[2023-12-16 19:49:10] Debug: \C[15]2101 年，11 月 24 日 [2x]
+[2023-12-16 19:49:10] Debug: \C[15]东京时间，04:38 AM 星期三
+[2023-12-16 19:49:12] Debug: \C[15]东京时间，04:38 AM 星期三 [2x]
+[2023-12-16 19:49:12] Debug: \C[2]叮铃铃... 叮铃铃...
+[2023-12-16 19:49:15] Debug: \C[2]叮铃铃... 叮铃铃... [2x]
+[2023-12-16 19:49:15] Debug: Fluidsynth: Could not load soundfont.
+[2023-12-16 19:49:15] Debug: \C[2]叮铃铃... 叮铃铃...
+[2023-12-16 19:49:16] Debug: \C[2]叮铃铃... 叮铃铃... [2x]
+[2023-12-16 19:49:16] Debug: 这么晚，会是谁打来的电话？
+[2023-12-16 19:49:16] Debug: 这么晚，会是谁打来的电话？ [2x]
+[2023-12-16 19:49:16] Debug: 电话号码看起来也像是随机生成的一次性乱码。
+[2023-12-16 19:49:17] Debug: 电话号码看起来也像是随机生成的一次性乱码。 [2x]
+[2023-12-16 19:49:17] Debug: 号码归属地...
+[2023-12-16 19:49:17] Debug: 号码归属地... [2x]
+[2023-12-16 19:49:17] Debug: 瑞士？
+[2023-12-16 19:49:17] Debug: 瑞士？ [2x]
+[2023-12-16 19:49:17] Debug: 该不会是什么跨国诈骗电话吧...
+[2023-12-16 19:49:19] Debug: 该不会是什么跨国诈骗电话吧... [2x]
+[2023-12-16 19:49:19] Debug: 等下 ... 从瑞士打来的话，该不会是 ... 那位大人？
+[2023-12-16 19:49:20] Debug: 等下 ... 从瑞士打来的话，该不会是 ... 那位大人？ [2x]
+[2023-12-16 19:49:20] Debug: 电话里传来了陌生而又优雅的女孩子的声音。
+[2023-12-16 19:49:20] Debug: 电话里传来了陌生而又优雅的女孩子的声音。 [2x]
+[2023-12-16 19:49:20] Debug: ？？？「用快递员手机号查一下地址。」
+[2023-12-16 19:49:20] Debug: ？？？「用快递员手机号查一下地址。」 [2x]
+[2023-12-16 19:49:20] Debug: ？？？「然后报个警。」
+[2023-12-16 19:49:20] Debug: ？？？「然后报个警。」 [2x]
+[2023-12-16 19:49:20] Debug: ？？？「说明一下要用亚甲基蓝。」
+[2023-12-16 19:49:20] Debug: ？？？「说明一下要用亚甲基蓝。」 [2x]
+[2023-12-16 19:49:20] Debug: 果然是她。
+[2023-12-16 19:49:20] Debug: 果然是她。 [2x]
+[2023-12-16 19:49:20] Debug: —— 虽然你从未听过她的声音。
+[2023-12-16 19:49:20] Debug: —— 虽然你从未听过她的声音。 [2x]
+[2023-12-16 19:49:20] Debug: 但直觉是这么告诉你的。
+[2023-12-16 19:49:20] Debug: 但直觉是这么告诉你的。 [2x]
+[2023-12-16 19:49:20] Debug: ？？？「快！其它人都在睡觉！」
+[2023-12-16 19:49:20] Debug: ？？？「快！其它人都在睡觉！」 [2x]
+[2023-12-16 19:49:20] Debug: 电话挂断。
+[2023-12-16 19:49:20] Debug: 电话挂断。 [2x]
+[2023-12-16 19:49:20] Debug: 虽然你还没有完全搞清楚事情的来龙去脉。
+[2023-12-16 19:49:20] Debug: 虽然你还没有完全搞清楚事情的来龙去脉。 [2x]
+[2023-12-16 19:49:20] Debug: 但是出于对那个匆匆而过的声音的信任，你立即拨通了当地警视厅的电话，你知道一切都事不宜迟。
+[2023-12-16 19:49:20] Debug: 但是出于对那个匆匆而过的声音的信任，你立即拨通了当
+[2023-12-16 19:49:20] Debug: 地警视厅的电话，你知道一切都事不宜迟。
+[2023-12-16 19:49:20] Debug: 「哎呀呀，你是...」
+[2023-12-16 19:49:20] Debug: 「哎呀呀，你是...」 [2x]
+[2023-12-16 19:49:20] Debug: ...
+[2023-12-16 19:49:20] Debug: ... [2x]
+[2023-12-16 19:49:20] Debug: 在我正要准备敲门的时候，从屋子里走出来一位白发赤瞳，长发及肩，身穿笔挺的西装和红色衬衣，看起来比我要年长十来岁的姐姐。
+[2023-12-16 19:49:20] Debug: 在我正要准备敲门的时候，从屋子里走出来一位白发赤瞳
+[2023-12-16 19:49:20] Debug: ，长发及肩，身穿笔挺的西装和红色衬衣，看起来比我要
+[2023-12-16 19:49:20] Debug: 年长十来岁的姐姐。
+[2023-12-16 19:49:20] Debug: 汲虹君... 汲虹君... 
+[2023-12-16 19:49:20] Debug: 汲虹君... 汲虹君...  [2x]
+[2023-12-16 19:49:20] Debug: 快起床，已经要到中午了！
+[2023-12-16 19:52:10] Debug: 快起床，已经要到中午了！ [4x]
+[2023-12-16 19:52:10] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-12-16 19:52:10] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-12-16 19:53:50] Debug: EasyRPG Player 0.7 git+460@9ee72af7-dirty (2023-01-26) started
+[2023-12-16 19:53:50] Debug: ==============================================================
+[2023-12-16 19:53:50] Debug: CLI: 
+[2023-12-16 19:53:50] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2023-12-16 19:53:50] Debug: Seeded the RNG with 1702727629.
+[2023-12-16 19:53:50] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2023-12-16 19:53:50] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2023-12-16 19:53:50] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2023-12-16 19:53:50] Debug: Detected encoding: windows-936-2000
+[2023-12-16 19:53:50] Debug: Game and Save Directory:
+[2023-12-16 19:53:50] Debug: 1: [Native] 
+[2023-12-16 19:53:50] Debug: Loading game 逆转人工少女
+[2023-12-16 19:53:50] Debug: Using RPG2k3 (English release, v1.11) Interpreter
+[2023-12-16 19:53:50] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2023-12-16 19:53:50] Debug: Adding D:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2023-12-16 19:53:50] Debug: RTP is "Official English" (675/675)
+[2023-12-16 19:53:50] Debug: RTP path C:\RPG2003\RTP is invalid, not adding
+[2023-12-16 19:53:50] Debug: Patch configuration: dynrpg=false maniac=false
+[2023-12-16 19:53:50] Debug: Cannot find: Font/ExFont
+[2023-12-16 19:53:50] Debug: Cannot find: ./ExFont
+[2023-12-16 19:53:50] Debug: Loading ExFont from RPG_RT.exe
+[2023-12-16 19:53:50] Debug: EXEReader: EXFONT resource found (DE 0xe9f20; 0xeff60; len 0x2168)
+[2023-12-16 19:53:50] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-12-16 19:53:50] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-12-16 19:53:50] Debug: Cannot find: Font/Font
+[2023-12-16 19:53:50] Debug: Cannot find: Font/Font2
+[2023-12-16 19:53:51] Debug: Loaded Map Map0001.lmu
+[2023-12-16 19:53:51] Debug: Tree: MAP0001
+[2023-12-16 19:53:52] Debug: Game uses RTP "Official English"
+[2023-12-16 19:53:53] Debug: \C[15]2101 年，11 月 24 日
+[2023-12-16 19:53:57] Debug: \C[15]2101 年，11 月 24 日 [2x]
+[2023-12-16 19:53:57] Debug: \C[15]东京时间，04:38 AM 星期三
+[2023-12-16 19:53:59] Debug: \C[15]东京时间，04:38 AM 星期三 [2x]
+[2023-12-16 19:53:59] Debug: \C[2]叮铃铃... 叮铃铃...
+[2023-12-16 19:54:00] Debug: \C[2]叮铃铃... 叮铃铃... [2x]
+[2023-12-16 19:54:00] Debug: Fluidsynth: Could not load soundfont.
+[2023-12-16 19:54:00] Debug: \C[2]叮铃铃... 叮铃铃...
+[2023-12-16 19:54:01] Debug: \C[2]叮铃铃... 叮铃铃... [2x]
+[2023-12-16 19:54:01] Debug: 这么晚，会是谁打来的电话？
+[2023-12-16 19:54:02] Debug: 这么晚，会是谁打来的电话？ [2x]
+[2023-12-16 19:54:02] Debug: 电话号码看起来也像是随机生成的一次性乱码。
+[2023-12-16 19:54:04] Debug: 电话号码看起来也像是随机生成的一次性乱码。 [2x]
+[2023-12-16 19:54:04] Debug: 号码归属地...
+[2023-12-16 19:54:05] Debug: 号码归属地... [2x]
+[2023-12-16 19:54:05] Debug: 瑞士？
+[2023-12-16 19:54:05] Debug: 瑞士？ [2x]
+[2023-12-16 19:54:05] Debug: 该不会是什么跨国诈骗电话吧...
+[2023-12-16 19:54:08] Debug: 该不会是什么跨国诈骗电话吧... [2x]
+[2023-12-16 19:54:08] Debug: 等下 ... 从瑞士打来的话，该不会是 ... 那位大人？
+[2023-12-16 19:54:08] Debug: 等下 ... 从瑞士打来的话，该不会是 ... 那位大人？ [2x]
+[2023-12-16 19:54:08] Debug: 电话里传来了陌生而又优雅的女孩子的声音。
+[2023-12-16 19:54:09] Debug: 电话里传来了陌生而又优雅的女孩子的声音。 [2x]
+[2023-12-16 19:54:09] Debug: ？？？「用快递员手机号查一下地址。」
+[2023-12-16 19:54:10] Debug: ？？？「用快递员手机号查一下地址。」 [2x]
+[2023-12-16 19:54:10] Debug: ？？？「然后报个警。」
+[2023-12-16 19:54:11] Debug: ？？？「然后报个警。」 [2x]
+[2023-12-16 19:54:11] Debug: ？？？「说明一下要用亚甲基蓝。」
+[2023-12-16 19:54:11] Debug: ？？？「说明一下要用亚甲基蓝。」 [2x]
+[2023-12-16 19:54:11] Debug: 果然是她。
+[2023-12-16 19:54:12] Debug: 果然是她。 [2x]
+[2023-12-16 19:54:12] Debug: —— 虽然你从未听过她的声音。
+[2023-12-16 19:54:12] Debug: —— 虽然你从未听过她的声音。 [2x]
+[2023-12-16 19:54:12] Debug: 但直觉是这么告诉你的。
+[2023-12-16 19:54:13] Debug: 但直觉是这么告诉你的。 [2x]
+[2023-12-16 19:54:13] Debug: ？？？「快！其它人都在睡觉！」
+[2023-12-16 19:54:13] Debug: ？？？「快！其它人都在睡觉！」 [2x]
+[2023-12-16 19:54:13] Debug: 电话挂断。
+[2023-12-16 19:54:14] Debug: 电话挂断。 [2x]
+[2023-12-16 19:54:14] Debug: 虽然你还没有完全搞清楚事情的来龙去脉。
+[2023-12-16 19:54:15] Debug: 虽然你还没有完全搞清楚事情的来龙去脉。 [2x]
+[2023-12-16 19:54:15] Debug: 但是出于对那个匆匆而过的声音的信任，你立即拨通了当地警视厅的电话，你知道一切都事不宜迟。
+[2023-12-16 19:54:15] Debug: 但是出于对那个匆匆而过的声音的信任，你立即拨通了当
+[2023-12-16 19:54:15] Debug: 地警视厅的电话，你知道一切都事不宜迟。
+[2023-12-16 19:54:16] Debug: 「哎呀呀，你是...」
+[2023-12-16 19:54:18] Debug: 「哎呀呀，你是...」 [2x]
+[2023-12-16 19:54:18] Debug: ...
+[2023-12-16 19:54:18] Debug: ... [2x]
+[2023-12-16 19:54:54] Debug: EasyRPG Player 0.7 git+460@9ee72af7-dirty (2023-01-26) started
+[2023-12-16 19:54:54] Debug: ==============================================================
+[2023-12-16 19:54:54] Debug: CLI: 
+[2023-12-16 19:54:54] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2023-12-16 19:54:54] Debug: Seeded the RNG with 1702727693.
+[2023-12-16 19:54:54] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2023-12-16 19:54:54] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2023-12-16 19:54:54] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2023-12-16 19:54:54] Debug: Detected encoding: windows-936-2000
+[2023-12-16 19:54:54] Debug: Game and Save Directory:
+[2023-12-16 19:54:54] Debug: 1: [Native] 
+[2023-12-16 19:54:54] Debug: Loading game 逆转人工少女
+[2023-12-16 19:54:54] Debug: Using RPG2k3 (English release, v1.11) Interpreter
+[2023-12-16 19:54:54] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2023-12-16 19:54:54] Debug: Adding D:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2023-12-16 19:54:54] Debug: RTP is "Official English" (675/675)
+[2023-12-16 19:54:54] Debug: RTP path C:\RPG2003\RTP is invalid, not adding
+[2023-12-16 19:54:54] Debug: Patch configuration: dynrpg=false maniac=false
+[2023-12-16 19:54:54] Debug: Cannot find: Font/ExFont
+[2023-12-16 19:54:54] Debug: Cannot find: ./ExFont
+[2023-12-16 19:54:54] Debug: Loading ExFont from RPG_RT.exe
+[2023-12-16 19:54:54] Debug: EXEReader: EXFONT resource found (DE 0xe9f20; 0xeff60; len 0x2168)
+[2023-12-16 19:54:54] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-12-16 19:54:54] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-12-16 19:54:54] Debug: Cannot find: Font/Font
+[2023-12-16 19:54:54] Debug: Cannot find: Font/Font2
+[2023-12-16 19:54:56] Debug: Loaded Map Map0001.lmu
+[2023-12-16 19:54:56] Debug: Tree: MAP0001
+[2023-12-16 19:54:57] Debug: Game uses RTP "Official English"
+[2023-12-16 19:54:57] Debug: \C[15]2101 年，11 月 24 日
+[2023-12-16 19:55:13] Debug: \C[15]2101 年，11 月 24 日 [2x]
+[2023-12-16 19:55:13] Debug: \C[15]东京时间，04:38 AM 星期三
+[2023-12-16 19:55:16] Debug: \C[15]东京时间，04:38 AM 星期三 [2x]
+[2023-12-16 19:55:16] Debug: \C[2]叮铃铃... 叮铃铃...
+[2023-12-16 19:55:17] Debug: \C[2]叮铃铃... 叮铃铃... [2x]
+[2023-12-16 19:55:17] Debug: Fluidsynth: Could not load soundfont.
+[2023-12-16 19:55:17] Debug: \C[2]叮铃铃... 叮铃铃...
+[2023-12-16 19:55:17] Debug: \C[2]叮铃铃... 叮铃铃... [2x]
+[2023-12-16 19:55:17] Debug: 这么晚，会是谁打来的电话？
+[2023-12-16 19:55:18] Debug: 这么晚，会是谁打来的电话？ [2x]
+[2023-12-16 19:55:18] Debug: 电话号码看起来也像是随机生成的一次性乱码。
+[2023-12-16 19:55:20] Debug: 电话号码看起来也像是随机生成的一次性乱码。 [2x]
+[2023-12-16 19:55:20] Debug: 号码归属地...
+[2023-12-16 19:55:21] Debug: 号码归属地... [2x]
+[2023-12-16 19:55:21] Debug: 瑞士？
+[2023-12-16 19:55:22] Debug: 瑞士？ [2x]
+[2023-12-16 19:55:22] Debug: 该不会是什么跨国诈骗电话吧...
+[2023-12-16 19:55:27] Debug: 该不会是什么跨国诈骗电话吧... [2x]
+[2023-12-16 19:55:27] Debug: 等下 ... 从瑞士打来的话，该不会是 ... 那位大人？
+[2023-12-16 19:55:29] Debug: 等下 ... 从瑞士打来的话，该不会是 ... 那位大人？ [2x]
+[2023-12-16 19:55:29] Debug: 电话里传来了陌生而又优雅的女孩子的声音。
+[2023-12-16 19:55:29] Debug: 电话里传来了陌生而又优雅的女孩子的声音。 [2x]
+[2023-12-16 19:55:29] Debug: ？？？「用快递员手机号查一下地址。」
+[2023-12-16 19:55:30] Debug: ？？？「用快递员手机号查一下地址。」 [2x]
+[2023-12-16 19:55:30] Debug: ？？？「然后报个警。」
+[2023-12-16 19:55:30] Debug: ？？？「然后报个警。」 [2x]
+[2023-12-16 19:55:30] Debug: ？？？「说明一下要用亚甲基蓝。」
+[2023-12-16 19:55:30] Debug: ？？？「说明一下要用亚甲基蓝。」 [2x]
+[2023-12-16 19:55:30] Debug: 果然是她。
+[2023-12-16 19:55:31] Debug: 果然是她。 [2x]
+[2023-12-16 19:55:31] Debug: —— 虽然你从未听过她的声音。
+[2023-12-16 19:55:31] Debug: —— 虽然你从未听过她的声音。 [2x]
+[2023-12-16 19:55:31] Debug: 但直觉是这么告诉你的。
+[2023-12-16 19:55:32] Debug: 但直觉是这么告诉你的。 [2x]
+[2023-12-16 19:55:32] Debug: ？？？「快！其它人都在睡觉！」
+[2023-12-16 19:55:32] Debug: ？？？「快！其它人都在睡觉！」 [2x]
+[2023-12-16 19:55:32] Debug: 电话挂断。
+[2023-12-16 19:55:32] Debug: 电话挂断。 [2x]
+[2023-12-16 19:55:32] Debug: 虽然你还没有完全搞清楚事情的来龙去脉。
+[2023-12-16 19:55:33] Debug: 虽然你还没有完全搞清楚事情的来龙去脉。 [2x]
+[2023-12-16 19:55:33] Debug: 但是出于对那个匆匆而过的声音的信任，你立即拨通了当地警视厅的电话，你知道一切都事不宜迟。
+[2023-12-16 19:55:33] Debug: 但是出于对那个匆匆而过的声音的信任，你立即拨通了当
+[2023-12-16 19:55:33] Debug: 地警视厅的电话，你知道一切都事不宜迟。
+[2023-12-16 19:55:34] Debug: 「哎呀呀，你是...」
+[2023-12-16 19:55:36] Debug: 「哎呀呀，你是...」 [2x]
+[2023-12-16 19:55:36] Debug: ...
+[2023-12-16 19:55:37] Debug: ... [2x]
+[2023-12-16 19:55:37] Debug: 在我正要准备敲门的时候，从屋子里走出来一位白发赤瞳，长发及肩，身穿笔挺的西装和红色衬衣，看起来比我要年长十来岁的姐姐。
+[2023-12-16 19:55:37] Debug: 在我正要准备敲门的时候，从屋子里走出来一位白发赤瞳
+[2023-12-16 19:55:37] Debug: ，长发及肩，身穿笔挺的西装和红色衬衣，看起来比我要
+[2023-12-16 19:55:37] Debug: 年长十来岁的姐姐。
+[2023-12-16 19:55:37] Debug: 汲虹君... 汲虹君... 
+[2023-12-16 19:55:37] Debug: 汲虹君... 汲虹君...  [2x]
+[2023-12-16 19:55:37] Debug: 快起床，已经要到中午了！
+[2023-12-16 19:55:40] Debug: 快起床，已经要到中午了！ [4x]
+[2023-12-16 19:55:40] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-12-16 19:55:40] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-12-16 19:54:18] Debug: 在我正要准备敲门的时候，从屋子里走出来一位白发赤瞳，长发及肩，身穿笔挺的西装和红色衬衣，看起来比我要年长十来岁的姐姐。
+[2023-12-16 19:54:18] Debug: 在我正要准备敲门的时候，从屋子里走出来一位白发赤瞳
+[2023-12-16 19:54:18] Debug: ，长发及肩，身穿笔挺的西装和红色衬衣，看起来比我要
+[2023-12-16 19:54:18] Debug: 年长十来岁的姐姐。
+[2023-12-16 20:11:41] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-12-16 20:11:41] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
