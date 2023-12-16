@@ -21,7 +21,8 @@
 # 参考资料
 ## 素材
 - [https://github.com/buger404/PhoenixVideo](https://github.com/buger404/PhoenixVideo)
-- []https://aceattorneyonline.com/(https://aceattorneyonline.com/)
+- [https://aceattorneyonline.com](https://aceattorneyonline.com)
+- [https://objection.lol/maker](https://objection.lol/maker)
 
 ## 同人
 - [逆转小马](https://www.bilibili.com/video/BV18b411b7ci)
