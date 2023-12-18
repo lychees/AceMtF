@@ -1,517 +1,3 @@
-[2023-12-18 02:31:57] Debug: \C[1]眼前这位女孩，名字叫做绫里岛岛，因为某些原因
-[2023-12-18 02:31:57] Debug: ，现在不得不寄居在我的家里。
-[2023-12-18 02:31:58] Debug: \C[1]姑且可以算是，我的助手吧。
-[2023-12-18 02:31:59] Debug: \C[1]姑且可以算是，我的助手吧。 [2x]
-[2023-12-18 02:31:59] Debug: 「啊！对不起，是我昨晚忙的太晚了...」
-[2023-12-18 02:32:01] Debug: 「啊！对不起，是我昨晚忙的太晚了...」 [2x]
-[2023-12-18 02:32:01] Debug: 「我去收拾下，现在出发，应该也许还来得及...」
-[2023-12-18 02:32:02] Debug: 「我去收拾下，现在出发，应该也许还来得及...」 [2x]
-[2023-12-18 02:34:55] Debug: EasyRPG Player 0.7 git+460@9ee72af7-dirty (2023-01-26) started
-[2023-12-18 02:34:55] Debug: ==============================================================
-[2023-12-18 02:34:55] Debug: CLI: 
-[2023-12-18 02:34:55] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
-[2023-12-18 02:34:55] Debug: Seeded the RNG with 1702838094.
-[2023-12-18 02:34:55] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
-[2023-12-18 02:34:55] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
-[2023-12-18 02:34:55] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
-[2023-12-18 02:34:55] Debug: Detected encoding: windows-936-2000
-[2023-12-18 02:34:55] Debug: Game and Save Directory:
-[2023-12-18 02:34:55] Debug: 1: [Native] 
-[2023-12-18 02:34:55] Debug: Loading game EasyRPG Player
-[2023-12-18 02:34:55] Debug: Using RPG2k3 (English release, v1.11) Interpreter
-[2023-12-18 02:34:55] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
-[2023-12-18 02:34:55] Debug: Adding D:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
-[2023-12-18 02:34:55] Debug: RTP is "Official English" (675/675)
-[2023-12-18 02:34:55] Debug: RTP path C:\RPG2003\RTP is invalid, not adding
-[2023-12-18 02:34:55] Debug: Patch configuration: dynrpg=false maniac=false
-[2023-12-18 02:34:55] Debug: Cannot find: Font/ExFont
-[2023-12-18 02:34:55] Debug: Cannot find: ./ExFont
-[2023-12-18 02:34:55] Debug: Loading ExFont from RPG_RT.exe
-[2023-12-18 02:34:55] Debug: EXEReader: EXFONT resource found (DE 0xe9f20; 0xeff60; len 0x2168)
-[2023-12-18 02:34:55] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
-[2023-12-18 02:34:55] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
-[2023-12-18 02:34:55] Debug: Cannot find: Font/Font
-[2023-12-18 02:34:55] Debug: Cannot find: Font/Font2
-[2023-12-18 02:34:56] Debug: Loaded Map Map0001.lmu
-[2023-12-18 02:34:56] Debug: Tree: MAP0001
-[2023-12-18 02:34:56] Debug: Game uses RTP "Official English"
-[2023-12-18 02:34:56] Debug: libpng: iCCP: known incorrect sRGB profile
-[2023-12-18 02:34:56] Debug: libpng: iCCP: cHRM chunk does not match sRGB
-[2023-12-18 02:34:56] Debug: \C[15]2101 年，11 月 24 日
-[2023-12-18 02:34:56] Debug: \C[15]2101 年，11 月 24 日 [2x]
-[2023-12-18 02:34:56] Debug: \C[15]东京时间，04:38 AM 星期三
-[2023-12-18 02:34:56] Debug: \C[15]东京时间，04:38 AM 星期三 [2x]
-[2023-12-18 02:34:56] Debug: \C[2]叮铃铃... 叮铃铃...
-[2023-12-18 02:34:56] Debug: \C[2]叮铃铃... 叮铃铃... [2x]
-[2023-12-18 02:34:56] Debug: Fluidsynth: Could not load soundfont.
-[2023-12-18 02:34:56] Debug: \C[2]叮铃铃... 叮铃铃...
-[2023-12-18 02:34:56] Debug: \C[2]叮铃铃... 叮铃铃... [2x]
-[2023-12-18 02:34:56] Debug: \C[1]这么晚，会是谁打来的电话？
-[2023-12-18 02:34:56] Debug: \C[1]这么晚，会是谁打来的电话？ [2x]
-[2023-12-18 02:34:56] Debug: \C[1]电话号码看起来也像是什么随机生成的乱码。
-[2023-12-18 02:34:56] Debug: \C[1]电话号码看起来也像是什么随机生成的乱码。 [2x]
-[2023-12-18 02:34:56] Debug: 姑且看一眼号码归属地...
-[2023-12-18 02:34:56] Debug: 姑且看一眼号码归属地... [2x]
-[2023-12-18 02:34:56] Debug: \C[2]瑞士\C[0]？
-[2023-12-18 02:34:56] Debug: \C[2]瑞士\C[0]？ [2x]
-[2023-12-18 02:34:56] Debug: 该不会是什么跨国诈骗电话吧...
-[2023-12-18 02:34:57] Debug: 该不会是什么跨国诈骗电话吧... [2x]
-[2023-12-18 02:34:57] Debug: \C[1]等下... 从瑞士打来的话，该不会是... \C[2]那位大人\C[0]？
-[2023-12-18 02:34:57] Debug: \C[1]等下... 从瑞士打来的话，该不会是... \C[2]那位
-[2023-12-18 02:34:57] Debug: 大人\C[0]？
-[2023-12-18 02:34:57] Debug: ？？？「用快递员手机号查一下地址。」
-[2023-12-18 02:34:57] Debug: ？？？「用快递员手机号查一下地址。」 [2x]
-[2023-12-18 02:34:57] Debug: \C[1]电话里传来了陌生而又优雅的女孩子的声音。
-[2023-12-18 02:34:57] Debug: \C[1]电话里传来了陌生而又优雅的女孩子的声音。 [2x]
-[2023-12-18 02:34:57] Debug: ？？？「然后报个警。」
-[2023-12-18 02:34:57] Debug: ？？？「然后报个警。」 [2x]
-[2023-12-18 02:34:57] Debug: ？？？「说明一下要用\C[2]亚甲基蓝\C[0]。」
-[2023-12-18 02:34:57] Debug: ？？？「说明一下要用\C[2]亚甲基蓝\C[0]。」 [2x]
-[2023-12-18 02:34:57] Debug: \C[1]果然是她。
-[2023-12-18 02:34:57] Debug: \C[1]果然是她。 [2x]
-[2023-12-18 02:34:57] Debug: \C[1]虽然你从未听过她的声音。
-[2023-12-18 02:34:58] Debug: \C[1]虽然你从未听过她的声音。 [2x]
-[2023-12-18 02:34:58] Debug: \C[1]但直觉是这么告诉你的。
-[2023-12-18 02:34:58] Debug: \C[1]但直觉是这么告诉你的。 [2x]
-[2023-12-18 02:34:58] Debug: ？？？「快！其它人这个点都联系不上！」
-[2023-12-18 02:34:58] Debug: ？？？「快！其它人这个点都联系不上！」 [2x]
-[2023-12-18 02:34:58] Debug: 电话挂断。
-[2023-12-18 02:34:58] Debug: 电话挂断。 [2x]
-[2023-12-18 02:34:58] Debug: 虽然你还没有完全搞清楚事情的来龙去脉。
-[2023-12-18 02:34:58] Debug: 虽然你还没有完全搞清楚事情的来龙去脉。 [2x]
-[2023-12-18 02:34:58] Debug: 但是出于对那个匆匆而过的声音的信任，你立即拨通了当地警视厅的电话，一切事不宜迟。
-[2023-12-18 02:34:58] Debug: 但是出于对那个匆匆而过的声音的信任，你立即拨通了当
-[2023-12-18 02:34:58] Debug: 地警视厅的电话，一切事不宜迟。
-[2023-12-18 02:34:58] Debug: ...
-[2023-12-18 02:34:58] Debug: ... [2x]
-[2023-12-18 02:34:58] Debug: ... ...
-[2023-12-18 02:34:58] Debug: ... ... [2x]
-[2023-12-18 02:34:58] Debug: 「汲虹君... 汲虹君... 」
-[2023-12-18 02:34:58] Debug: 「汲虹君... 汲虹君... 」 [2x]
-[2023-12-18 02:34:58] Debug: 「快起床，已经过了中午了！」
-[2023-12-18 02:34:58] Debug: 「快起床，已经过了中午了！」 [2x]
-[2023-12-18 02:34:58] Debug: libpng: iCCP: known incorrect sRGB profile
-[2023-12-18 02:34:58] Debug: libpng: iCCP: cHRM chunk does not match sRGB
-[2023-12-18 02:34:59] Debug: 耳边传来熟悉的呼唤声。
-[2023-12-18 02:34:59] Debug: 耳边传来熟悉的呼唤声。 [2x]
-[2023-12-18 02:34:59] Debug: 我努力起身，缓慢的睁开眼睛。
-[2023-12-18 02:35:00] Debug: 我努力起身，缓慢的睁开眼睛。 [2x]
-[2023-12-18 02:35:00] Debug: 阳光缓缓的洒入眼帘，已经是午后了吗...
-[2023-12-18 02:35:00] Debug: 阳光缓缓的洒入眼帘，已经是午后了吗... [2x]
-[2023-12-18 02:35:00] Debug: ...
-[2023-12-18 02:35:02] Debug: ... [2x]
-[2023-12-18 02:35:02] Debug: 「什么嘛，明明昨天答应好岛岛今天要去电器街的！」
-[2023-12-18 02:35:04] Debug: 「什么嘛，明明昨天答应好岛岛今天要去电器街的！」 [2x]
-[2023-12-18 02:35:04] Debug: \C[1]眼前这位女孩，名字叫做绫里岛岛，因为某些原因，现在不得不寄居在我的家里。
-[2023-12-18 02:35:04] Debug: \C[1]眼前这位女孩，名字叫做绫里岛岛，因为某些原因
-[2023-12-18 02:35:04] Debug: ，现在不得不寄居在我的家里。
-[2023-12-18 02:35:06] Debug: \C[1]姑且可以算是，我的助手吧。
-[2023-12-18 02:35:07] Debug: \C[1]姑且可以算是，我的助手吧。 [2x]
-[2023-12-18 02:35:07] Debug: 「啊！对不起，是我昨晚忙的太晚了...」
-[2023-12-18 02:35:08] Debug: 「啊！对不起，是我昨晚忙的太晚了...」 [2x]
-[2023-12-18 02:35:08] Debug: 「我去收拾下，现在出发，应该也许还来得及...」
-[2023-12-18 02:35:10] Debug: 「我去收拾下，现在出发，应该也许还来得及...」 [2x]
-[2023-12-18 02:35:10] Debug: 「你能不能快点，《传颂之物》的发售活动下午 2 点就开始了，你已经没有吃饭的时间了！」
-[2023-12-18 02:35:10] Debug: 「你能不能快点，《传颂之物》的发售活动下午 2 点就
-[2023-12-18 02:35:10] Debug: 开始了，你已经没有吃饭的时间了！」
-[2023-12-18 02:35:12] Debug: 「是是是是，遵命！」
-[2023-12-18 02:35:13] Debug: 「是是是是，遵命！」 [2x]
-[2023-12-18 02:35:13] Debug: \C[1]说起来，我为什么要对这个家伙唯命是从？
-[2023-12-18 02:35:14] Debug: \C[1]说起来，我为什么要对这个家伙唯命是从？ [2x]
-[2023-12-18 02:35:14] Debug: \C[1]可是一边穿衣服，一边我又回想起了数小时前的事情。
-[2023-12-18 02:35:14] Debug: \C[1]可是一边穿衣服，一边我又回想起了数小时前的事
-[2023-12-18 02:35:14] Debug: 情。
-[2023-12-18 02:35:14] Debug: \C[1]你不禁又陷入了沉思。
-[2023-12-18 02:35:17] Debug: \C[1]你不禁又陷入了沉思。 [2x]
-[2023-12-18 02:35:17] Debug: 「死者是两名跨性别女孩，一之濑美莉和一之濑美芽。据法医的解剖报告，死因是\C[2]亚硝酸钠\C[0]中毒。」
-[2023-12-18 02:35:17] Debug: 「死者是两名跨性别女孩，一之濑美莉和一之濑美芽。据
-[2023-12-18 02:35:17] Debug: 法医的解剖报告，死因是\C[2]亚硝酸钠\C[0]中毒。」
-[2023-12-18 02:35:18] Debug: libpng: iCCP: known incorrect sRGB profile
-[2023-12-18 02:35:18] Debug: libpng: iCCP: cHRM chunk does not match sRGB
-[2023-12-18 02:35:18] Debug: \C[1]死者的解剖资料，死因是\C[2]亚硝酸钠\C[0]中毒。
-[2023-12-18 02:35:18] Debug: \C[1]死者的解剖资料，死因是\C[2]亚硝酸钠\C[0]中毒
-[2023-12-18 02:35:18] Debug: 。
-[2023-12-18 02:35:19] Debug: 证物加入，死者的法医解剖记录。
-[2023-12-18 02:35:24] Debug: 证物加入，死者的法医解剖记录。 [2x]
-[2023-12-18 02:35:24] Debug: ...
-[2023-12-18 02:35:24] Debug: ... [2x]
-[2023-12-18 02:35:24] Debug: libpng: iCCP: known incorrect sRGB profile
-[2023-12-18 02:35:24] Debug: libpng: iCCP: cHRM chunk does not match sRGB
-[2023-12-18 02:35:24] Debug: \C[2]亚硝酸钠（NaNO2）\C[0]常用于食品的染色和防腐。纯净的亚硝酸钠是一种白色至浅黄色晶体，水溶液呈弱碱性。不慎摄入亦会致人死亡。
-[2023-12-18 02:35:24] Debug: \C[2]亚硝酸钠（NaNO2）\C[0]常用于食品的染色和防腐
-[2023-12-18 02:35:24] Debug: 。纯净的亚硝酸钠是一种白色至浅黄色晶体，水溶液呈弱
-[2023-12-18 02:35:24] Debug: 碱性。不慎摄入亦会致人死亡。
-[2023-12-18 02:35:26] Debug: 证物加入，现场发现的装有\C[2]亚硝酸钠\C[0]的棕色容器。
-[2023-12-18 02:35:26] Debug: 证物加入，现场发现的装有\C[2]亚硝酸钠\C[0]的棕色容
-[2023-12-18 02:35:26] Debug: 器。
-[2023-12-18 02:35:30] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
-[2023-12-18 02:35:30] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
-[2023-12-18 02:32:02] Debug: 「你能不能快点，《传颂之物》的发售活动下午 2 点就开始了，你已经没有吃饭的时间了！」
-[2023-12-18 02:32:02] Debug: 「你能不能快点，《传颂之物》的发售活动下午 2 点就
-[2023-12-18 02:32:02] Debug: 开始了，你已经没有吃饭的时间了！」
-[2023-12-18 02:37:56] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
-[2023-12-18 02:37:56] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
-[2023-12-18 02:38:04] Debug: EasyRPG Player 0.7 git+460@9ee72af7-dirty (2023-01-26) started
-[2023-12-18 02:38:04] Debug: ==============================================================
-[2023-12-18 02:38:04] Debug: CLI: 
-[2023-12-18 02:38:04] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
-[2023-12-18 02:38:04] Debug: Seeded the RNG with 1702838283.
-[2023-12-18 02:38:04] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
-[2023-12-18 02:38:04] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
-[2023-12-18 02:38:04] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
-[2023-12-18 02:38:04] Debug: Detected encoding: windows-936-2000
-[2023-12-18 02:38:04] Debug: Game and Save Directory:
-[2023-12-18 02:38:04] Debug: 1: [Native] 
-[2023-12-18 02:38:04] Debug: Loading game EasyRPG Player
-[2023-12-18 02:38:04] Debug: Using RPG2k3 (English release, v1.11) Interpreter
-[2023-12-18 02:38:04] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
-[2023-12-18 02:38:04] Debug: Adding D:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
-[2023-12-18 02:38:04] Debug: RTP is "Official English" (675/675)
-[2023-12-18 02:38:04] Debug: RTP path C:\RPG2003\RTP is invalid, not adding
-[2023-12-18 02:38:04] Debug: Patch configuration: dynrpg=false maniac=false
-[2023-12-18 02:38:04] Debug: Cannot find: Font/ExFont
-[2023-12-18 02:38:04] Debug: Cannot find: ./ExFont
-[2023-12-18 02:38:04] Debug: Loading ExFont from RPG_RT.exe
-[2023-12-18 02:38:04] Debug: EXEReader: EXFONT resource found (DE 0xe9f20; 0xeff60; len 0x2168)
-[2023-12-18 02:38:04] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
-[2023-12-18 02:38:04] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
-[2023-12-18 02:38:04] Debug: Cannot find: Font/Font
-[2023-12-18 02:38:04] Debug: Cannot find: Font/Font2
-[2023-12-18 02:38:05] Debug: Loaded Map Map0001.lmu
-[2023-12-18 02:38:05] Debug: Tree: MAP0001
-[2023-12-18 02:38:06] Debug: Game uses RTP "Official English"
-[2023-12-18 02:38:06] Debug: libpng: iCCP: known incorrect sRGB profile
-[2023-12-18 02:38:06] Debug: libpng: iCCP: cHRM chunk does not match sRGB
-[2023-12-18 02:38:07] Debug: \C[15]2101 年，11 月 24 日
-[2023-12-18 02:38:07] Debug: \C[15]2101 年，11 月 24 日 [2x]
-[2023-12-18 02:38:07] Debug: \C[15]东京时间，04:38 AM 星期三
-[2023-12-18 02:38:07] Debug: \C[15]东京时间，04:38 AM 星期三 [2x]
-[2023-12-18 02:38:07] Debug: \C[2]叮铃铃... 叮铃铃...
-[2023-12-18 02:38:07] Debug: \C[2]叮铃铃... 叮铃铃... [2x]
-[2023-12-18 02:38:07] Debug: Fluidsynth: Could not load soundfont.
-[2023-12-18 02:38:07] Debug: \C[2]叮铃铃... 叮铃铃...
-[2023-12-18 02:38:07] Debug: \C[2]叮铃铃... 叮铃铃... [2x]
-[2023-12-18 02:38:07] Debug: \C[1]这么晚，会是谁打来的电话？
-[2023-12-18 02:38:07] Debug: \C[1]这么晚，会是谁打来的电话？ [2x]
-[2023-12-18 02:38:07] Debug: \C[1]电话号码看起来也像是什么随机生成的乱码。
-[2023-12-18 02:38:07] Debug: \C[1]电话号码看起来也像是什么随机生成的乱码。 [2x]
-[2023-12-18 02:38:07] Debug: 姑且看一眼号码归属地...
-[2023-12-18 02:38:07] Debug: 姑且看一眼号码归属地... [2x]
-[2023-12-18 02:38:07] Debug: \C[2]瑞士\C[0]？
-[2023-12-18 02:38:07] Debug: \C[2]瑞士\C[0]？ [2x]
-[2023-12-18 02:38:07] Debug: 该不会是什么跨国诈骗电话吧...
-[2023-12-18 02:38:10] Debug: 该不会是什么跨国诈骗电话吧... [2x]
-[2023-12-18 02:38:10] Debug: \C[1]等下... 从瑞士打来的话，该不会是... \C[2]那位大人\C[0]？
-[2023-12-18 02:38:10] Debug: \C[1]等下... 从瑞士打来的话，该不会是... \C[2]那位
-[2023-12-18 02:38:10] Debug: 大人\C[0]？
-[2023-12-18 02:38:14] Debug: ？？？「用快递员手机号查一下地址。」
-[2023-12-18 02:38:14] Debug: ？？？「用快递员手机号查一下地址。」 [2x]
-[2023-12-18 02:38:14] Debug: \C[1]电话里传来了陌生而又优雅的女孩子的声音。
-[2023-12-18 02:38:15] Debug: \C[1]电话里传来了陌生而又优雅的女孩子的声音。 [2x]
-[2023-12-18 02:38:15] Debug: ？？？「然后报个警。」
-[2023-12-18 02:38:15] Debug: ？？？「然后报个警。」 [2x]
-[2023-12-18 02:38:15] Debug: ？？？「说明一下要用\C[2]亚甲基蓝\C[0]。」
-[2023-12-18 02:38:17] Debug: ？？？「说明一下要用\C[2]亚甲基蓝\C[0]。」 [2x]
-[2023-12-18 02:38:17] Debug: \C[1]果然是她。
-[2023-12-18 02:38:17] Debug: \C[1]果然是她。 [2x]
-[2023-12-18 02:38:17] Debug: \C[1]虽然你从未听过她的声音。
-[2023-12-18 02:38:18] Debug: \C[1]虽然你从未听过她的声音。 [2x]
-[2023-12-18 02:38:18] Debug: \C[1]但直觉是这么告诉你的。
-[2023-12-18 02:38:18] Debug: \C[1]但直觉是这么告诉你的。 [2x]
-[2023-12-18 02:38:18] Debug: ？？？「快！其它人这个点都联系不上！」
-[2023-12-18 02:38:18] Debug: ？？？「快！其它人这个点都联系不上！」 [2x]
-[2023-12-18 02:38:18] Debug: 电话挂断。
-[2023-12-18 02:38:18] Debug: 电话挂断。 [2x]
-[2023-12-18 02:38:18] Debug: 虽然你还没有完全搞清楚事情的来龙去脉。
-[2023-12-18 02:38:18] Debug: 虽然你还没有完全搞清楚事情的来龙去脉。 [2x]
-[2023-12-18 02:38:18] Debug: 但是出于对那个匆匆而过的声音的信任，你立即拨通了当地警视厅的电话，一切事不宜迟。
-[2023-12-18 02:38:18] Debug: 但是出于对那个匆匆而过的声音的信任，你立即拨通了当
-[2023-12-18 02:38:18] Debug: 地警视厅的电话，一切事不宜迟。
-[2023-12-18 02:38:18] Debug: ...
-[2023-12-18 02:38:19] Debug: ... [2x]
-[2023-12-18 02:38:19] Debug: ... ...
-[2023-12-18 02:38:19] Debug: ... ... [2x]
-[2023-12-18 02:38:19] Debug: 「汲虹君... 汲虹君... 」
-[2023-12-18 02:38:19] Debug: 「汲虹君... 汲虹君... 」 [2x]
-[2023-12-18 02:38:19] Debug: 「快起床，已经过了中午了！」
-[2023-12-18 02:38:20] Debug: 「快起床，已经过了中午了！」 [2x]
-[2023-12-18 02:38:20] Debug: libpng: iCCP: known incorrect sRGB profile
-[2023-12-18 02:38:20] Debug: libpng: iCCP: cHRM chunk does not match sRGB
-[2023-12-18 02:38:21] Debug: 耳边传来熟悉的呼唤声。
-[2023-12-18 02:38:21] Debug: 耳边传来熟悉的呼唤声。 [2x]
-[2023-12-18 02:38:21] Debug: 我努力起身，缓慢的睁开眼睛。
-[2023-12-18 02:38:22] Debug: 我努力起身，缓慢的睁开眼睛。 [2x]
-[2023-12-18 02:38:22] Debug: 阳光缓缓的洒入眼帘，已经是午后了吗...
-[2023-12-18 02:38:23] Debug: 阳光缓缓的洒入眼帘，已经是午后了吗... [2x]
-[2023-12-18 02:38:23] Debug: ...
-[2023-12-18 02:38:24] Debug: ... [2x]
-[2023-12-18 02:38:24] Debug: 「什么嘛，明明昨天答应好岛岛今天要去电器街的！」
-[2023-12-18 02:38:25] Debug: 「什么嘛，明明昨天答应好岛岛今天要去电器街的！」 [2x]
-[2023-12-18 02:38:25] Debug: \C[1]眼前这位女孩，名字叫做绫里岛岛，因为某些原因，现在不得不寄居在我的家里。
-[2023-12-18 02:38:25] Debug: \C[1]眼前这位女孩，名字叫做绫里岛岛，因为某些原因
-[2023-12-18 02:38:25] Debug: ，现在不得不寄居在我的家里。
-[2023-12-18 02:38:27] Debug: \C[1]姑且可以算是，我的助手吧。
-[2023-12-18 02:38:28] Debug: \C[1]姑且可以算是，我的助手吧。 [2x]
-[2023-12-18 02:38:28] Debug: 「啊！对不起，是我昨晚忙的太晚了...」
-[2023-12-18 02:38:29] Debug: 「啊！对不起，是我昨晚忙的太晚了...」 [2x]
-[2023-12-18 02:38:29] Debug: 「我去收拾下，现在出发，应该也许还来得及...」
-[2023-12-18 02:38:30] Debug: 「我去收拾下，现在出发，应该也许还来得及...」 [2x]
-[2023-12-18 02:38:30] Debug: 「你能不能快点，《传颂之物》的发售活动下午 2 点就开始了，你已经没有吃饭的时间了！」
-[2023-12-18 02:38:30] Debug: 「你能不能快点，《传颂之物》的发售活动下午 2 点就
-[2023-12-18 02:38:30] Debug: 开始了，你已经没有吃饭的时间了！」
-[2023-12-18 02:38:32] Debug: 「是是是是，遵命！」
-[2023-12-18 02:38:33] Debug: 「是是是是，遵命！」 [2x]
-[2023-12-18 02:38:33] Debug: \C[1]说起来，我为什么要对这个家伙唯命是从？
-[2023-12-18 02:38:34] Debug: \C[1]说起来，我为什么要对这个家伙唯命是从？ [2x]
-[2023-12-18 02:38:34] Debug: \C[1]可是一边穿衣服，一边我又回想起了数小时前的事情。
-[2023-12-18 02:38:34] Debug: \C[1]可是一边穿衣服，一边我又回想起了数小时前的事
-[2023-12-18 02:38:34] Debug: 情。
-[2023-12-18 02:38:35] Debug: \C[1]你不禁又陷入了沉思。
-[2023-12-18 02:38:42] Debug: \C[1]你不禁又陷入了沉思。 [2x]
-[2023-12-18 02:38:42] Debug: 「死者是两名跨性别女孩，一之濑美莉和一之濑美芽。据法医的解剖报告，死因是\C[2]亚硝酸钠\C[0]中毒。」
-[2023-12-18 02:38:42] Debug: 「死者是两名跨性别女孩，一之濑美莉和一之濑美芽。据
-[2023-12-18 02:38:42] Debug: 法医的解剖报告，死因是\C[2]亚硝酸钠\C[0]中毒。」
-[2023-12-18 02:38:46] Debug: libpng: iCCP: known incorrect sRGB profile
-[2023-12-18 02:38:46] Debug: libpng: iCCP: cHRM chunk does not match sRGB
-[2023-12-18 02:38:46] Debug: \C[1]死者的解剖资料，死因是\C[2]亚硝酸钠\C[0]中毒。
-[2023-12-18 02:38:46] Debug: \C[1]死者的解剖资料，死因是\C[2]亚硝酸钠\C[0]中毒
-[2023-12-18 02:38:46] Debug: 。
-[2023-12-18 02:38:49] Debug: 证物加入，死者的法医解剖记录。
-[2023-12-18 02:38:51] Debug: 证物加入，死者的法医解剖记录。 [2x]
-[2023-12-18 02:38:51] Debug: 据说现场还发现了两瓶棕色的药瓶。
-[2023-12-18 02:38:52] Debug: 据说现场还发现了两瓶棕色的药瓶。 [2x]
-[2023-12-18 02:38:52] Debug: libpng: iCCP: known incorrect sRGB profile
-[2023-12-18 02:38:52] Debug: libpng: iCCP: cHRM chunk does not match sRGB
-[2023-12-18 02:38:52] Debug: 从里面检查出了残留的\C[2]亚硝酸钠\C[0]。
-[2023-12-18 02:38:54] Debug: 从里面检查出了残留的\C[2]亚硝酸钠\C[0]。 [2x]
-[2023-12-18 02:38:54] Debug: \C[2]亚硝酸钠（NaNO2）\C[0]常用于食品的染色和防腐。纯净的亚硝酸钠是一种白色至浅黄色晶体，水溶液呈弱碱性。不慎摄入亦会致人死亡。
-[2023-12-18 02:38:54] Debug: \C[2]亚硝酸钠（NaNO2）\C[0]常用于食品的染色和防腐
-[2023-12-18 02:38:54] Debug: 。纯净的亚硝酸钠是一种白色至浅黄色晶体，水溶液呈弱
-[2023-12-18 02:38:54] Debug: 碱性。不慎摄入亦会致人死亡。
-[2023-12-18 02:38:59] Debug: 证物加入，现场发现的曾经装有\C[2]亚硝酸钠\C[0]的棕色容器。
-[2023-12-18 02:38:59] Debug: 证物加入，现场发现的曾经装有\C[2]亚硝酸钠\C[0]的棕
-[2023-12-18 02:38:59] Debug: 色容器。
-[2023-12-18 02:39:08] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
-[2023-12-18 02:39:08] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
-[2023-12-18 02:39:10] Debug: EasyRPG Player 0.7 git+460@9ee72af7-dirty (2023-01-26) started
-[2023-12-18 02:39:10] Debug: ==============================================================
-[2023-12-18 02:39:10] Debug: CLI: 
-[2023-12-18 02:39:10] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
-[2023-12-18 02:39:10] Debug: Seeded the RNG with 1702838349.
-[2023-12-18 02:39:10] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
-[2023-12-18 02:39:10] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
-[2023-12-18 02:39:10] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
-[2023-12-18 02:39:10] Debug: Detected encoding: windows-936-2000
-[2023-12-18 02:39:10] Debug: Game and Save Directory:
-[2023-12-18 02:39:10] Debug: 1: [Native] 
-[2023-12-18 02:39:10] Debug: Loading game EasyRPG Player
-[2023-12-18 02:39:10] Debug: Using RPG2k3 (English release, v1.11) Interpreter
-[2023-12-18 02:39:10] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
-[2023-12-18 02:39:10] Debug: Adding D:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
-[2023-12-18 02:39:10] Debug: RTP is "Official English" (675/675)
-[2023-12-18 02:39:10] Debug: RTP path C:\RPG2003\RTP is invalid, not adding
-[2023-12-18 02:39:10] Debug: Patch configuration: dynrpg=false maniac=false
-[2023-12-18 02:39:10] Debug: Cannot find: Font/ExFont
-[2023-12-18 02:39:10] Debug: Cannot find: ./ExFont
-[2023-12-18 02:39:10] Debug: Loading ExFont from RPG_RT.exe
-[2023-12-18 02:39:10] Debug: EXEReader: EXFONT resource found (DE 0xe9f20; 0xeff60; len 0x2168)
-[2023-12-18 02:39:10] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
-[2023-12-18 02:39:10] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
-[2023-12-18 02:39:10] Debug: Cannot find: Font/Font
-[2023-12-18 02:39:10] Debug: Cannot find: Font/Font2
-[2023-12-18 02:39:15] Debug: Loaded Map Map0001.lmu
-[2023-12-18 02:39:15] Debug: Tree: MAP0001
-[2023-12-18 02:39:15] Debug: Game uses RTP "Official English"
-[2023-12-18 02:39:15] Debug: libpng: iCCP: known incorrect sRGB profile
-[2023-12-18 02:39:15] Debug: libpng: iCCP: cHRM chunk does not match sRGB
-[2023-12-18 02:39:15] Debug: \C[15]2101 年，11 月 24 日
-[2023-12-18 02:39:15] Debug: \C[15]2101 年，11 月 24 日 [2x]
-[2023-12-18 02:39:15] Debug: \C[15]东京时间，04:38 AM 星期三
-[2023-12-18 02:39:15] Debug: \C[15]东京时间，04:38 AM 星期三 [2x]
-[2023-12-18 02:39:15] Debug: \C[2]叮铃铃... 叮铃铃...
-[2023-12-18 02:39:16] Debug: \C[2]叮铃铃... 叮铃铃... [2x]
-[2023-12-18 02:39:16] Debug: Fluidsynth: Could not load soundfont.
-[2023-12-18 02:39:16] Debug: \C[2]叮铃铃... 叮铃铃...
-[2023-12-18 02:39:16] Debug: \C[2]叮铃铃... 叮铃铃... [2x]
-[2023-12-18 02:39:16] Debug: \C[1]这么晚，会是谁打来的电话？
-[2023-12-18 02:39:16] Debug: \C[1]这么晚，会是谁打来的电话？ [2x]
-[2023-12-18 02:39:16] Debug: \C[1]电话号码看起来也像是什么随机生成的乱码。
-[2023-12-18 02:39:16] Debug: \C[1]电话号码看起来也像是什么随机生成的乱码。 [2x]
-[2023-12-18 02:39:16] Debug: 姑且看一眼号码归属地...
-[2023-12-18 02:39:16] Debug: 姑且看一眼号码归属地... [2x]
-[2023-12-18 02:39:16] Debug: \C[2]瑞士\C[0]？
-[2023-12-18 02:39:16] Debug: \C[2]瑞士\C[0]？ [2x]
-[2023-12-18 02:39:16] Debug: 该不会是什么跨国诈骗电话吧...
-[2023-12-18 02:39:17] Debug: 该不会是什么跨国诈骗电话吧... [2x]
-[2023-12-18 02:39:17] Debug: \C[1]等下... 从瑞士打来的话，该不会是... \C[2]那位大人\C[0]？
-[2023-12-18 02:39:17] Debug: \C[1]等下... 从瑞士打来的话，该不会是... \C[2]那位
-[2023-12-18 02:39:17] Debug: 大人\C[0]？
-[2023-12-18 02:39:17] Debug: ？？？「用快递员手机号查一下地址。」
-[2023-12-18 02:39:17] Debug: ？？？「用快递员手机号查一下地址。」 [2x]
-[2023-12-18 02:39:17] Debug: \C[1]电话里传来了陌生而又优雅的女孩子的声音。
-[2023-12-18 02:39:17] Debug: \C[1]电话里传来了陌生而又优雅的女孩子的声音。 [2x]
-[2023-12-18 02:39:17] Debug: ？？？「然后报个警。」
-[2023-12-18 02:39:17] Debug: ？？？「然后报个警。」 [2x]
-[2023-12-18 02:39:17] Debug: ？？？「说明一下要用\C[2]亚甲基蓝\C[0]。」
-[2023-12-18 02:39:17] Debug: ？？？「说明一下要用\C[2]亚甲基蓝\C[0]。」 [2x]
-[2023-12-18 02:39:17] Debug: \C[1]果然是她。
-[2023-12-18 02:39:17] Debug: \C[1]果然是她。 [2x]
-[2023-12-18 02:39:17] Debug: \C[1]虽然你从未听过她的声音。
-[2023-12-18 02:39:17] Debug: \C[1]虽然你从未听过她的声音。 [2x]
-[2023-12-18 02:39:17] Debug: \C[1]但直觉是这么告诉你的。
-[2023-12-18 02:39:17] Debug: \C[1]但直觉是这么告诉你的。 [2x]
-[2023-12-18 02:39:17] Debug: ？？？「快！其它人这个点都联系不上！」
-[2023-12-18 02:39:18] Debug: ？？？「快！其它人这个点都联系不上！」 [2x]
-[2023-12-18 02:39:18] Debug: 电话挂断。
-[2023-12-18 02:39:18] Debug: 电话挂断。 [2x]
-[2023-12-18 02:39:18] Debug: 虽然你还没有完全搞清楚事情的来龙去脉。
-[2023-12-18 02:39:18] Debug: 虽然你还没有完全搞清楚事情的来龙去脉。 [2x]
-[2023-12-18 02:39:18] Debug: 但是出于对那个匆匆而过的声音的信任，你立即拨通了当地警视厅的电话，一切事不宜迟。
-[2023-12-18 02:39:18] Debug: 但是出于对那个匆匆而过的声音的信任，你立即拨通了当
-[2023-12-18 02:39:18] Debug: 地警视厅的电话，一切事不宜迟。
-[2023-12-18 02:39:18] Debug: ...
-[2023-12-18 02:39:18] Debug: ... [2x]
-[2023-12-18 02:39:18] Debug: ... ...
-[2023-12-18 02:39:18] Debug: ... ... [2x]
-[2023-12-18 02:39:18] Debug: 「汲虹君... 汲虹君... 」
-[2023-12-18 02:39:18] Debug: 「汲虹君... 汲虹君... 」 [2x]
-[2023-12-18 02:39:18] Debug: 「快起床，已经过了中午了！」
-[2023-12-18 02:39:18] Debug: 「快起床，已经过了中午了！」 [2x]
-[2023-12-18 02:39:18] Debug: libpng: iCCP: known incorrect sRGB profile
-[2023-12-18 02:39:18] Debug: libpng: iCCP: cHRM chunk does not match sRGB
-[2023-12-18 02:39:18] Debug: 耳边传来熟悉的呼唤声。
-[2023-12-18 02:39:18] Debug: 耳边传来熟悉的呼唤声。 [2x]
-[2023-12-18 02:39:18] Debug: 我努力起身，缓慢的睁开眼睛。
-[2023-12-18 02:39:18] Debug: 我努力起身，缓慢的睁开眼睛。 [2x]
-[2023-12-18 02:39:18] Debug: 阳光缓缓的洒入眼帘，已经是午后了吗...
-[2023-12-18 02:39:18] Debug: 阳光缓缓的洒入眼帘，已经是午后了吗... [2x]
-[2023-12-18 02:39:18] Debug: ...
-[2023-12-18 02:39:18] Debug: ... [2x]
-[2023-12-18 02:39:18] Debug: 「什么嘛，明明昨天答应好岛岛今天要去电器街的！」
-[2023-12-18 02:39:18] Debug: 「什么嘛，明明昨天答应好岛岛今天要去电器街的！」 [2x]
-[2023-12-18 02:39:18] Debug: \C[1]眼前这位女孩，名字叫做绫里岛岛，因为某些原因，现在不得不寄居在我的家里。
-[2023-12-18 02:39:18] Debug: \C[1]眼前这位女孩，名字叫做绫里岛岛，因为某些原因
-[2023-12-18 02:39:18] Debug: ，现在不得不寄居在我的家里。
-[2023-12-18 02:39:18] Debug: \C[1]姑且可以算是，我的助手吧。
-[2023-12-18 02:39:19] Debug: \C[1]姑且可以算是，我的助手吧。 [2x]
-[2023-12-18 02:39:19] Debug: 「啊！对不起，是我昨晚忙的太晚了...」
-[2023-12-18 02:39:19] Debug: 「啊！对不起，是我昨晚忙的太晚了...」 [2x]
-[2023-12-18 02:39:19] Debug: 「我去收拾下，现在出发，应该也许还来得及...」
-[2023-12-18 02:39:19] Debug: 「我去收拾下，现在出发，应该也许还来得及...」 [2x]
-[2023-12-18 02:39:19] Debug: 「你能不能快点，《传颂之物》的发售活动下午 2 点就开始了，你已经没有吃饭的时间了！」
-[2023-12-18 02:39:19] Debug: 「你能不能快点，《传颂之物》的发售活动下午 2 点就
-[2023-12-18 02:39:19] Debug: 开始了，你已经没有吃饭的时间了！」
-[2023-12-18 02:39:19] Debug: 「是是是是，遵命！」
-[2023-12-18 02:39:20] Debug: 「是是是是，遵命！」 [2x]
-[2023-12-18 02:39:20] Debug: \C[1]说起来，我为什么要对这个家伙唯命是从？
-[2023-12-18 02:39:20] Debug: \C[1]说起来，我为什么要对这个家伙唯命是从？ [2x]
-[2023-12-18 02:39:20] Debug: \C[1]可是一边穿衣服，一边我又回想起了数小时前的事情。
-[2023-12-18 02:39:20] Debug: \C[1]可是一边穿衣服，一边我又回想起了数小时前的事
-[2023-12-18 02:39:20] Debug: 情。
-[2023-12-18 02:39:20] Debug: \C[1]你不禁又陷入了沉思。
-[2023-12-18 02:39:21] Debug: \C[1]你不禁又陷入了沉思。 [2x]
-[2023-12-18 02:39:21] Debug: 「死者是两名跨性别女孩，一之濑美莉和一之濑美芽。据法医的解剖报告，死因是\C[2]亚硝酸钠\C[0]中毒。」
-[2023-12-18 02:39:21] Debug: 「死者是两名跨性别女孩，一之濑美莉和一之濑美芽。据
-[2023-12-18 02:39:21] Debug: 法医的解剖报告，死因是\C[2]亚硝酸钠\C[0]中毒。」
-[2023-12-18 02:39:21] Debug: libpng: iCCP: known incorrect sRGB profile
-[2023-12-18 02:39:21] Debug: libpng: iCCP: cHRM chunk does not match sRGB
-[2023-12-18 02:39:21] Debug: \C[1]死者的解剖资料，死因是\C[2]亚硝酸钠\C[0]中毒。
-[2023-12-18 02:39:21] Debug: \C[1]死者的解剖资料，死因是\C[2]亚硝酸钠\C[0]中毒
-[2023-12-18 02:39:21] Debug: 。
-[2023-12-18 02:39:22] Debug: 证物加入，死者的法医解剖记录。
-[2023-12-18 02:39:23] Debug: 证物加入，死者的法医解剖记录。 [2x]
-[2023-12-18 02:39:23] Debug: 据说现场还发现了两瓶棕色的药瓶。
-[2023-12-18 02:39:31] Debug: 据说现场还发现了两瓶棕色的药瓶。 [2x]
-[2023-12-18 02:39:31] Debug: libpng: iCCP: known incorrect sRGB profile
-[2023-12-18 02:39:31] Debug: libpng: iCCP: cHRM chunk does not match sRGB
-[2023-12-18 02:39:31] Debug: 从里面检查出了残留的\C[2]亚硝酸钠\C[0]。
-[2023-12-18 02:39:33] Debug: 从里面检查出了残留的\C[2]亚硝酸钠\C[0]。 [2x]
-[2023-12-18 03:08:55] Debug: EasyRPG Player 0.7 git+460@9ee72af7-dirty (2023-01-26) started
-[2023-12-18 03:08:55] Debug: ==============================================================
-[2023-12-18 03:08:55] Debug: CLI: 
-[2023-12-18 03:08:55] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
-[2023-12-18 03:08:55] Debug: Seeded the RNG with 1702840135.
-[2023-12-18 03:08:55] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
-[2023-12-18 03:08:55] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
-[2023-12-18 03:08:55] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
-[2023-12-18 03:08:55] Debug: Detected encoding: windows-936-2000
-[2023-12-18 03:08:55] Debug: Game and Save Directory:
-[2023-12-18 03:08:55] Debug: 1: [Native] 
-[2023-12-18 03:08:56] Debug: Loading game EasyRPG Player
-[2023-12-18 03:08:56] Debug: Using RPG2k3 (English release, v1.11) Interpreter
-[2023-12-18 03:08:56] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
-[2023-12-18 03:08:56] Debug: Adding D:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
-[2023-12-18 03:08:56] Debug: RTP is "Official English" (675/675)
-[2023-12-18 03:08:56] Debug: RTP path C:\RPG2003\RTP is invalid, not adding
-[2023-12-18 03:08:56] Debug: Patch configuration: dynrpg=false maniac=false
-[2023-12-18 03:08:56] Debug: Cannot find: Font/ExFont
-[2023-12-18 03:08:56] Debug: Cannot find: ./ExFont
-[2023-12-18 03:08:56] Debug: Loading ExFont from RPG_RT.exe
-[2023-12-18 03:08:56] Debug: EXEReader: EXFONT resource found (DE 0xe9f20; 0xeff60; len 0x2168)
-[2023-12-18 03:08:56] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
-[2023-12-18 03:08:56] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
-[2023-12-18 03:08:56] Debug: Cannot find: Font/Font
-[2023-12-18 03:08:56] Debug: Cannot find: Font/Font2
-[2023-12-18 03:08:57] Debug: Loaded Map Map0001.lmu
-[2023-12-18 03:08:57] Debug: Tree: MAP0001
-[2023-12-18 03:08:58] Debug: Game uses RTP "Official English"
-[2023-12-18 03:08:58] Debug: libpng: iCCP: known incorrect sRGB profile
-[2023-12-18 03:08:58] Debug: libpng: iCCP: cHRM chunk does not match sRGB
-[2023-12-18 03:08:59] Debug: \C[15]2101 年，11 月 24 日
-[2023-12-18 03:08:59] Debug: \C[15]2101 年，11 月 24 日 [2x]
-[2023-12-18 03:08:59] Debug: \C[15]东京时间，04:38 AM 星期三
-[2023-12-18 03:08:59] Debug: \C[15]东京时间，04:38 AM 星期三 [2x]
-[2023-12-18 03:08:59] Debug: \C[2]叮铃铃... 叮铃铃...
-[2023-12-18 03:08:59] Debug: \C[2]叮铃铃... 叮铃铃... [2x]
-[2023-12-18 03:08:59] Debug: Fluidsynth: Could not load soundfont.
-[2023-12-18 03:08:59] Debug: \C[2]叮铃铃... 叮铃铃...
-[2023-12-18 03:08:59] Debug: \C[2]叮铃铃... 叮铃铃... [2x]
-[2023-12-18 03:08:59] Debug: \C[1]这么晚，会是谁打来的电话？
-[2023-12-18 03:08:59] Debug: \C[1]这么晚，会是谁打来的电话？ [2x]
-[2023-12-18 03:08:59] Debug: \C[1]电话号码看起来也像是什么随机生成的乱码。
-[2023-12-18 03:08:59] Debug: \C[1]电话号码看起来也像是什么随机生成的乱码。 [2x]
-[2023-12-18 03:08:59] Debug: 姑且看一眼号码归属地...
-[2023-12-18 03:08:59] Debug: 姑且看一眼号码归属地... [2x]
-[2023-12-18 03:08:59] Debug: \C[2]瑞士\C[0]？
-[2023-12-18 03:08:59] Debug: \C[2]瑞士\C[0]？ [2x]
-[2023-12-18 03:08:59] Debug: 该不会是什么跨国诈骗电话吧...
-[2023-12-18 03:09:00] Debug: 该不会是什么跨国诈骗电话吧... [2x]
-[2023-12-18 03:09:00] Debug: \C[1]等下... 从瑞士打来的话，该不会是... \C[2]那位大人\C[0]？
-[2023-12-18 03:09:00] Debug: \C[1]等下... 从瑞士打来的话，该不会是... \C[2]那位
-[2023-12-18 03:09:00] Debug: 大人\C[0]？
-[2023-12-18 03:09:00] Debug: ？？？「用快递员手机号查一下地址。」
-[2023-12-18 03:09:01] Debug: ？？？「用快递员手机号查一下地址。」 [2x]
-[2023-12-18 03:09:01] Debug: \C[1]电话里传来了陌生而又优雅的女孩子的声音。
-[2023-12-18 03:09:01] Debug: \C[1]电话里传来了陌生而又优雅的女孩子的声音。 [2x]
-[2023-12-18 03:09:01] Debug: ？？？「然后报个警。」
-[2023-12-18 03:09:01] Debug: ？？？「然后报个警。」 [2x]
-[2023-12-18 03:09:01] Debug: ？？？「说明一下要用\C[2]亚甲基蓝\C[0]。」
-[2023-12-18 03:09:01] Debug: ？？？「说明一下要用\C[2]亚甲基蓝\C[0]。」 [2x]
-[2023-12-18 03:09:01] Debug: \C[1]果然是她。
-[2023-12-18 03:09:01] Debug: \C[1]果然是她。 [2x]
-[2023-12-18 03:09:01] Debug: \C[1]虽然你从未听过她的声音。
-[2023-12-18 03:09:01] Debug: \C[1]虽然你从未听过她的声音。 [2x]
-[2023-12-18 03:09:01] Debug: \C[1]但直觉是这么告诉你的。
-[2023-12-18 03:09:01] Debug: \C[1]但直觉是这么告诉你的。 [2x]
-[2023-12-18 03:09:01] Debug: ？？？「快！其它人这个点都联系不上！」
-[2023-12-18 03:09:01] Debug: ？？？「快！其它人这个点都联系不上！」 [2x]
-[2023-12-18 03:09:01] Debug: 电话挂断。
-[2023-12-18 03:09:01] Debug: 电话挂断。 [2x]
-[2023-12-18 03:09:01] Debug: 虽然你还没有完全搞清楚事情的来龙去脉。
-[2023-12-18 03:09:01] Debug: 虽然你还没有完全搞清楚事情的来龙去脉。 [2x]
-[2023-12-18 03:09:01] Debug: 但是出于对那个匆匆而过的声音的信任，你立即拨通了当地警视厅的电话，一切事不宜迟。
-[2023-12-18 03:09:01] Debug: 但是出于对那个匆匆而过的声音的信任，你立即拨通了当
-[2023-12-18 03:09:01] Debug: 地警视厅的电话，一切事不宜迟。
-[2023-12-18 03:09:01] Debug: ...
-[2023-12-18 03:09:01] Debug: ... [2x]
-[2023-12-18 03:09:01] Debug: ... ...
-[2023-12-18 03:09:01] Debug: ... ... [2x]
-[2023-12-18 03:09:01] Debug: 「汲虹君... 汲虹君... 」
-[2023-12-18 03:09:01] Debug: 「汲虹君... 汲虹君... 」 [2x]
-[2023-12-18 03:09:01] Debug: 「快起床，已经过了中午了！」
-[2023-12-18 03:09:01] Debug: 「快起床，已经过了中午了！」 [2x]
-[2023-12-18 03:09:01] Debug: libpng: iCCP: known incorrect sRGB profile
-[2023-12-18 03:09:01] Debug: libpng: iCCP: cHRM chunk does not match sRGB
 [2023-12-18 03:09:01] Debug: 耳边传来熟悉的呼唤声。
 [2023-12-18 03:09:01] Debug: 耳边传来熟悉的呼唤声。 [2x]
 [2023-12-18 03:09:01] Debug: 我努力起身，缓慢的睁开眼睛。
@@ -1355,3 +841,498 @@
 [2023-12-19 06:01:49] Debug: \C[15]东京时间，04:38 AM 星期三拘留所 [2x]
 [2023-12-19 06:01:49] Debug: 「......」
 [2023-12-19 06:01:50] Debug: 「......」 [2x]
+[2023-12-19 06:01:50] Debug: 「这样啊，她们到最后，还是替我找来了律师啊...」
+[2023-12-19 06:10:00] Debug: 「这样啊，她们到最后，还是替我找来了律师啊...」 [2x]
+[2023-12-19 06:19:25] Debug: EasyRPG Player 0.7 git+460@9ee72af7-dirty (2023-01-26) started
+[2023-12-19 06:19:25] Debug: ==============================================================
+[2023-12-19 06:19:25] Debug: CLI: 
+[2023-12-19 06:19:25] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2023-12-19 06:19:25] Debug: Seeded the RNG with 1702937964.
+[2023-12-19 06:19:25] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2023-12-19 06:19:25] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2023-12-19 06:19:25] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2023-12-19 06:19:25] Debug: Detected encoding: windows-936-2000
+[2023-12-19 06:19:25] Debug: Game and Save Directory:
+[2023-12-19 06:19:25] Debug: 1: [Native] 
+[2023-12-19 06:19:25] Debug: Loading game EasyRPG Player
+[2023-12-19 06:19:25] Debug: Using RPG2k3 (English release, v1.11) Interpreter
+[2023-12-19 06:19:25] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2023-12-19 06:19:25] Debug: Adding D:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2023-12-19 06:19:25] Debug: RTP is "Official English" (675/675)
+[2023-12-19 06:19:25] Debug: RTP path C:\RPG2003\RTP is invalid, not adding
+[2023-12-19 06:19:25] Debug: Patch configuration: dynrpg=false maniac=false
+[2023-12-19 06:19:25] Debug: Cannot find: Font/ExFont
+[2023-12-19 06:19:25] Debug: Cannot find: ./ExFont
+[2023-12-19 06:19:25] Debug: Loading ExFont from RPG_RT.exe
+[2023-12-19 06:19:25] Debug: EXEReader: EXFONT resource found (DE 0xe9f20; 0xeff60; len 0x2168)
+[2023-12-19 06:19:25] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-12-19 06:19:25] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-12-19 06:19:25] Debug: Cannot find: Font/Font
+[2023-12-19 06:19:25] Debug: Cannot find: Font/Font2
+[2023-12-19 06:19:27] Debug: Loaded Map Map0001.lmu
+[2023-12-19 06:19:27] Debug: Tree: MAP0001
+[2023-12-19 06:19:28] Debug: Game uses RTP "Official English"
+[2023-12-19 06:19:28] Debug: 这个游戏正在开发中。请输入想要跳入的章节（0-9）：
+[2023-12-19 06:19:33] Debug: 这个游戏正在开发中。请输入想要跳入的章节（0-9）： [2x]
+[2023-12-19 06:19:33] Debug: libpng: iCCP: known incorrect sRGB profile
+[2023-12-19 06:19:33] Debug: libpng: iCCP: cHRM chunk does not match sRGB
+[2023-12-19 06:19:34] Debug: \C[15]2101 年，11 月 24 日
+[2023-12-19 06:19:34] Debug: \C[15]2101 年，11 月 24 日 [2x]
+[2023-12-19 06:19:34] Debug: \C[15]东京时间，04:38 AM 星期三拘留所
+[2023-12-19 06:19:34] Debug: \C[15]东京时间，04:38 AM 星期三拘留所 [2x]
+[2023-12-19 06:19:34] Debug: 「......」
+[2023-12-19 06:19:34] Debug: 「......」 [2x]
+[2023-12-19 06:19:34] Debug: 「这样啊，她们到最后，还是替我找来了律师啊...」
+[2023-12-19 06:19:34] Debug: 「这样啊，她们到最后，还是替我找来了律师啊...」 [2x]
+[2023-12-19 06:19:34] Debug: 「可是，抱歉占用了大家的时间呢，从一开始，我就已经是一个有罪之人了。」
+[2023-12-19 06:19:34] Debug: 「可是，抱歉占用了大家的时间呢，从一开始，我就已经
+[2023-12-19 06:19:34] Debug: 是一个有罪之人了。」
+[2023-12-19 06:19:38] Debug: 「抱歉，不过请问。你所说的她们，是指？」
+[2023-12-19 06:19:42] Debug: 「抱歉，不过请问。你所说的她们，是指？」 [2x]
+[2023-12-19 06:19:42] Debug: 「我猜是，之前买过我的药的客人们吧。」
+[2023-12-19 06:19:43] Debug: 「我猜是，之前买过我的药的客人们吧。」 [2x]
+[2023-12-19 06:19:43] Debug: 「虽然不能，百分百的确定，我在看守所中没有任何与她们接触的机会。」
+[2023-12-19 06:19:43] Debug: 「虽然不能，百分百的确定，我在看守所中没有任何与她
+[2023-12-19 06:19:43] Debug: 们接触的机会。」
+[2023-12-19 06:19:48] Debug: 「为什么顾客要在此时帮助你？」
+[2023-12-19 06:19:50] Debug: 「为什么顾客要在此时帮助你？」 [2x]
+[2023-12-19 06:19:50] Debug: 「这是因为，在国内，很多人缺少合法购买到这些药物的渠道。」
+[2023-12-19 06:19:50] Debug: 「这是因为，在国内，很多人缺少合法购买到这些药物的
+[2023-12-19 06:19:50] Debug: 渠道。」
+[2023-12-19 06:19:52] Debug: 「说起来，我也不认为我在这件事情上有罪。」
+[2023-12-19 06:19:56] Debug: 「说起来，我也不认为我在这件事情上有罪。」 [2x]
+[2023-12-19 06:21:30] Debug: EasyRPG Player 0.7 git+460@9ee72af7-dirty (2023-01-26) started
+[2023-12-19 06:21:30] Debug: ==============================================================
+[2023-12-19 06:21:30] Debug: CLI: 
+[2023-12-19 06:21:30] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2023-12-19 06:21:30] Debug: Seeded the RNG with 1702938089.
+[2023-12-19 06:21:30] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2023-12-19 06:21:30] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2023-12-19 06:21:30] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2023-12-19 06:21:30] Debug: Detected encoding: windows-936-2000
+[2023-12-19 06:21:30] Debug: Game and Save Directory:
+[2023-12-19 06:21:30] Debug: 1: [Native] 
+[2023-12-19 06:21:30] Debug: Loading game EasyRPG Player
+[2023-12-19 06:21:30] Debug: Using RPG2k3 (English release, v1.11) Interpreter
+[2023-12-19 06:21:30] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2023-12-19 06:21:30] Debug: Adding D:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2023-12-19 06:21:30] Debug: RTP is "Official English" (675/675)
+[2023-12-19 06:21:30] Debug: RTP path C:\RPG2003\RTP is invalid, not adding
+[2023-12-19 06:21:30] Debug: Patch configuration: dynrpg=false maniac=false
+[2023-12-19 06:21:30] Debug: Cannot find: Font/ExFont
+[2023-12-19 06:21:30] Debug: Cannot find: ./ExFont
+[2023-12-19 06:21:30] Debug: Loading ExFont from RPG_RT.exe
+[2023-12-19 06:21:30] Debug: EXEReader: EXFONT resource found (DE 0xe9f20; 0xeff60; len 0x2168)
+[2023-12-19 06:21:30] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-12-19 06:21:30] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-12-19 06:21:30] Debug: Cannot find: Font/Font
+[2023-12-19 06:21:30] Debug: Cannot find: Font/Font2
+[2023-12-19 06:21:31] Debug: Loaded Map Map0001.lmu
+[2023-12-19 06:21:31] Debug: Tree: MAP0001
+[2023-12-19 06:21:31] Debug: Game uses RTP "Official English"
+[2023-12-19 06:21:31] Debug: 这个游戏正在开发中。请输入想要跳入的章节（0-9）：
+[2023-12-19 06:21:32] Debug: 这个游戏正在开发中。请输入想要跳入的章节（0-9）： [2x]
+[2023-12-19 06:21:32] Debug: libpng: iCCP: known incorrect sRGB profile
+[2023-12-19 06:21:32] Debug: libpng: iCCP: cHRM chunk does not match sRGB
+[2023-12-19 06:21:33] Debug: \C[15]2101 年，11 月 24 日
+[2023-12-19 06:21:33] Debug: \C[15]2101 年，11 月 24 日 [2x]
+[2023-12-19 06:21:33] Debug: \C[15]东京时间，04:38 AM 星期三拘留所
+[2023-12-19 06:21:33] Debug: \C[15]东京时间，04:38 AM 星期三拘留所 [2x]
+[2023-12-19 06:21:33] Debug: 「......」
+[2023-12-19 06:21:33] Debug: 「......」 [2x]
+[2023-12-19 06:21:33] Debug: 「这样啊，她们到最后，还是替我找来了律师啊...」
+[2023-12-19 06:21:34] Debug: 「这样啊，她们到最后，还是替我找来了律师啊...」 [2x]
+[2023-12-19 06:21:34] Debug: 「可是，抱歉占用了大家的时间呢，从一开始，我就已经是一个有罪之人了。」
+[2023-12-19 06:21:34] Debug: 「可是，抱歉占用了大家的时间呢，从一开始，我就已经
+[2023-12-19 06:21:34] Debug: 是一个有罪之人了。」
+[2023-12-19 06:21:38] Debug: 「抱歉，不过请问。你所说的她们，是指？」
+[2023-12-19 06:21:39] Debug: 「抱歉，不过请问。你所说的她们，是指？」 [2x]
+[2023-12-19 06:21:39] Debug: 「我猜是，之前买过我的药的客人们吧。」
+[2023-12-19 06:21:40] Debug: 「我猜是，之前买过我的药的客人们吧。」 [2x]
+[2023-12-19 06:21:40] Debug: 「虽然不能，百分百的确定，我在看守所中没有任何与她们接触的机会。」
+[2023-12-19 06:21:40] Debug: 「虽然不能，百分百的确定，我在看守所中没有任何与她
+[2023-12-19 06:21:40] Debug: 们接触的机会。」
+[2023-12-19 06:21:44] Debug: 「为什么顾客要在此时帮助你？」
+[2023-12-19 06:21:49] Debug: 「为什么顾客要在此时帮助你？」 [2x]
+[2023-12-19 06:21:49] Debug: 「这是因为，在国内，很多人缺少合法购买到这些药物的渠道。」
+[2023-12-19 06:21:49] Debug: 「这是因为，在国内，很多人缺少合法购买到这些药物的
+[2023-12-19 06:21:49] Debug: 渠道。」
+[2023-12-19 06:22:02] Debug: 「说起来，我也不认为我在这件事情上有罪。」
+[2023-12-19 06:22:05] Debug: 「说起来，我也不认为我在这件事情上有罪。」 [2x]
+[2023-12-19 06:22:05] Debug: 「如果我们能够生活在一个可以更加容易合法获得这些药物的国度里，我想我就不再需要做这些工作了。」
+[2023-12-19 06:22:05] Debug: 「如果我们能够生活在一个可以更加容易合法获得这些药
+[2023-12-19 06:22:05] Debug: 物的国度里，我想我就不再需要做这些工作了。」
+[2023-12-19 06:22:16] Debug: 「只是，与其说是帮助她们，不如说是在帮助我自己。」
+[2023-12-19 06:22:19] Debug: 「只是，与其说是帮助她们，不如说是在帮助我自己。」 [2x]
+[2023-12-19 06:22:19] Debug: 「我永远是那个孤独的人啊。」
+[2023-12-19 06:22:29] Debug: 「我永远是那个孤独的人啊。」 [2x]
+[2023-12-19 06:22:29] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-12-19 06:22:29] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-12-19 06:24:19] Debug: EasyRPG Player 0.7 git+460@9ee72af7-dirty (2023-01-26) started
+[2023-12-19 06:24:19] Debug: ==============================================================
+[2023-12-19 06:24:19] Debug: CLI: 
+[2023-12-19 06:24:19] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2023-12-19 06:24:19] Debug: Seeded the RNG with 1702938258.
+[2023-12-19 06:24:19] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2023-12-19 06:24:19] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2023-12-19 06:24:19] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2023-12-19 06:24:19] Debug: Detected encoding: windows-936-2000
+[2023-12-19 06:24:19] Debug: Game and Save Directory:
+[2023-12-19 06:24:19] Debug: 1: [Native] 
+[2023-12-19 06:24:19] Debug: Loading game EasyRPG Player
+[2023-12-19 06:24:19] Debug: Using RPG2k3 (English release, v1.11) Interpreter
+[2023-12-19 06:24:19] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2023-12-19 06:24:19] Debug: Adding D:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2023-12-19 06:24:19] Debug: RTP is "Official English" (675/675)
+[2023-12-19 06:24:19] Debug: RTP path C:\RPG2003\RTP is invalid, not adding
+[2023-12-19 06:24:19] Debug: Patch configuration: dynrpg=false maniac=false
+[2023-12-19 06:24:19] Debug: Cannot find: Font/ExFont
+[2023-12-19 06:24:19] Debug: Cannot find: ./ExFont
+[2023-12-19 06:24:19] Debug: Loading ExFont from RPG_RT.exe
+[2023-12-19 06:24:19] Debug: EXEReader: EXFONT resource found (DE 0xe9f20; 0xeff60; len 0x2168)
+[2023-12-19 06:24:19] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-12-19 06:24:19] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-12-19 06:24:19] Debug: Cannot find: Font/Font
+[2023-12-19 06:24:19] Debug: Cannot find: Font/Font2
+[2023-12-19 06:24:20] Debug: Loaded Map Map0001.lmu
+[2023-12-19 06:24:20] Debug: Tree: MAP0001
+[2023-12-19 06:24:21] Debug: Game uses RTP "Official English"
+[2023-12-19 06:24:21] Debug: 这个游戏正在开发中。请输入想要跳入的章节（0-9）：
+[2023-12-19 06:24:24] Debug: 这个游戏正在开发中。请输入想要跳入的章节（0-9）： [2x]
+[2023-12-19 06:24:24] Debug: libpng: iCCP: known incorrect sRGB profile
+[2023-12-19 06:24:24] Debug: libpng: iCCP: cHRM chunk does not match sRGB
+[2023-12-19 06:24:24] Debug: \C[15]2101 年，11 月 24 日
+[2023-12-19 06:24:25] Debug: \C[15]2101 年，11 月 24 日 [2x]
+[2023-12-19 06:24:25] Debug: \C[15]东京时间，04:38 AM 星期三拘留所
+[2023-12-19 06:24:26] Debug: \C[15]东京时间，04:38 AM 星期三拘留所 [2x]
+[2023-12-19 06:24:26] Debug: 「......」
+[2023-12-19 06:24:27] Debug: 「......」 [2x]
+[2023-12-19 06:24:27] Debug: 「这样啊，她们到最后，还是替我找来了律师啊...」
+[2023-12-19 06:24:29] Debug: 「这样啊，她们到最后，还是替我找来了律师啊...」 [2x]
+[2023-12-19 06:24:29] Debug: 「可是，抱歉占用了大家的时间呢，从一开始，我就已经是一个有罪之人了。」
+[2023-12-19 06:24:29] Debug: 「可是，抱歉占用了大家的时间呢，从一开始，我就已经
+[2023-12-19 06:24:29] Debug: 是一个有罪之人了。」
+[2023-12-19 06:24:34] Debug: 「抱歉，不过请问。你所说的她们，是指？」
+[2023-12-19 06:24:36] Debug: 「抱歉，不过请问。你所说的她们，是指？」 [2x]
+[2023-12-19 06:24:36] Debug: 「我猜是，之前买过我的药的客人们吧。」
+[2023-12-19 06:24:39] Debug: 「我猜是，之前买过我的药的客人们吧。」 [2x]
+[2023-12-19 06:24:39] Debug: 「虽然不能，百分百的确定，我在看守所中没有任何与她们接触的机会。」
+[2023-12-19 06:24:39] Debug: 「虽然不能，百分百的确定，我在看守所中没有任何与她
+[2023-12-19 06:24:39] Debug: 们接触的机会。」
+[2023-12-19 06:24:44] Debug: 「为什么顾客要在此时帮助你？」
+[2023-12-19 06:24:46] Debug: 「为什么顾客要在此时帮助你？」 [2x]
+[2023-12-19 06:24:46] Debug: 「这是因为，在国内，很多人缺少合法购买到这些药物的渠道。」
+[2023-12-19 06:24:46] Debug: 「这是因为，在国内，很多人缺少合法购买到这些药物的
+[2023-12-19 06:24:46] Debug: 渠道。」
+[2023-12-19 06:28:45] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-12-19 06:28:45] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-12-19 06:19:56] Debug: 「但是说与其说是帮助她们，不如说是在帮助我自己。」
+[2023-12-19 06:28:47] Debug: 「但是说与其说是帮助她们，不如说是在帮助我自己。」 [2x]
+[2023-12-19 06:28:47] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-12-19 06:28:47] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-12-19 06:38:45] Debug: EasyRPG Player 0.7 git+460@9ee72af7-dirty (2023-01-26) started
+[2023-12-19 06:38:45] Debug: ==============================================================
+[2023-12-19 06:38:45] Debug: CLI: 
+[2023-12-19 06:38:45] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2023-12-19 06:38:45] Debug: Seeded the RNG with 1702939124.
+[2023-12-19 06:38:45] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2023-12-19 06:38:45] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2023-12-19 06:38:45] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2023-12-19 06:38:45] Debug: Detected encoding: windows-936-2000
+[2023-12-19 06:38:45] Debug: Game and Save Directory:
+[2023-12-19 06:38:45] Debug: 1: [Native] 
+[2023-12-19 06:38:45] Debug: Loading game EasyRPG Player
+[2023-12-19 06:38:45] Debug: Using RPG2k3 (English release, v1.11) Interpreter
+[2023-12-19 06:38:45] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2023-12-19 06:38:45] Debug: Adding D:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2023-12-19 06:38:45] Debug: RTP is "Official English" (675/675)
+[2023-12-19 06:38:45] Debug: RTP path C:\RPG2003\RTP is invalid, not adding
+[2023-12-19 06:38:45] Debug: Patch configuration: dynrpg=false maniac=false
+[2023-12-19 06:38:45] Debug: Cannot find: Font/ExFont
+[2023-12-19 06:38:45] Debug: Cannot find: ./ExFont
+[2023-12-19 06:38:45] Debug: Loading ExFont from RPG_RT.exe
+[2023-12-19 06:38:45] Debug: EXEReader: EXFONT resource found (DE 0xe9f20; 0xeff60; len 0x2168)
+[2023-12-19 06:38:45] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-12-19 06:38:45] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-12-19 06:38:45] Debug: Cannot find: Font/Font
+[2023-12-19 06:38:45] Debug: Cannot find: Font/Font2
+[2023-12-19 06:38:46] Debug: Loaded Map Map0001.lmu
+[2023-12-19 06:38:46] Debug: Tree: MAP0001
+[2023-12-19 06:38:47] Debug: Game uses RTP "Official English"
+[2023-12-19 06:38:47] Debug: 这个游戏正在开发中。请输入想要跳入的章节（0-9）：
+[2023-12-19 06:38:50] Debug: 这个游戏正在开发中。请输入想要跳入的章节（0-9）： [2x]
+[2023-12-19 06:38:50] Debug: libpng: iCCP: known incorrect sRGB profile
+[2023-12-19 06:38:50] Debug: libpng: iCCP: cHRM chunk does not match sRGB
+[2023-12-19 06:38:50] Debug: \C[15]2101 年，11 月 24 日
+[2023-12-19 06:38:55] Debug: \C[15]2101 年，11 月 24 日 [2x]
+[2023-12-19 06:38:55] Debug: \C[15]东京时间，04:38 AM 星期三拘留所
+[2023-12-19 06:38:56] Debug: \C[15]东京时间，04:38 AM 星期三拘留所 [2x]
+[2023-12-19 06:38:56] Debug: 「......」
+[2023-12-19 06:38:57] Debug: 「......」 [2x]
+[2023-12-19 06:38:57] Debug: 「这样啊，她们到最后，还是替我找来了律师啊...」
+[2023-12-19 06:38:58] Debug: 「这样啊，她们到最后，还是替我找来了律师啊...」 [2x]
+[2023-12-19 06:38:58] Debug: 「可是，抱歉占用了大家的时间呢，从一开始，我就已经是一个有罪之人了。」
+[2023-12-19 06:38:58] Debug: 「可是，抱歉占用了大家的时间呢，从一开始，我就已经
+[2023-12-19 06:38:58] Debug: 是一个有罪之人了。」
+[2023-12-19 06:39:11] Debug: 「抱歉，不过请问。你所说的她们，是指？」
+[2023-12-19 06:39:12] Debug: 「抱歉，不过请问。你所说的她们，是指？」 [2x]
+[2023-12-19 06:39:12] Debug: 「我猜是，之前买过我的药的客人们吧。」
+[2023-12-19 06:39:14] Debug: 「我猜是，之前买过我的药的客人们吧。」 [2x]
+[2023-12-19 06:39:14] Debug: 「虽然不能，百分百的确定，我在看守所中没有任何与她们接触的机会。」
+[2023-12-19 06:39:14] Debug: 「虽然不能，百分百的确定，我在看守所中没有任何与她
+[2023-12-19 06:39:14] Debug: 们接触的机会。」
+[2023-12-19 06:39:20] Debug: 「为什么你的顾客们要在此时帮助你？」
+[2023-12-19 06:39:22] Debug: 「为什么你的顾客们要在此时帮助你？」 [2x]
+[2023-12-19 06:39:22] Debug: 「这是因为，在这个国度，因为种种的原因，很多跨性别孩子根本就缺少合法购买到这些药物的机会渠道。」
+[2023-12-19 06:39:22] Debug: 「这是因为，在这个国度，因为种种的原因，很多跨性别
+[2023-12-19 06:39:22] Debug: 孩子根本就缺少合法购买到这些药物的机会渠道。」
+[2023-12-19 06:39:25] Debug: 「说起来，我也不认为我在这件事情上有罪。」
+[2023-12-19 06:39:28] Debug: 「说起来，我也不认为我在这件事情上有罪。」 [2x]
+[2023-12-19 06:39:28] Debug: 「如果我们能够生活在一个可以更加容易合法获得这些药物的国度里，我想我就不需要再从事这些工作了。」
+[2023-12-19 06:39:28] Debug: 「如果我们能够生活在一个可以更加容易合法获得这些药
+[2023-12-19 06:39:28] Debug: 物的国度里，我想我就不需要再从事这些工作了。」
+[2023-12-19 06:39:33] Debug: 「只是，与其说是帮助她们，不如说是在帮助我自己。」
+[2023-12-19 06:40:07] Debug: 「只是，与其说是帮助她们，不如说是在帮助我自己。」 [2x]
+[2023-12-19 06:40:07] Debug: 「我永远是那个孤独的人啊。」
+[2023-12-19 06:40:08] Debug: 「我永远是那个孤独的人啊。」 [2x]
+[2023-12-19 06:40:08] Debug: 「这次也给大家添麻烦了呢，而且实际上，我也请不起律师。」
+[2023-12-19 06:40:08] Debug: 「这次也给大家添麻烦了呢，而且实际上，我也请不起律
+[2023-12-19 06:40:08] Debug: 师。」
+[2023-12-19 06:40:10] Debug: libpng: iCCP: known incorrect sRGB profile
+[2023-12-19 06:40:10] Debug: libpng: iCCP: cHRM chunk does not match sRGB
+[2023-12-19 06:40:10] Debug: 被告的证词，被告并没有钱委托律师，委托律师的钱是顾客们众筹的。
+[2023-12-19 06:40:10] Debug: 被告的证词，被告并没有钱委托律师，委托律师的钱是顾
+[2023-12-19 06:40:10] Debug: 客们众筹的。
+[2023-12-19 06:40:17] Debug: 「说起来，虽然你可能不记得了。」
+[2023-12-19 06:40:18] Debug: 「说起来，虽然你可能不记得了。」 [2x]
+[2023-12-19 06:40:18] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-12-19 06:40:18] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-12-19 06:41:05] Debug: EasyRPG Player 0.7 git+460@9ee72af7-dirty (2023-01-26) started
+[2023-12-19 06:41:05] Debug: ==============================================================
+[2023-12-19 06:41:05] Debug: CLI: 
+[2023-12-19 06:41:05] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2023-12-19 06:41:05] Debug: Seeded the RNG with 1702939264.
+[2023-12-19 06:41:05] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2023-12-19 06:41:05] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2023-12-19 06:41:05] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2023-12-19 06:41:05] Debug: Detected encoding: windows-936-2000
+[2023-12-19 06:41:05] Debug: Game and Save Directory:
+[2023-12-19 06:41:05] Debug: 1: [Native] 
+[2023-12-19 06:41:05] Debug: Loading game EasyRPG Player
+[2023-12-19 06:41:05] Debug: Using RPG2k3 (English release, v1.11) Interpreter
+[2023-12-19 06:41:05] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2023-12-19 06:41:05] Debug: Adding D:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2023-12-19 06:41:05] Debug: RTP is "Official English" (675/675)
+[2023-12-19 06:41:05] Debug: RTP path C:\RPG2003\RTP is invalid, not adding
+[2023-12-19 06:41:05] Debug: Patch configuration: dynrpg=false maniac=false
+[2023-12-19 06:41:05] Debug: Cannot find: Font/ExFont
+[2023-12-19 06:41:05] Debug: Cannot find: ./ExFont
+[2023-12-19 06:41:05] Debug: Loading ExFont from RPG_RT.exe
+[2023-12-19 06:41:05] Debug: EXEReader: EXFONT resource found (DE 0xe9f20; 0xeff60; len 0x2168)
+[2023-12-19 06:41:05] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-12-19 06:41:05] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-12-19 06:41:05] Debug: Cannot find: Font/Font
+[2023-12-19 06:41:05] Debug: Cannot find: Font/Font2
+[2023-12-19 06:41:06] Debug: Loaded Map Map0001.lmu
+[2023-12-19 06:41:06] Debug: Tree: MAP0001
+[2023-12-19 06:41:06] Debug: Game uses RTP "Official English"
+[2023-12-19 06:41:06] Debug: 这个游戏正在开发中。请输入想要跳入的章节（0-9）：
+[2023-12-19 06:41:07] Debug: 这个游戏正在开发中。请输入想要跳入的章节（0-9）： [2x]
+[2023-12-19 06:41:07] Debug: libpng: iCCP: known incorrect sRGB profile
+[2023-12-19 06:41:07] Debug: libpng: iCCP: cHRM chunk does not match sRGB
+[2023-12-19 06:41:08] Debug: \C[15]2101 年，11 月 24 日
+[2023-12-19 06:41:08] Debug: \C[15]2101 年，11 月 24 日 [2x]
+[2023-12-19 06:41:08] Debug: \C[15]东京时间，04:38 AM 星期三拘留所
+[2023-12-19 06:41:08] Debug: \C[15]东京时间，04:38 AM 星期三拘留所 [2x]
+[2023-12-19 06:41:08] Debug: 「......」
+[2023-12-19 06:41:08] Debug: 「......」 [2x]
+[2023-12-19 06:41:08] Debug: 「这样啊，她们到最后，还是替我找来了律师啊...」
+[2023-12-19 06:41:08] Debug: 「这样啊，她们到最后，还是替我找来了律师啊...」 [2x]
+[2023-12-19 06:41:08] Debug: 「可是，抱歉占用了大家的时间呢，从一开始，我就已经是一个有罪之人了。」
+[2023-12-19 06:41:08] Debug: 「可是，抱歉占用了大家的时间呢，从一开始，我就已经
+[2023-12-19 06:41:08] Debug: 是一个有罪之人了。」
+[2023-12-19 06:41:09] Debug: 「抱歉，不过请问。你所说的她们，是指？」
+[2023-12-19 06:41:10] Debug: 「抱歉，不过请问。你所说的她们，是指？」 [2x]
+[2023-12-19 06:41:10] Debug: 「我猜是，之前买过我的药的客人们吧。」
+[2023-12-19 06:41:11] Debug: 「我猜是，之前买过我的药的客人们吧。」 [2x]
+[2023-12-19 06:41:11] Debug: 「虽然不能，百分百的确定，我在看守所中没有任何与她们接触的机会。」
+[2023-12-19 06:41:11] Debug: 「虽然不能，百分百的确定，我在看守所中没有任何与她
+[2023-12-19 06:41:11] Debug: 们接触的机会。」
+[2023-12-19 06:41:11] Debug: 「为什么你的顾客们要在此时帮助你？」
+[2023-12-19 06:41:12] Debug: 「为什么你的顾客们要在此时帮助你？」 [2x]
+[2023-12-19 06:41:12] Debug: 「这是因为，在这个国度，因为种种的原因，很多跨性别孩子根本就缺少合法购买到这些药物的机会渠道。」
+[2023-12-19 06:41:12] Debug: 「这是因为，在这个国度，因为种种的原因，很多跨性别
+[2023-12-19 06:41:12] Debug: 孩子根本就缺少合法购买到这些药物的机会渠道。」
+[2023-12-19 06:41:19] Debug: 「说起来，我也从不认为，在这件事情上我的行为有罪。」
+[2023-12-19 06:41:19] Debug: 「说起来，我也从不认为，在这件事情上我的行为有罪。
+[2023-12-19 06:41:19] Debug: 」
+[2023-12-19 06:41:22] Debug: 「如果能让我们生活在一个可以更加容易合法获得这些药物的国度里，我想我就不需要再从事这些工作了。」
+[2023-12-19 06:41:22] Debug: 「如果能让我们生活在一个可以更加容易合法获得这些药
+[2023-12-19 06:41:22] Debug: 物的国度里，我想我就不需要再从事这些工作了。」
+[2023-12-19 06:41:34] Debug: 「只是，与其说是帮助她们，不如说是在帮助我自己。」
+[2023-12-19 06:42:49] Debug: 「只是，与其说是帮助她们，不如说是在帮助我自己。」 [2x]
+[2023-12-19 06:42:49] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-12-19 06:42:49] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-12-19 06:42:56] Debug: EasyRPG Player 0.7 git+460@9ee72af7-dirty (2023-01-26) started
+[2023-12-19 06:42:56] Debug: ==============================================================
+[2023-12-19 06:42:56] Debug: CLI: 
+[2023-12-19 06:42:56] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2023-12-19 06:42:56] Debug: Seeded the RNG with 1702939375.
+[2023-12-19 06:42:56] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2023-12-19 06:42:56] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2023-12-19 06:42:56] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2023-12-19 06:42:56] Debug: Detected encoding: windows-936-2000
+[2023-12-19 06:42:56] Debug: Game and Save Directory:
+[2023-12-19 06:42:56] Debug: 1: [Native] 
+[2023-12-19 06:42:56] Debug: Loading game EasyRPG Player
+[2023-12-19 06:42:56] Debug: Using RPG2k3 (English release, v1.11) Interpreter
+[2023-12-19 06:42:56] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2023-12-19 06:42:56] Debug: Adding D:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2023-12-19 06:42:56] Debug: RTP is "Official English" (675/675)
+[2023-12-19 06:42:56] Debug: RTP path C:\RPG2003\RTP is invalid, not adding
+[2023-12-19 06:42:56] Debug: Patch configuration: dynrpg=false maniac=false
+[2023-12-19 06:42:56] Debug: Cannot find: Font/ExFont
+[2023-12-19 06:42:56] Debug: Cannot find: ./ExFont
+[2023-12-19 06:42:56] Debug: Loading ExFont from RPG_RT.exe
+[2023-12-19 06:42:56] Debug: EXEReader: EXFONT resource found (DE 0xe9f20; 0xeff60; len 0x2168)
+[2023-12-19 06:42:56] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-12-19 06:42:56] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-12-19 06:42:56] Debug: Cannot find: Font/Font
+[2023-12-19 06:42:56] Debug: Cannot find: Font/Font2
+[2023-12-19 06:43:06] Debug: Loaded Map Map0001.lmu
+[2023-12-19 06:43:06] Debug: Tree: MAP0001
+[2023-12-19 06:43:07] Debug: Game uses RTP "Official English"
+[2023-12-19 06:43:07] Debug: 这个游戏正在开发中。请输入想要跳入的章节（0-9）：
+[2023-12-19 06:43:10] Debug: 这个游戏正在开发中。请输入想要跳入的章节（0-9）： [2x]
+[2023-12-19 06:43:10] Debug: libpng: iCCP: known incorrect sRGB profile
+[2023-12-19 06:43:10] Debug: libpng: iCCP: cHRM chunk does not match sRGB
+[2023-12-19 06:43:11] Debug: \C[15]2101 年，11 月 24 日
+[2023-12-19 06:43:11] Debug: \C[15]2101 年，11 月 24 日 [2x]
+[2023-12-19 06:43:11] Debug: \C[15]东京时间，04:38 AM 星期三拘留所
+[2023-12-19 06:43:12] Debug: \C[15]东京时间，04:38 AM 星期三拘留所 [2x]
+[2023-12-19 06:43:12] Debug: 「......」
+[2023-12-19 06:43:13] Debug: 「......」 [2x]
+[2023-12-19 06:43:13] Debug: 「这样啊，她们到最后，还是替我找来了律师啊...」
+[2023-12-19 06:43:14] Debug: 「这样啊，她们到最后，还是替我找来了律师啊...」 [2x]
+[2023-12-19 06:43:14] Debug: 「可是，抱歉占用了大家的时间呢，从一开始，我就已经是一个有罪之人了。」
+[2023-12-19 06:43:14] Debug: 「可是，抱歉占用了大家的时间呢，从一开始，我就已经
+[2023-12-19 06:43:14] Debug: 是一个有罪之人了。」
+[2023-12-19 06:43:17] Debug: 「抱歉，不过请问。你所说的她们，是指？」
+[2023-12-19 06:43:19] Debug: 「抱歉，不过请问。你所说的她们，是指？」 [2x]
+[2023-12-19 06:43:19] Debug: 「我猜是，之前买过我的药的客人们吧。」
+[2023-12-19 06:43:21] Debug: 「我猜是，之前买过我的药的客人们吧。」 [2x]
+[2023-12-19 06:43:21] Debug: 「虽然不能，百分百的确定，我在看守所中没有任何与她们接触的机会。」
+[2023-12-19 06:43:21] Debug: 「虽然不能，百分百的确定，我在看守所中没有任何与她
+[2023-12-19 06:43:21] Debug: 们接触的机会。」
+[2023-12-19 06:43:23] Debug: 「为什么你的顾客们要在此时帮助你？」
+[2023-12-19 06:43:24] Debug: 「为什么你的顾客们要在此时帮助你？」 [2x]
+[2023-12-19 06:43:24] Debug: 「这是因为，在这个国度，因为种种的原因，很多跨性别孩子根本就缺少合法购买到这些药物的机会渠道。」
+[2023-12-19 06:43:24] Debug: 「这是因为，在这个国度，因为种种的原因，很多跨性别
+[2023-12-19 06:43:24] Debug: 孩子根本就缺少合法购买到这些药物的机会渠道。」
+[2023-12-19 06:43:26] Debug: 「说起来，我也从不认为，在这件事情上我的行为有罪。」
+[2023-12-19 06:43:26] Debug: 「说起来，我也从不认为，在这件事情上我的行为有罪。
+[2023-12-19 06:43:26] Debug: 」
+[2023-12-19 06:43:28] Debug: 「如果能让我们生活在一个可以更加容易合法获得这些药物的国度里，我想我就不需要再从事这些工作了。」
+[2023-12-19 06:43:28] Debug: 「如果能让我们生活在一个可以更加容易合法获得这些药
+[2023-12-19 06:43:28] Debug: 物的国度里，我想我就不需要再从事这些工作了。」
+[2023-12-19 06:43:30] Debug: 「只是，与其说是帮助她们，不如说是在帮助我自己。」
+[2023-12-19 06:43:32] Debug: 「只是，与其说是帮助她们，不如说是在帮助我自己。」 [2x]
+[2023-12-19 06:43:32] Debug: 「我永远是那个孤独的人啊。」
+[2023-12-19 06:43:34] Debug: 「我永远是那个孤独的人啊。」 [2x]
+[2023-12-19 06:43:34] Debug: 「这次也给大家添麻烦了呢，而且实际上，我也请不起律师。」
+[2023-12-19 06:43:34] Debug: 「这次也给大家添麻烦了呢，而且实际上，我也请不起律
+[2023-12-19 06:43:34] Debug: 师。」
+[2023-12-19 06:43:36] Debug: libpng: iCCP: known incorrect sRGB profile
+[2023-12-19 06:43:36] Debug: libpng: iCCP: cHRM chunk does not match sRGB
+[2023-12-19 06:43:36] Debug: 被告的证词，被告并没有钱委托律师，委托律师的钱是顾客们众筹的。
+[2023-12-19 06:43:36] Debug: 被告的证词，被告并没有钱委托律师，委托律师的钱是顾
+[2023-12-19 06:43:36] Debug: 客们众筹的。
+[2023-12-19 06:43:39] Debug: 证物加入，被告关于自身经济情况的证词。
+[2023-12-19 06:50:46] Debug: 证物加入，被告关于自身经济情况的证词。 [2x]
+[2023-12-19 06:50:46] Debug: 「抱歉，不过请问。你所说的她们，是指？」
+[2023-12-19 06:50:48] Debug: 「抱歉，不过请问。你所说的她们，是指？」 [2x]
+[2023-12-19 06:50:48] Debug: 「我猜是，之前买过我的药的客人们吧。」
+[2023-12-19 06:50:48] Debug: 「我猜是，之前买过我的药的客人们吧。」 [2x]
+[2023-12-19 06:50:48] Debug: 「虽然不能，百分百的确定，我在看守所中没有任何与她们接触的机会。」
+[2023-12-19 06:50:48] Debug: 「虽然不能，百分百的确定，我在看守所中没有任何与她
+[2023-12-19 06:50:48] Debug: 们接触的机会。」
+[2023-12-19 06:50:48] Debug: 「为什么你的顾客们要在此时帮助你？」
+[2023-12-19 06:50:48] Debug: 「为什么你的顾客们要在此时帮助你？」 [2x]
+[2023-12-19 06:50:48] Debug: 「这是因为，在这个国度，因为种种的原因，很多跨性别孩子根本就缺少合法购买到这些药物的机会渠道。」
+[2023-12-19 06:50:48] Debug: 「这是因为，在这个国度，因为种种的原因，很多跨性别
+[2023-12-19 06:50:48] Debug: 孩子根本就缺少合法购买到这些药物的机会渠道。」
+[2023-12-19 06:50:48] Debug: 「说起来，我也从不认为，在这件事情上我的行为有罪。」
+[2023-12-19 06:50:48] Debug: 「说起来，我也从不认为，在这件事情上我的行为有罪。
+[2023-12-19 06:50:48] Debug: 」
+[2023-12-19 06:50:48] Debug: 「如果能让我们生活在一个可以更加容易合法获得这些药物的国度里，我想我就不需要再从事这些工作了。」
+[2023-12-19 06:50:48] Debug: 「如果能让我们生活在一个可以更加容易合法获得这些药
+[2023-12-19 06:50:48] Debug: 物的国度里，我想我就不需要再从事这些工作了。」
+[2023-12-19 06:50:48] Debug: 「只是，与其说是帮助她们，不如说是在帮助我自己。」
+[2023-12-19 06:50:48] Debug: 「只是，与其说是帮助她们，不如说是在帮助我自己。」 [2x]
+[2023-12-19 06:50:48] Debug: 「我永远是那个孤独的人啊。」
+[2023-12-19 06:50:48] Debug: 「我永远是那个孤独的人啊。」 [2x]
+[2023-12-19 06:50:48] Debug: 「这次也给大家添麻烦了呢，而且实际上，我也请不起律师。」
+[2023-12-19 06:50:48] Debug: 「这次也给大家添麻烦了呢，而且实际上，我也请不起律
+[2023-12-19 06:50:48] Debug: 师。」
+[2023-12-19 06:50:48] Debug: 被告的证词，被告并没有钱委托律师，委托律师的钱是顾客们众筹的。
+[2023-12-19 06:50:48] Debug: 被告的证词，被告并没有钱委托律师，委托律师的钱是顾
+[2023-12-19 06:50:48] Debug: 客们众筹的。
+[2023-12-19 06:50:48] Debug: 证物加入，被告关于自身经济情况的证词。
+[2023-12-19 06:50:50] Debug: 证物加入，被告关于自身经济情况的证词。 [2x]
+[2023-12-19 06:50:50] Debug: 「抱歉，不过请问。你所说的她们，是指？」
+[2023-12-19 06:50:50] Debug: 「抱歉，不过请问。你所说的她们，是指？」 [2x]
+[2023-12-19 06:50:50] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-12-19 06:50:50] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-12-19 06:51:06] Debug: EasyRPG Player 0.7 git+460@9ee72af7-dirty (2023-01-26) started
+[2023-12-19 06:51:06] Debug: ==============================================================
+[2023-12-19 06:51:06] Debug: CLI: 
+[2023-12-19 06:51:06] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2023-12-19 06:51:06] Debug: Seeded the RNG with 1702939865.
+[2023-12-19 06:51:06] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2023-12-19 06:51:06] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2023-12-19 06:51:06] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2023-12-19 06:51:06] Debug: Detected encoding: windows-936-2000
+[2023-12-19 06:51:06] Debug: Game and Save Directory:
+[2023-12-19 06:51:06] Debug: 1: [Native] 
+[2023-12-19 06:51:06] Debug: Loading game EasyRPG Player
+[2023-12-19 06:51:06] Debug: Using RPG2k3 (English release, v1.11) Interpreter
+[2023-12-19 06:51:06] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2023-12-19 06:51:06] Debug: Adding D:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2023-12-19 06:51:06] Debug: RTP is "Official English" (675/675)
+[2023-12-19 06:51:06] Debug: RTP path C:\RPG2003\RTP is invalid, not adding
+[2023-12-19 06:51:06] Debug: Patch configuration: dynrpg=false maniac=false
+[2023-12-19 06:51:06] Debug: Cannot find: Font/ExFont
+[2023-12-19 06:51:06] Debug: Cannot find: ./ExFont
+[2023-12-19 06:51:06] Debug: Loading ExFont from RPG_RT.exe
+[2023-12-19 06:51:06] Debug: EXEReader: EXFONT resource found (DE 0xe9f20; 0xeff60; len 0x2168)
+[2023-12-19 06:51:06] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-12-19 06:51:06] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-12-19 06:51:06] Debug: Cannot find: Font/Font
+[2023-12-19 06:51:06] Debug: Cannot find: Font/Font2
+[2023-12-19 06:51:07] Debug: Loaded Map Map0001.lmu
+[2023-12-19 06:51:07] Debug: Tree: MAP0001
+[2023-12-19 06:51:20] Debug: Game uses RTP "Official English"
+[2023-12-19 06:51:20] Debug: 这个游戏正在开发中。请输入想要跳入的章节（0-9）：
+[2023-12-19 06:51:22] Debug: 这个游戏正在开发中。请输入想要跳入的章节（0-9）： [2x]
+[2023-12-19 06:51:22] Debug: libpng: iCCP: known incorrect sRGB profile
+[2023-12-19 06:51:22] Debug: libpng: iCCP: cHRM chunk does not match sRGB
+[2023-12-19 06:51:22] Debug: \C[15]2101 年，11 月 24 日
+[2023-12-19 06:51:22] Debug: \C[15]2101 年，11 月 24 日 [2x]
+[2023-12-19 06:51:22] Debug: \C[15]东京时间，04:38 AM 星期三拘留所
+[2023-12-19 06:51:22] Debug: \C[15]东京时间，04:38 AM 星期三拘留所 [2x]
+[2023-12-19 06:51:22] Debug: 「......」
+[2023-12-19 06:51:22] Debug: 「......」 [2x]
+[2023-12-19 06:51:22] Debug: 「这样啊，她们到最后，还是替我找来了律师啊...」
+[2023-12-19 06:51:22] Debug: 「这样啊，她们到最后，还是替我找来了律师啊...」 [2x]
+[2023-12-19 06:51:22] Debug: 「可是，抱歉占用了大家的时间呢，从一开始，我就已经是一个有罪之人了。」
+[2023-12-19 06:51:22] Debug: 「可是，抱歉占用了大家的时间呢，从一开始，我就已经
+[2023-12-19 06:51:22] Debug: 是一个有罪之人了。」
+[2023-12-19 06:51:23] Debug: 「抱歉，不过请问。你所说的她们，是指？」
+[2023-12-19 06:51:24] Debug: 「抱歉，不过请问。你所说的她们，是指？」 [2x]
+[2023-12-19 06:51:24] Debug: 「我猜是，之前买过我的药的客人们吧。」
+[2023-12-19 06:51:24] Debug: 「我猜是，之前买过我的药的客人们吧。」 [2x]
+[2023-12-19 06:51:24] Debug: 「虽然不能，百分百的确定，我在看守所中没有任何与她们接触的机会。」
+[2023-12-19 06:51:24] Debug: 「虽然不能，百分百的确定，我在看守所中没有任何与她
+[2023-12-19 06:51:24] Debug: 们接触的机会。」
+[2023-12-19 06:51:24] Debug: 「为什么你的顾客们要在此时帮助你？」
+[2023-12-19 06:51:24] Debug: 「为什么你的顾客们要在此时帮助你？」 [2x]
