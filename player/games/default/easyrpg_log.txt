@@ -1,46 +1,3 @@
-[2023-12-21 22:45:33] Debug: 「什么！」 [2x]
-[2023-12-21 22:45:33] Debug: 「而且，不仅如此，死者连她的自杀都没有邀请你呢！」
-[2023-12-21 22:45:33] Debug: 「而且，不仅如此，死者连她的自杀都没有邀请你呢！」 [2x]
-[2023-12-21 22:45:33] Debug: 「可见，你在她们的心目中，并不是什么重要的家伙。」
-[2023-12-21 22:45:33] Debug: 「可见，你在她们的心目中，并不是什么重要的家伙。」 [2x]
-[2023-12-21 22:45:33] Debug: 「不是这样的...」
-[2023-12-21 22:45:33] Debug: 「不是这样的...」 [2x]
-[2023-12-21 22:45:33] Debug: 「一定...不是这样的...」
-[2023-12-21 22:45:33] Debug: 「一定...不是这样的...」 [2x]
-[2023-12-21 22:45:33] Debug: 「可是是不是这样的，你自己应该最清楚了吧？...」
-[2023-12-21 22:45:33] Debug: 「可是是不是这样的，你自己应该最清楚了吧？...」 [2x]
-[2023-12-21 22:45:33] Debug: （哎...明明之前还在社交网络里抱怨来着。）
-[2023-12-21 22:45:33] Debug: （哎...明明之前还在社交网络里抱怨来着。） [2x]
-[2023-12-21 22:45:33] Debug: ......
-[2023-12-21 22:45:33] Debug: ...... [8x]
-[2023-12-21 22:45:33] Debug: 「也许，你说的没错。被害者的死，确实不全是我的错。」
-[2023-12-21 22:45:33] Debug: 「也许，你说的没错。被害者的死，确实不全是我的错。
-[2023-12-21 22:45:33] Debug: 」
-[2023-12-21 22:45:34] Debug: 「但是，吾所珍视的事物，已经悉数被毁灭的现在。这个世界也已经再没有吾存在的意义了。」
-[2023-12-21 22:45:34] Debug: 「但是，吾所珍视的事物，已经悉数被毁灭的现在。这个
-[2023-12-21 22:45:34] Debug: 世界也已经再没有吾存在的意义了。」
-[2023-12-21 22:45:35] Debug: （糟糕，好像有点用力过猛了。）
-[2023-12-21 22:45:36] Debug: （糟糕，好像有点用力过猛了。） [2x]
-[2023-12-21 22:45:36] Debug: （证明被告，在这个世界上，还在被爱着吗？）
-[2023-12-21 22:45:37] Debug: （证明被告，在这个世界上，还在被爱着吗？） [2x]
-[2023-12-21 22:45:37] Debug: （那么，还爱着被告，渴望被告回家的人，是谁呢？）
-[2023-12-21 22:45:39] Debug: （那么，还爱着被告，渴望被告回家的人，是谁呢？） [2x]
-[2023-12-21 22:45:39] Debug: ......
-[2023-12-21 22:45:43] Debug: ...... [16x]
-[2023-12-21 22:45:43] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
-[2023-12-21 22:45:43] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
-[2023-12-21 23:14:39] Debug: EasyRPG Player 0.7 git+460@9ee72af7-dirty (2023-01-26) started
-[2023-12-21 23:14:39] Debug: ==============================================================
-[2023-12-21 23:14:39] Debug: CLI: 
-[2023-12-21 23:14:39] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
-[2023-12-21 23:14:39] Debug: Seeded the RNG with 1703171677.
-[2023-12-21 23:14:39] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
-[2023-12-21 23:14:39] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
-[2023-12-21 23:14:39] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
-[2023-12-21 23:14:39] Debug: Detected encoding: windows-936-2000
-[2023-12-21 23:14:39] Debug: Game and Save Directory:
-[2023-12-21 23:14:39] Debug: 1: [Native] 
-[2023-12-21 23:14:39] Debug: Loading game EasyRPG Player
 [2023-12-21 23:14:39] Debug: Using RPG2k3 (English release, v1.11) Interpreter
 [2023-12-21 23:14:39] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
 [2023-12-21 23:14:39] Debug: Adding D:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
@@ -1300,3 +1257,49 @@
 [2023-12-23 19:34:41] Debug: libpng: iCCP: cHRM chunk does not match sRGB
 [2023-12-23 19:42:41] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
 [2023-12-23 19:42:41] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-12-23 19:54:00] Debug: EasyRPG Player 0.8 (2023-04-29) started
+[2023-12-23 19:54:00] Debug: =======================================
+[2023-12-23 19:54:00] Debug: CLI: 
+[2023-12-23 19:54:00] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2023-12-23 19:54:00] Debug: Seeded the RNG with 1703332439.
+[2023-12-23 19:54:00] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2023-12-23 19:54:00] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2023-12-23 19:54:00] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2023-12-23 19:54:00] Debug: Detected encoding: windows-936-2000
+[2023-12-23 19:54:00] Debug: Game and Save Directory:
+[2023-12-23 19:54:00] Debug: 1: [Native] 
+[2023-12-23 19:54:00] Debug: Loading game EasyRPG Player
+[2023-12-23 19:54:00] Debug: Analyzing RPG_RT RPG_RT.exe
+[2023-12-23 19:54:00] Debug: EXEReader: EXFONT resource found (DE 0xe9f20; 0xeff60; len 0x2168)
+[2023-12-23 19:54:00] Debug: ExFont loaded from RPG_RT
+[2023-12-23 19:54:00] Debug: EXEReader: VERSIONINFO resource found (DE 0xea210; 0xfbea4; len 0x2ec)
+[2023-12-23 19:54:00] Debug: RPG_RT information: version=1.1.2.1 logos=1 i386=true easyrpg=false
+[2023-12-23 19:54:00] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2023-12-23 19:54:00] Debug: Adding D:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2023-12-23 19:54:00] Debug: RTP is "Official English" (675/675)
+[2023-12-23 19:54:00] Debug: RTP path C:\RPG2003\RTP is invalid, not adding
+[2023-12-23 19:54:00] Debug: Patch configuration: dynrpg=false maniac=false key-patch=false common-this=false pic-unlock=false 2k3-commands=false
+[2023-12-23 19:54:00] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-12-23 19:54:00] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-12-23 19:54:00] Debug: Cannot find: Font/Font
+[2023-12-23 19:54:00] Debug: Cannot find: Font/Font2
+[2023-12-23 19:54:01] Debug: Resolution changed to 320x240
+[2023-12-23 19:54:01] Debug: Loaded Map Map0001.lmu
+[2023-12-23 19:54:01] Debug: Tree: MAP0001
+[2023-12-23 19:54:02] Debug: Game uses RTP "Official English"
+[2023-12-23 19:54:06] Debug: libpng: iCCP: known incorrect sRGB profile
+[2023-12-23 19:54:06] Debug: libpng: iCCP: cHRM chunk does not match sRGB
+[2023-12-23 19:54:10] Debug: Fluidsynth: Could not load soundfont.
+[2023-12-23 19:54:10] Debug: WildMidi: Could not find configuration file.
+[2023-12-23 19:54:22] Debug: libpng: iCCP: known incorrect sRGB profile
+[2023-12-23 19:54:22] Debug: libpng: iCCP: cHRM chunk does not match sRGB
+[2023-12-23 19:54:28] Debug: libpng: iCCP: known incorrect sRGB profile
+[2023-12-23 19:54:28] Debug: libpng: iCCP: cHRM chunk does not match sRGB
+[2023-12-23 19:54:30] Debug: libpng: iCCP: known incorrect sRGB profile
+[2023-12-23 19:54:30] Debug: libpng: iCCP: cHRM chunk does not match sRGB
+[2023-12-23 19:54:34] Debug: libpng: iCCP: known incorrect sRGB profile
+[2023-12-23 19:54:34] Debug: libpng: iCCP: cHRM chunk does not match sRGB
+[2023-12-23 19:55:11] Debug: libpng: iCCP: known incorrect sRGB profile
+[2023-12-23 19:55:11] Debug: libpng: iCCP: cHRM chunk does not match sRGB
+[2023-12-23 20:00:25] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-12-23 20:00:25] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
