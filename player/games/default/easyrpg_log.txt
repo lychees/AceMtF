@@ -1,135 +1,3 @@
-[2023-12-21 23:14:53] Debug: 我一手造成的。」
-[2023-12-21 23:14:54] Debug: 「如果我当时没有离开那个家的话。」
-[2023-12-21 23:14:55] Debug: 「如果我当时没有离开那个家的话。」 [2x]
-[2023-12-21 23:14:55] Debug: 「那个我们好不容易、千辛万苦才建立起来的家，现在也已经支离破碎，永远的离我而去了。」
-[2023-12-21 23:14:55] Debug: 「那个我们好不容易、千辛万苦才建立起来的家，现在也
-[2023-12-21 23:14:55] Debug: 已经支离破碎，永远的离我而去了。」
-[2023-12-21 23:14:59] Debug: （刚才她的话里，是不是有\C[2]矛盾\C[0]的地方？）
-[2023-12-21 23:15:02] Debug: （刚才她的话里，是不是有\C[2]矛盾\C[0]的地方？） [2x]
-[2023-12-21 23:15:02] Debug: （而且被告的心理，看起来也依然处于深深的自责之中。）
-[2023-12-21 23:15:02] Debug: （而且被告的心理，看起来也依然处于深深的自责之中。
-[2023-12-21 23:15:02] Debug: ）
-[2023-12-21 23:15:07] Debug: （如果不在这里让她缓解的话，法庭上对我方也将是会十分不利的。）
-[2023-12-21 23:15:07] Debug: （如果不在这里让她缓解的话，法庭上对我方也将是会十
-[2023-12-21 23:15:07] Debug: 分不利的。）
-[2023-12-21 23:15:11] Debug: （那么就在这里，指出她的\C[2]矛盾\C[0]吧。）
-[2023-12-21 23:15:15] Debug: （那么就在这里，指出她的\C[2]矛盾\C[0]吧。） [2x]
-[2023-12-21 23:15:15] Debug: 「......」
-[2023-12-21 23:15:43] Debug: 「......」 [6x]
-[2023-12-21 23:15:43] Debug: 「怎...怎么了？」
-[2023-12-21 23:15:45] Debug: 「怎...怎么了？」 [2x]
-[2023-12-21 23:15:45] Debug: （空气突然凝固起来了呢。）
-[2023-12-21 23:15:47] Debug: （空气突然凝固起来了呢。） [2x]
-[2023-12-21 23:15:47] Debug: 「刚才被告人说自己是\C[2]有罪之人\C[0]？」
-[2023-12-21 23:15:52] Debug: 「刚才被告人说自己是\C[2]有罪之人\C[0]？」 [2x]
-[2023-12-21 23:15:52] Debug: 「是这样的呢，她们的死可以说是我一手造成的。」
-[2023-12-21 23:15:53] Debug: 「是这样的呢，她们的死可以说是我一手造成的。」 [2x]
-[2023-12-21 23:15:53] Debug: 「不是这样的！」
-[2023-12-21 23:16:24] Debug: 「不是这样的！」 [2x]
-[2023-12-21 23:16:24] Debug: 「你的罪，充其量只有\C[2]妨害药品管制\C[0]而已，她们的死和你是无关的。」
-[2023-12-21 23:16:24] Debug: 「你的罪，充其量只有\C[2]妨害药品管制\C[0]而已，她
-[2023-12-21 23:16:24] Debug: 们的死和你是无关的。」
-[2023-12-21 23:16:39] Debug: 「哦，是这样呀，那么阁下能够出示么？能够证明她们的死与吾无关的证据。」
-[2023-12-21 23:16:39] Debug: 「哦，是这样呀，那么阁下能够出示么？能够证明她们的
-[2023-12-21 23:16:39] Debug: 死与吾无关的证据。」
-[2023-12-21 23:16:43] Debug: libpng: iCCP: known incorrect sRGB profile
-[2023-12-21 23:16:43] Debug: libpng: iCCP: cHRM chunk does not match sRGB
-[2023-12-21 23:16:43] Debug: 「这是？」
-[2023-12-21 23:16:44] Debug: 「这是？」 [2x]
-[2023-12-21 23:16:44] Debug: 「这是死者生前的精卫报告，除了关于激素检查的内容外，角落里还清楚的写着...」
-[2023-12-21 23:16:44] Debug: 「这是死者生前的精卫报告，除了关于激素检查的内容外
-[2023-12-21 23:16:44] Debug: ，角落里还清楚的写着...」
-[2023-12-21 23:16:48] Debug: 「死者生前均长期患有严重的\C[2]抑郁症\C[0]和\C[2]双向情感障碍\C[0]。」
-[2023-12-21 23:16:48] Debug: 「死者生前均长期患有严重的\C[2]抑郁症\C[0]和\C[2]
-[2023-12-21 23:16:48] Debug: 双向情感障碍\C[0]。」
-[2023-12-21 23:16:55] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
-[2023-12-21 23:16:55] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
-[2023-12-21 23:17:10] Debug: EasyRPG Player 0.7 git+460@9ee72af7-dirty (2023-01-26) started
-[2023-12-21 23:17:10] Debug: ==============================================================
-[2023-12-21 23:17:10] Debug: CLI: 
-[2023-12-21 23:17:10] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
-[2023-12-21 23:17:10] Debug: Seeded the RNG with 1703171829.
-[2023-12-21 23:17:10] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
-[2023-12-21 23:17:10] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
-[2023-12-21 23:17:10] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
-[2023-12-21 23:17:10] Debug: Detected encoding: windows-936-2000
-[2023-12-21 23:17:10] Debug: Game and Save Directory:
-[2023-12-21 23:17:10] Debug: 1: [Native] 
-[2023-12-21 23:17:10] Debug: Loading game EasyRPG Player
-[2023-12-21 23:17:10] Debug: Using RPG2k3 (English release, v1.11) Interpreter
-[2023-12-21 23:17:10] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
-[2023-12-21 23:17:10] Debug: Adding D:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
-[2023-12-21 23:17:11] Debug: RTP is "Official English" (675/675)
-[2023-12-21 23:17:11] Debug: RTP path C:\RPG2003\RTP is invalid, not adding
-[2023-12-21 23:17:11] Debug: Patch configuration: dynrpg=false maniac=false
-[2023-12-21 23:17:11] Debug: Cannot find: Font/ExFont
-[2023-12-21 23:17:11] Debug: Cannot find: ./ExFont
-[2023-12-21 23:17:11] Debug: Loading ExFont from RPG_RT.exe
-[2023-12-21 23:17:11] Debug: EXEReader: EXFONT resource found (DE 0xe9f20; 0xeff60; len 0x2168)
-[2023-12-21 23:17:11] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
-[2023-12-21 23:17:11] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
-[2023-12-21 23:17:11] Debug: Cannot find: Font/Font
-[2023-12-21 23:17:11] Debug: Cannot find: Font/Font2
-[2023-12-21 23:17:12] Debug: Loaded Map Map0001.lmu
-[2023-12-21 23:17:12] Debug: Tree: MAP0001
-[2023-12-21 23:17:13] Debug: Game uses RTP "Official English"
-[2023-12-21 23:17:13] Debug: 这个游戏正在开发中。请输入想要跳入的章节（0-9）：
-[2023-12-21 23:17:18] Debug: 这个游戏正在开发中。请输入想要跳入的章节（0-9）： [2x]
-[2023-12-21 23:17:18] Debug: libpng: iCCP: known incorrect sRGB profile
-[2023-12-21 23:17:18] Debug: libpng: iCCP: cHRM chunk does not match sRGB
-[2023-12-21 23:17:18] Debug: （刚才她的话里，是不是有\C[2]矛盾\C[0]的地方？）
-[2023-12-21 23:17:19] Debug: （刚才她的话里，是不是有\C[2]矛盾\C[0]的地方？） [2x]
-[2023-12-21 23:17:19] Debug: （而且被告的心理，看起来也依然处于深深的自责之中。）
-[2023-12-21 23:17:19] Debug: （而且被告的心理，看起来也依然处于深深的自责之中。
-[2023-12-21 23:17:19] Debug: ）
-[2023-12-21 23:17:20] Debug: （如果不在这里让她缓解的话，法庭上对我方也将是会十分不利的。）
-[2023-12-21 23:17:20] Debug: （如果不在这里让她缓解的话，法庭上对我方也将是会十
-[2023-12-21 23:17:20] Debug: 分不利的。）
-[2023-12-21 23:17:21] Debug: （那么就在这里，指出她的\C[2]矛盾\C[0]吧。）
-[2023-12-21 23:17:22] Debug: （那么就在这里，指出她的\C[2]矛盾\C[0]吧。） [2x]
-[2023-12-21 23:17:22] Debug: 「......」
-[2023-12-21 23:17:25] Debug: 「......」 [6x]
-[2023-12-21 23:17:25] Debug: 「怎...怎么了？」
-[2023-12-21 23:17:26] Debug: 「怎...怎么了？」 [2x]
-[2023-12-21 23:17:26] Debug: （空气突然凝固起来了呢。）
-[2023-12-21 23:17:27] Debug: （空气突然凝固起来了呢。） [2x]
-[2023-12-21 23:17:27] Debug: 「刚才你说自己是\C[2]有罪之人\C[0]？」
-[2023-12-21 23:17:30] Debug: 「刚才你说自己是\C[2]有罪之人\C[0]？」 [2x]
-[2023-12-21 23:17:30] Debug: 「是这样的呢，如你所见，她们的死可以说是吾一手造成的。」
-[2023-12-21 23:17:30] Debug: 「是这样的呢，如你所见，她们的死可以说是吾一手造成
-[2023-12-21 23:17:30] Debug: 的。」
-[2023-12-21 23:17:32] Debug: 「并不...」
-[2023-12-21 23:17:34] Debug: 「并不...」 [2x]
-[2023-12-21 23:17:34] Debug: 「你的罪，充其量只有\C[2]妨害药品管制\C[0]而已，她们的死和你是无关的。」
-[2023-12-21 23:17:34] Debug: 「你的罪，充其量只有\C[2]妨害药品管制\C[0]而已，她
-[2023-12-21 23:17:34] Debug: 们的死和你是无关的。」
-[2023-12-21 23:17:36] Debug: 「哦，是这样呀，那么阁下能够出示么？能够证明她们的死与吾无关的证据。」
-[2023-12-21 23:17:36] Debug: 「哦，是这样呀，那么阁下能够出示么？能够证明她们的
-[2023-12-21 23:17:36] Debug: 死与吾无关的证据。」
-[2023-12-21 23:17:43] Debug: libpng: iCCP: known incorrect sRGB profile
-[2023-12-21 23:17:43] Debug: libpng: iCCP: cHRM chunk does not match sRGB
-[2023-12-21 23:17:43] Debug: 「这是？」
-[2023-12-21 23:17:44] Debug: 「这是？」 [2x]
-[2023-12-21 23:17:44] Debug: 「这是死者生前的精卫报告，除了关于激素检查的内容外，角落里还清楚的写着...」
-[2023-12-21 23:17:44] Debug: 「这是死者生前的精卫报告，除了关于激素检查的内容外
-[2023-12-21 23:17:44] Debug: ，角落里还清楚的写着...」
-[2023-12-21 23:17:46] Debug: 「死者生前均长期患有严重的\C[2]抑郁症\C[0]和\C[2]双相情感障碍\C[0]。」
-[2023-12-21 23:17:46] Debug: 「死者生前均长期患有严重的\C[2]抑郁症\C[0]和\C[2]
-[2023-12-21 23:17:46] Debug: 双相情感障碍\C[0]。」
-[2023-12-21 23:17:49] Debug: 「呜...」
-[2023-12-21 23:17:50] Debug: 「呜...」 [2x]
-[2023-12-21 23:17:50] Debug: 「且她们在和你同居之前，就已经多次尝试过自杀行为了吧。」
-[2023-12-21 23:17:50] Debug: 「且她们在和你同居之前，就已经多次尝试过自杀行为了
-[2023-12-21 23:17:50] Debug: 吧。」
-[2023-12-21 23:17:52] Debug: 「然后，因为\C[2]某些原因\C[0]，这几个月里，更加的频繁了，只是之前都在你的干预之下，失败了。」
-[2023-12-21 23:17:52] Debug: 「然后，因为\C[2]某些原因\C[0]，这几个月里，更加的
-[2023-12-21 23:17:52] Debug: 频繁了，只是之前都在你的干预之下，失败了。」
-[2023-12-21 23:17:54] Debug: 「不，倒不如说，正是为了对他们进行干预，你才和她们同居的吧。」
-[2023-12-21 23:17:54] Debug: 「不，倒不如说，正是为了对他们进行干预，你才和她们
-[2023-12-21 23:17:54] Debug: 同居的吧。」
-[2023-12-21 23:17:55] Debug: 「关于这一点，作为\C[2]朋友\C[0]的你，应该是再清楚不过的吧？」
-[2023-12-21 23:17:55] Debug: 「关于这一点，作为\C[2]朋友\C[0]的你，应该是再清楚
-[2023-12-21 23:17:55] Debug: 不过的吧？」
 [2023-12-21 23:17:56] Debug: 「呜...」
 [2023-12-21 23:17:57] Debug: 「呜...」 [2x]
 [2023-12-21 23:17:57] Debug: 「可是... 可是...」
@@ -1304,3 +1172,147 @@
 [2023-12-23 19:45:05] Debug: libpng: iCCP: cHRM chunk does not match sRGB
 [2023-12-23 20:06:16] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
 [2023-12-23 20:06:16] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-12-23 21:34:46] Debug: EasyRPG Player 0.8 (2023-04-29) started
+[2023-12-23 21:34:46] Debug: =======================================
+[2023-12-23 21:34:46] Debug: CLI: 
+[2023-12-23 21:34:46] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2023-12-23 21:34:46] Debug: Seeded the RNG with 1703338486.
+[2023-12-23 21:34:46] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2023-12-23 21:34:46] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2023-12-23 21:34:46] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2023-12-23 21:34:46] Debug: Detected encoding: windows-936-2000
+[2023-12-23 21:34:46] Debug: Game and Save Directory:
+[2023-12-23 21:34:46] Debug: 1: [Native] 
+[2023-12-23 21:34:46] Debug: Loading game EasyRPG Player
+[2023-12-23 21:34:46] Debug: Analyzing RPG_RT RPG_RT.exe
+[2023-12-23 21:34:46] Debug: EXEReader: EXFONT resource found (DE 0xe9f20; 0xeff60; len 0x2168)
+[2023-12-23 21:34:46] Debug: ExFont loaded from RPG_RT
+[2023-12-23 21:34:46] Debug: EXEReader: VERSIONINFO resource found (DE 0xea210; 0xfbea4; len 0x2ec)
+[2023-12-23 21:34:46] Debug: RPG_RT information: version=1.1.2.1 logos=1 i386=true easyrpg=false
+[2023-12-23 21:34:46] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2023-12-23 21:34:46] Debug: Adding D:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2023-12-23 21:34:46] Debug: RTP is "Official English" (675/675)
+[2023-12-23 21:34:46] Debug: Patch configuration: dynrpg=false maniac=false key-patch=false common-this=false pic-unlock=false 2k3-commands=false
+[2023-12-23 21:34:46] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-12-23 21:34:46] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-12-23 21:34:46] Debug: Cannot find: Font/Font
+[2023-12-23 21:34:46] Debug: Cannot find: Font/Font2
+[2023-12-23 21:34:47] Debug: Resolution changed to 320x240
+[2023-12-23 21:34:47] Debug: Loaded Map Map0001.lmu
+[2023-12-23 21:34:47] Debug: Tree: MAP0001
+[2023-12-23 21:34:48] Debug: Game uses RTP "Official English"
+[2023-12-23 21:35:49] Debug: libpng: iCCP: known incorrect sRGB profile
+[2023-12-23 21:35:49] Debug: libpng: iCCP: cHRM chunk does not match sRGB
+[2023-12-23 21:35:52] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-12-23 21:35:52] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-12-23 21:35:53] Debug: EasyRPG Player 0.8 (2023-04-29) started
+[2023-12-23 21:35:53] Debug: =======================================
+[2023-12-23 21:35:53] Debug: CLI: 
+[2023-12-23 21:35:53] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2023-12-23 21:35:53] Debug: Seeded the RNG with 1703338553.
+[2023-12-23 21:35:53] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2023-12-23 21:35:53] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2023-12-23 21:35:53] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2023-12-23 21:35:53] Debug: Detected encoding: windows-936-2000
+[2023-12-23 21:35:53] Debug: Game and Save Directory:
+[2023-12-23 21:35:53] Debug: 1: [Native] 
+[2023-12-23 21:35:53] Debug: Loading game EasyRPG Player
+[2023-12-23 21:35:53] Debug: Analyzing RPG_RT RPG_RT.exe
+[2023-12-23 21:35:53] Debug: EXEReader: EXFONT resource found (DE 0xe9f20; 0xeff60; len 0x2168)
+[2023-12-23 21:35:53] Debug: ExFont loaded from RPG_RT
+[2023-12-23 21:35:53] Debug: EXEReader: VERSIONINFO resource found (DE 0xea210; 0xfbea4; len 0x2ec)
+[2023-12-23 21:35:53] Debug: RPG_RT information: version=1.1.2.1 logos=1 i386=true easyrpg=false
+[2023-12-23 21:35:53] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2023-12-23 21:35:53] Debug: Adding D:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2023-12-23 21:35:53] Debug: RTP is "Official English" (675/675)
+[2023-12-23 21:35:53] Debug: Patch configuration: dynrpg=false maniac=false key-patch=false common-this=false pic-unlock=false 2k3-commands=false
+[2023-12-23 21:35:53] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-12-23 21:35:53] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-12-23 21:35:53] Debug: Cannot find: Font/Font
+[2023-12-23 21:35:53] Debug: Cannot find: Font/Font2
+[2023-12-23 21:35:54] Debug: Resolution changed to 320x240
+[2023-12-23 21:35:54] Debug: Loaded Map Map0001.lmu
+[2023-12-23 21:35:54] Debug: Tree: MAP0001
+[2023-12-23 21:35:55] Debug: Game uses RTP "Official English"
+[2023-12-23 21:35:58] Debug: libpng: iCCP: known incorrect sRGB profile
+[2023-12-23 21:35:58] Debug: libpng: iCCP: cHRM chunk does not match sRGB
+[2023-12-23 21:36:00] Debug: Fluidsynth: Could not load soundfont.
+[2023-12-23 21:36:00] Debug: WildMidi: Could not find configuration file.
+[2023-12-23 21:36:30] Debug: libpng: iCCP: known incorrect sRGB profile
+[2023-12-23 21:36:30] Debug: libpng: iCCP: cHRM chunk does not match sRGB
+[2023-12-23 21:36:46] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-12-23 21:36:46] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-12-23 21:53:21] Debug: EasyRPG Player 0.8 (2023-04-29) started
+[2023-12-23 21:53:21] Debug: =======================================
+[2023-12-23 21:53:21] Debug: CLI: 
+[2023-12-23 21:53:21] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2023-12-23 21:53:21] Debug: Seeded the RNG with 1703339600.
+[2023-12-23 21:53:21] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2023-12-23 21:53:21] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2023-12-23 21:53:21] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2023-12-23 21:53:21] Debug: Detected encoding: windows-936-2000
+[2023-12-23 21:53:21] Debug: Game and Save Directory:
+[2023-12-23 21:53:21] Debug: 1: [Native] 
+[2023-12-23 21:53:21] Debug: Loading game EasyRPG Player
+[2023-12-23 21:53:21] Debug: Analyzing RPG_RT RPG_RT.exe
+[2023-12-23 21:53:21] Debug: EXEReader: EXFONT resource found (DE 0xe9f20; 0xeff60; len 0x2168)
+[2023-12-23 21:53:21] Debug: ExFont loaded from RPG_RT
+[2023-12-23 21:53:21] Debug: EXEReader: VERSIONINFO resource found (DE 0xea210; 0xfbea4; len 0x2ec)
+[2023-12-23 21:53:21] Debug: RPG_RT information: version=1.1.2.1 logos=1 i386=true easyrpg=false
+[2023-12-23 21:53:21] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2023-12-23 21:53:21] Debug: Adding D:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2023-12-23 21:53:21] Debug: RTP is "Official English" (675/675)
+[2023-12-23 21:53:21] Debug: Patch configuration: dynrpg=false maniac=false key-patch=false common-this=false pic-unlock=false 2k3-commands=false
+[2023-12-23 21:53:21] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-12-23 21:53:21] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-12-23 21:53:21] Debug: Cannot find: Font/Font
+[2023-12-23 21:53:21] Debug: Cannot find: Font/Font2
+[2023-12-23 21:53:22] Debug: Resolution changed to 320x240
+[2023-12-23 21:53:22] Debug: Loaded Map Map0001.lmu
+[2023-12-23 21:53:22] Debug: Tree: MAP0001
+[2023-12-23 21:53:23] Debug: Game uses RTP "Official English"
+[2023-12-23 21:53:26] Debug: libpng: iCCP: known incorrect sRGB profile
+[2023-12-23 21:53:26] Debug: libpng: iCCP: cHRM chunk does not match sRGB
+[2023-12-23 21:53:28] Debug: Fluidsynth: Could not load soundfont.
+[2023-12-23 21:53:28] Debug: WildMidi: Could not find configuration file.
+[2023-12-23 21:53:32] Debug: libpng: iCCP: known incorrect sRGB profile
+[2023-12-23 21:53:32] Debug: libpng: iCCP: cHRM chunk does not match sRGB
+[2023-12-23 21:54:07] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-12-23 21:54:07] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-12-23 21:54:08] Debug: EasyRPG Player 0.8 (2023-04-29) started
+[2023-12-23 21:54:08] Debug: =======================================
+[2023-12-23 21:54:08] Debug: CLI: 
+[2023-12-23 21:54:08] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2023-12-23 21:54:08] Debug: Seeded the RNG with 1703339648.
+[2023-12-23 21:54:08] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2023-12-23 21:54:08] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2023-12-23 21:54:08] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2023-12-23 21:54:08] Debug: Detected encoding: windows-936-2000
+[2023-12-23 21:54:08] Debug: Game and Save Directory:
+[2023-12-23 21:54:08] Debug: 1: [Native] 
+[2023-12-23 21:54:08] Debug: Loading game EasyRPG Player
+[2023-12-23 21:54:08] Debug: Analyzing RPG_RT RPG_RT.exe
+[2023-12-23 21:54:08] Debug: EXEReader: EXFONT resource found (DE 0xe9f20; 0xeff60; len 0x2168)
+[2023-12-23 21:54:08] Debug: ExFont loaded from RPG_RT
+[2023-12-23 21:54:08] Debug: EXEReader: VERSIONINFO resource found (DE 0xea210; 0xfbea4; len 0x2ec)
+[2023-12-23 21:54:08] Debug: RPG_RT information: version=1.1.2.1 logos=1 i386=true easyrpg=false
+[2023-12-23 21:54:08] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2023-12-23 21:54:08] Debug: Adding D:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2023-12-23 21:54:08] Debug: RTP is "Official English" (675/675)
+[2023-12-23 21:54:08] Debug: Patch configuration: dynrpg=false maniac=false key-patch=false common-this=false pic-unlock=false 2k3-commands=false
+[2023-12-23 21:54:08] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-12-23 21:54:08] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-12-23 21:54:08] Debug: Cannot find: Font/Font
+[2023-12-23 21:54:08] Debug: Cannot find: Font/Font2
+[2023-12-23 21:54:09] Debug: Resolution changed to 320x240
+[2023-12-23 21:54:09] Debug: Loaded Map Map0001.lmu
+[2023-12-23 21:54:09] Debug: Tree: MAP0001
+[2023-12-23 21:54:10] Debug: Game uses RTP "Official English"
+[2023-12-23 21:54:13] Debug: libpng: iCCP: known incorrect sRGB profile
+[2023-12-23 21:54:13] Debug: libpng: iCCP: cHRM chunk does not match sRGB
+[2023-12-23 21:54:14] Debug: Fluidsynth: Could not load soundfont.
+[2023-12-23 21:54:14] Debug: WildMidi: Could not find configuration file.
+[2023-12-23 21:54:19] Debug: libpng: iCCP: known incorrect sRGB profile
+[2023-12-23 21:54:19] Debug: libpng: iCCP: cHRM chunk does not match sRGB
+[2023-12-23 21:55:00] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-12-23 21:55:00] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
