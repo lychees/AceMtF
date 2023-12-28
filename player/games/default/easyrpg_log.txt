@@ -1,104 +1,3 @@
-[2023-12-23 11:04:49] Debug: Loaded Map Map0001.lmu
-[2023-12-23 11:04:49] Debug: Tree: MAP0001
-[2023-12-23 11:04:50] Debug: Game uses RTP "Official English"
-[2023-12-23 11:04:50] Debug: 这个游戏正在开发中。请输入想要跳入的章节（0-9）：
-[2023-12-23 11:04:51] Debug: 这个游戏正在开发中。请输入想要跳入的章节（0-9）： [2x]
-[2023-12-23 11:04:51] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
-[2023-12-23 11:04:51] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
-[2023-12-23 11:39:38] Debug: EasyRPG Player 0.7 git+460@9ee72af7-dirty (2023-01-26) started
-[2023-12-23 11:39:38] Debug: ==============================================================
-[2023-12-23 11:39:38] Debug: CLI: 
-[2023-12-23 11:39:38] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
-[2023-12-23 11:39:38] Debug: Seeded the RNG with 1703302778.
-[2023-12-23 11:39:38] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
-[2023-12-23 11:39:38] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
-[2023-12-23 11:39:38] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
-[2023-12-23 11:39:38] Debug: Detected encoding: windows-936-2000
-[2023-12-23 11:39:38] Debug: Game and Save Directory:
-[2023-12-23 11:39:38] Debug: 1: [Native] 
-[2023-12-23 11:39:38] Debug: Loading game EasyRPG Player
-[2023-12-23 11:39:38] Debug: Using RPG2k3 (English release, v1.11) Interpreter
-[2023-12-23 11:39:38] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
-[2023-12-23 11:39:38] Debug: Adding D:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
-[2023-12-23 11:39:39] Debug: RTP is "Official English" (675/675)
-[2023-12-23 11:39:39] Debug: RTP path C:\RPG2003\RTP is invalid, not adding
-[2023-12-23 11:39:39] Debug: Patch configuration: dynrpg=false maniac=false
-[2023-12-23 11:39:39] Debug: Cannot find: Font/ExFont
-[2023-12-23 11:39:39] Debug: Cannot find: ./ExFont
-[2023-12-23 11:39:39] Debug: Loading ExFont from RPG_RT.exe
-[2023-12-23 11:39:39] Debug: EXEReader: EXFONT resource found (DE 0xe9f20; 0xeff60; len 0x2168)
-[2023-12-23 11:39:39] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
-[2023-12-23 11:39:39] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
-[2023-12-23 11:39:39] Debug: Cannot find: Font/Font
-[2023-12-23 11:39:39] Debug: Cannot find: Font/Font2
-[2023-12-23 11:39:40] Debug: Loaded Map Map0001.lmu
-[2023-12-23 11:39:40] Debug: Tree: MAP0001
-[2023-12-23 11:39:40] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
-[2023-12-23 11:39:40] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
-[2023-12-23 11:40:01] Debug: EasyRPG Player 0.8 (2023-04-29) started
-[2023-12-23 11:40:01] Debug: =======================================
-[2023-12-23 11:40:01] Debug: CLI: 
-[2023-12-23 11:40:01] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
-[2023-12-23 11:40:01] Debug: Seeded the RNG with 1703302800.
-[2023-12-23 11:40:01] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
-[2023-12-23 11:40:01] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
-[2023-12-23 11:40:01] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
-[2023-12-23 11:40:01] Debug: Detected encoding: windows-936-2000
-[2023-12-23 11:40:01] Debug: Game and Save Directory:
-[2023-12-23 11:40:01] Debug: 1: [Native] 
-[2023-12-23 11:40:01] Debug: Loading game EasyRPG Player
-[2023-12-23 11:40:01] Debug: Analyzing RPG_RT RPG_RT.exe
-[2023-12-23 11:40:01] Debug: EXEReader: EXFONT resource found (DE 0xe9f20; 0xeff60; len 0x2168)
-[2023-12-23 11:40:01] Debug: ExFont loaded from RPG_RT
-[2023-12-23 11:40:01] Debug: EXEReader: VERSIONINFO resource found (DE 0xea210; 0xfbea4; len 0x2ec)
-[2023-12-23 11:40:01] Debug: RPG_RT information: version=1.1.2.1 logos=1 i386=true easyrpg=false
-[2023-12-23 11:40:01] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
-[2023-12-23 11:40:01] Debug: Adding D:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
-[2023-12-23 11:40:01] Debug: RTP is "Official English" (675/675)
-[2023-12-23 11:40:01] Debug: RTP path C:\RPG2003\RTP is invalid, not adding
-[2023-12-23 11:40:01] Debug: Patch configuration: dynrpg=false maniac=false key-patch=false common-this=false pic-unlock=false 2k3-commands=false
-[2023-12-23 11:40:01] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
-[2023-12-23 11:40:01] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
-[2023-12-23 11:40:01] Debug: Cannot find: Font/Font
-[2023-12-23 11:40:01] Debug: Cannot find: Font/Font2
-[2023-12-23 11:40:02] Debug: Resolution changed to 320x240
-[2023-12-23 11:40:02] Debug: Loaded Map Map0001.lmu
-[2023-12-23 11:40:02] Debug: Tree: MAP0001
-[2023-12-23 11:40:03] Debug: Game uses RTP "Official English"
-[2023-12-23 11:40:09] Debug: libpng: iCCP: known incorrect sRGB profile
-[2023-12-23 11:40:09] Debug: libpng: iCCP: cHRM chunk does not match sRGB
-[2023-12-23 11:40:17] Debug: Fluidsynth: Could not load soundfont.
-[2023-12-23 11:40:17] Debug: WildMidi: Could not find configuration file.
-[2023-12-23 11:40:53] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
-[2023-12-23 11:40:53] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
-[2023-12-23 11:46:19] Debug: EasyRPG Player 0.8 (2023-04-29) started
-[2023-12-23 11:46:19] Debug: =======================================
-[2023-12-23 11:46:19] Debug: CLI: 
-[2023-12-23 11:46:19] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
-[2023-12-23 11:46:19] Debug: Seeded the RNG with 1703303177.
-[2023-12-23 11:46:19] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
-[2023-12-23 11:46:19] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
-[2023-12-23 11:46:19] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
-[2023-12-23 11:46:19] Debug: Detected encoding: windows-936-2000
-[2023-12-23 11:46:19] Debug: Game and Save Directory:
-[2023-12-23 11:46:19] Debug: 1: [Native] 
-[2023-12-23 11:46:19] Debug: Loading game EasyRPG Player
-[2023-12-23 11:46:19] Debug: Analyzing RPG_RT RPG_RT.exe
-[2023-12-23 11:46:19] Debug: EXEReader: EXFONT resource found (DE 0xe9f20; 0xeff60; len 0x2168)
-[2023-12-23 11:46:19] Debug: ExFont loaded from RPG_RT
-[2023-12-23 11:46:19] Debug: EXEReader: VERSIONINFO resource found (DE 0xea210; 0xfbea4; len 0x2ec)
-[2023-12-23 11:46:19] Debug: RPG_RT information: version=1.1.2.1 logos=1 i386=true easyrpg=false
-[2023-12-23 11:46:19] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
-[2023-12-23 11:46:19] Debug: Adding D:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
-[2023-12-23 11:46:19] Debug: RTP is "Official English" (675/675)
-[2023-12-23 11:46:19] Debug: RTP path C:\RPG2003\RTP is invalid, not adding
-[2023-12-23 11:46:19] Debug: Patch configuration: dynrpg=false maniac=false key-patch=false common-this=false pic-unlock=false 2k3-commands=false
-[2023-12-23 11:46:19] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
-[2023-12-23 11:46:19] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
-[2023-12-23 11:46:19] Debug: Cannot find: Font/Font
-[2023-12-23 11:46:19] Debug: Cannot find: Font/Font2
-[2023-12-23 11:46:21] Debug: Resolution changed to 320x240
-[2023-12-23 11:46:21] Debug: Loaded Map Map0001.lmu
 [2023-12-23 11:46:21] Debug: Tree: MAP0001
 [2023-12-23 11:46:22] Debug: Game uses RTP "Official English"
 [2023-12-23 11:47:06] Debug: libpng: iCCP: known incorrect sRGB profile
@@ -1337,3 +1236,103 @@
 [2023-12-23 22:39:24] Debug: libpng: iCCP: cHRM chunk does not match sRGB
 [2023-12-23 22:39:37] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
 [2023-12-23 22:39:37] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-12-24 02:01:41] Debug: EasyRPG Player 0.8 (2023-04-29) started
+[2023-12-24 02:01:41] Debug: =======================================
+[2023-12-24 02:01:41] Debug: CLI: 
+[2023-12-24 02:01:41] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2023-12-24 02:01:41] Debug: Seeded the RNG with 1703354500.
+[2023-12-24 02:01:41] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2023-12-24 02:01:41] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2023-12-24 02:01:41] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2023-12-24 02:01:41] Debug: Detected encoding: windows-936-2000
+[2023-12-24 02:01:41] Debug: Game and Save Directory:
+[2023-12-24 02:01:41] Debug: 1: [Native] 
+[2023-12-24 02:01:41] Debug: Loading game EasyRPG Player
+[2023-12-24 02:01:41] Debug: Analyzing RPG_RT RPG_RT.exe
+[2023-12-24 02:01:41] Debug: EXEReader: EXFONT resource found (DE 0xe9f20; 0xeff60; len 0x2168)
+[2023-12-24 02:01:41] Debug: ExFont loaded from RPG_RT
+[2023-12-24 02:01:41] Debug: EXEReader: VERSIONINFO resource found (DE 0xea210; 0xfbea4; len 0x2ec)
+[2023-12-24 02:01:41] Debug: RPG_RT information: version=1.1.2.1 logos=1 i386=true easyrpg=false
+[2023-12-24 02:01:41] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2023-12-24 02:01:41] Debug: Adding D:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2023-12-24 02:01:41] Debug: RTP is "Official English" (675/675)
+[2023-12-24 02:01:41] Debug: RTP path C:\RPG2003\RTP is invalid, not adding
+[2023-12-24 02:01:41] Debug: Patch configuration: dynrpg=false maniac=false key-patch=false common-this=false pic-unlock=false 2k3-commands=false
+[2023-12-24 02:01:41] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-12-24 02:01:41] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-12-24 02:01:41] Debug: Cannot find: Font/Font
+[2023-12-24 02:01:41] Debug: Cannot find: Font/Font2
+[2023-12-24 02:01:42] Debug: Resolution changed to 320x240
+[2023-12-24 02:01:42] Debug: Loaded Map Map0001.lmu
+[2023-12-24 02:01:42] Debug: Tree: MAP0001
+[2023-12-24 02:01:43] Debug: Game uses RTP "Official English"
+[2023-12-24 02:01:47] Debug: libpng: iCCP: known incorrect sRGB profile
+[2023-12-24 02:01:47] Debug: libpng: iCCP: cHRM chunk does not match sRGB
+[2023-12-24 02:02:01] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-12-24 02:02:01] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-12-24 02:02:03] Debug: EasyRPG Player 0.8 (2023-04-29) started
+[2023-12-24 02:02:03] Debug: =======================================
+[2023-12-24 02:02:03] Debug: CLI: 
+[2023-12-24 02:02:03] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2023-12-24 02:02:03] Debug: Seeded the RNG with 1703354523.
+[2023-12-24 02:02:03] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2023-12-24 02:02:03] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2023-12-24 02:02:03] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2023-12-24 02:02:03] Debug: Detected encoding: windows-936-2000
+[2023-12-24 02:02:03] Debug: Game and Save Directory:
+[2023-12-24 02:02:03] Debug: 1: [Native] 
+[2023-12-24 02:02:03] Debug: Loading game EasyRPG Player
+[2023-12-24 02:02:03] Debug: Analyzing RPG_RT RPG_RT.exe
+[2023-12-24 02:02:03] Debug: EXEReader: EXFONT resource found (DE 0xe9f20; 0xeff60; len 0x2168)
+[2023-12-24 02:02:03] Debug: ExFont loaded from RPG_RT
+[2023-12-24 02:02:03] Debug: EXEReader: VERSIONINFO resource found (DE 0xea210; 0xfbea4; len 0x2ec)
+[2023-12-24 02:02:03] Debug: RPG_RT information: version=1.1.2.1 logos=1 i386=true easyrpg=false
+[2023-12-24 02:02:03] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2023-12-24 02:02:03] Debug: Adding D:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2023-12-24 02:02:03] Debug: RTP is "Official English" (675/675)
+[2023-12-24 02:02:03] Debug: RTP path C:\RPG2003\RTP is invalid, not adding
+[2023-12-24 02:02:03] Debug: Patch configuration: dynrpg=false maniac=false key-patch=false common-this=false pic-unlock=false 2k3-commands=false
+[2023-12-24 02:02:03] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-12-24 02:02:03] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-12-24 02:02:03] Debug: Cannot find: Font/Font
+[2023-12-24 02:02:03] Debug: Cannot find: Font/Font2
+[2023-12-24 02:02:04] Debug: Resolution changed to 320x240
+[2023-12-24 02:02:04] Debug: Loaded Map Map0001.lmu
+[2023-12-24 02:02:04] Debug: Tree: MAP0001
+[2023-12-24 02:02:05] Debug: Game uses RTP "Official English"
+[2023-12-24 02:02:13] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-12-24 02:02:13] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-12-24 02:02:15] Debug: EasyRPG Player 0.8 (2023-04-29) started
+[2023-12-24 02:02:15] Debug: =======================================
+[2023-12-24 02:02:15] Debug: CLI: 
+[2023-12-24 02:02:15] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2023-12-24 02:02:15] Debug: Seeded the RNG with 1703354534.
+[2023-12-24 02:02:15] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2023-12-24 02:02:15] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2023-12-24 02:02:15] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2023-12-24 02:02:15] Debug: Detected encoding: windows-936-2000
+[2023-12-24 02:02:15] Debug: Game and Save Directory:
+[2023-12-24 02:02:15] Debug: 1: [Native] 
+[2023-12-24 02:02:15] Debug: Loading game EasyRPG Player
+[2023-12-24 02:02:15] Debug: Analyzing RPG_RT RPG_RT.exe
+[2023-12-24 02:02:15] Debug: EXEReader: EXFONT resource found (DE 0xe9f20; 0xeff60; len 0x2168)
+[2023-12-24 02:02:15] Debug: ExFont loaded from RPG_RT
+[2023-12-24 02:02:15] Debug: EXEReader: VERSIONINFO resource found (DE 0xea210; 0xfbea4; len 0x2ec)
+[2023-12-24 02:02:15] Debug: RPG_RT information: version=1.1.2.1 logos=1 i386=true easyrpg=false
+[2023-12-24 02:02:15] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2023-12-24 02:02:15] Debug: Adding D:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2023-12-24 02:02:15] Debug: RTP is "Official English" (675/675)
+[2023-12-24 02:02:15] Debug: RTP path C:\RPG2003\RTP is invalid, not adding
+[2023-12-24 02:02:15] Debug: Patch configuration: dynrpg=false maniac=false key-patch=false common-this=false pic-unlock=false 2k3-commands=false
+[2023-12-24 02:02:15] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-12-24 02:02:15] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-12-24 02:02:15] Debug: Cannot find: Font/Font
+[2023-12-24 02:02:15] Debug: Cannot find: Font/Font2
+[2023-12-24 02:02:16] Debug: Resolution changed to 320x240
+[2023-12-24 02:02:16] Debug: Loaded Map Map0001.lmu
+[2023-12-24 02:02:16] Debug: Tree: MAP0001
+[2023-12-24 02:02:17] Debug: Game uses RTP "Official English"
+[2023-12-24 02:02:19] Debug: libpng: iCCP: known incorrect sRGB profile
+[2023-12-24 02:02:19] Debug: libpng: iCCP: cHRM chunk does not match sRGB
+[2023-12-24 02:03:58] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-12-24 02:03:58] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
